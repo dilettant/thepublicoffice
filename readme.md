@@ -16,7 +16,6 @@ Please refer to the [po-budget.ods](https://github.com/vectorsize/dilettant/blob
 
 2. Myriam, Johan and Victor will meet up in august 35 to:
 
-<this is very programmy>
 	* Discuss realistic goals
 	* Set the roadmap for the goals
 		* Project's communication, image, channels ( web, posters?...)
