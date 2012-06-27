@@ -3,7 +3,7 @@
 From the website:
 > "Public offices" is a long-term development project that seeks to articulate an idea of open and rent-free work and meeting places. During several project stages, we will explore the concept's possibilities and potential functions in an increasingly mobile labor market, as well as in urban planning and local community development, business development and integration.
 
-## Budgets
+## Budget
 
 Please refer to the [po-budget.ods](https://github.com/vectorsize/dilettant/blob/master/po-budget.ods) (mostly in swedish right now)
 
@@ -18,5 +18,5 @@ Please refer to the [po-budget.ods](https://github.com/vectorsize/dilettant/blob
 	* Discuss realistic goals <coment to test>
 	* Set the roadmap for the goals
 		* Project's communication, image, channels ( web, posters?...)
-		* Distribute tasks and responsabilities
-		* Based on each person's tasks set the schedules and common deadlines
+	* Distribute tasks and responsabilities
+	* Based on each person's tasks set the schedules and common deadlines
