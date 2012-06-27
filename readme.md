@@ -15,9 +15,9 @@ Please refer to the [po-budget.ods](https://github.com/vectorsize/dilettant/blob
 	* Agree on the deadlines/dates after the project is no longer running and possible documentation delivery etc.
 
 2. Myriam, Johan and Victor will meet up in august 35 to:
-
-	* Discuss realistic goals
+	
+	* Discuss realistic goals <coment to test>
 	* Set the roadmap for the goals
 		* Project's communication, image, channels ( web, posters?...)
-	* Distribute tasks and responsabilities
-	* Based on each person's tasks set the schedules and common deadlines
+		* Distribute tasks and responsabilities
+		* Based on each person's tasks set the schedules and common deadlines
