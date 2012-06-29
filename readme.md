@@ -28,7 +28,6 @@ Please refer to the [po-budget.ods](https://github.com/dilettant/public-offices/
 
 We have a new space where the Public Office will take place.
 
-![po-space-1.jpg](https://github.com/dilettant/public-offices/raw/master/po-space-1.jpg)
 ![po-space-2.jpg](https://github.com/dilettant/public-offices/raw/master/po-space-2.jpg)
 ![po-space-3.jpg](https://github.com/dilettant/public-offices/raw/master/po-space-3.jpg)
 
