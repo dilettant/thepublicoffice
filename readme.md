@@ -1,14 +1,11 @@
 # Public offices
-
 From the website:
 > "Public offices" is a long-term development project that seeks to articulate an idea of open and rent-free work and meeting places. During several project stages, we will explore the concept's possibilities and potential functions in an increasingly mobile labor market, as well as in urban planning and local community development, business development and integration.
 
 ## Budget
-
 Please refer to the [po-budget.ods](https://github.com/dilettant/public-offices/blob/master/po-budget.ods) (Swedish)
 
 ## Roadmap
-
 1. Meeting August 3-5
 	* Attending: Myriam, Johan, Victor (maybe Anders)
 	* Decisions about
@@ -30,8 +27,8 @@ We have a new space where the Public Office will take place
 ![po-space-2.jpg](https://github.com/dilettant/public-offices/raw/master/po-space-2.jpg)
 ![po-space-3.jpg](https://github.com/dilettant/public-offices/raw/master/po-space-3.jpg)
 
-## Schedual
-* Proposed dates for the Public Office at the Swedish Museum of Architecture is October 30 till November 30 (five weeks in total)
+## Schedule
+Proposed dates for the Public Office at the Swedish Museum of Architecture is October 30 till November 30 (five weeks in total)
 
 ## Communcation
 Our contact person, regarding communication, at the museum is Maria Östman, responsable for marketing and communication 
@@ -39,7 +36,7 @@ Our contact person, regarding communication, at the museum is Maria Östman, res
 * We should deliver all information in formats that are convenient for the museum
 
 ## Documentation
-* The museum will ask their photographer to come by one day to take photos
+The museum will ask their photographer to come by one day to take photos
 
 ## To-do
 1. Take a final decision on time period that the Public Office will take place at the museum.
