@@ -30,7 +30,6 @@ We have a new space where the Public Office will take place.
 
 ![po-space-2.jpg](https://github.com/dilettant/public-offices/raw/master/files/po-space-2.jpg)
 ![po-space-3.jpg](https://github.com/dilettant/public-offices/raw/master/files/po-space-3.jpg)
-<took away the long one>
 
 ## Schedule
 
