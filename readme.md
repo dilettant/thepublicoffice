@@ -34,10 +34,6 @@ We have a new space where the Public Office will take place.
 ![po-space-2.jpg](https://github.com/dilettant/public-offices/raw/master/files/po-space-2.jpg)
 ![po-space-3.jpg](https://github.com/dilettant/public-offices/raw/master/files/po-space-3.jpg)
 
-[mp3test](https://dl.dropbox.com/u/606131/overture.mp3)
-
-<iframe src="http://player.vimeo.com/video/47077452" width="500" height="375" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen>
-
 ## Schedule
 
 Proposed dates for the Public Office at the Swedish Museum of Architecture is October 30 till November 30 (five weeks in total)
