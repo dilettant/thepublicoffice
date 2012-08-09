@@ -36,7 +36,7 @@ We have a new space where the Public Office will take place.
 
 [mp3test](https://dl.dropbox.com/u/606131/overture.mp3)
 
-<iframe src="http://player.vimeo.com/video/47077452" width="500" height="375" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/47077452">Node Guides - HTTP Request Routing Using Director</a> from <a href="http://vimeo.com/pedroteixeira">Pedro Teixeira</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+<iframe src="http://player.vimeo.com/video/47077452" width="500" height="375" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen>
 
 ## Schedule
 
