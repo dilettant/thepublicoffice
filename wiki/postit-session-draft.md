@@ -1,6 +1,6 @@
 ---
 layout: wiki  
-group: wiki  
+grou: wiki  
 author : anders  
 date: 2012-08-13  
 ---
