@@ -96,3 +96,6 @@ One person from ION (they'll get back to us about who)
 
 Possible participants:
 [Virginie Bobin](v.bobin@leslaboratoires.org)
+
+------
+This document is best viewed in [Prose.io](http://prose.io/#dilettant/public-offices/blob/master/wiki/postit-session-draft.md)  
