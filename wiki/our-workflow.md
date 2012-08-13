@@ -25,6 +25,7 @@ It is essential to indentify our needs in order to get to a more productive inte
 
 This section will mostly be a collection of readings that inspired and guided our workflow troughout the project.
 
+* [Jekyll](https://github.com/mojombo/jekyll/wiki) this is the core technology behind the githib workflow, useful as a reference when not understanding the whys and how.
 * [Eventually consistent](http://prose.io/help/eventually-consistent.html) – by  [Michael Aufreiter](https://github.com/michael) – Almost a manifesto on how to keep documentation alive and open.
 * [Introducing Prose: A Content Editor for GitHub](http://rdd.me/kpglkuwl) – by  [Michael Aufreiter](https://github.com/michael) – As the title says this outlines the use of Prose.io to update github.com hosted projects, like ours.
 * [Using Jekyll and GitHub Pages for Our Site](http://rdd.me/urh4e7ni) – by [Young Hahn](https://github.com/yhahn) – Extensive description on how to use github as a web hosting service
