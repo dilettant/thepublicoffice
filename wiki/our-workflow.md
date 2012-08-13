@@ -10,7 +10,7 @@ In this document I will try to describe our internal workflow, the different too
 
 ## Our needs
 
-It is essential to indentify our needs in order to get to a better internal workflow. This section collects them as we indentify them:
+It is essential to indentify our needs in order to get to a more productive internal workflow. This section collects them as we indentify them:
 
 * A web platform in which we explain what the project is about
 * The abillity to offer some tools/applications related to the project within the same platform
