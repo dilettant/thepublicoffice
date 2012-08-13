@@ -1,8 +1,8 @@
 ---
+date: 2012-08-13  
 author: victor  
 layout: wiki  
 group: wiki  
-date: 2012-08-13  
 ---
 
 ## This document
