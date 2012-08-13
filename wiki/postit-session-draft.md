@@ -1,8 +1,8 @@
 ---
-layout: wiki
-grou: wiki
-author : anders
-date: 2012-08-13
+layout: wiki  
+grou: wiki  
+author : anders  
+date: 2012-08-13  
 ---
 
 ##Project Management
@@ -90,12 +90,12 @@ Travels and accommodations to partners at P.O.M.A.
 Program for the week
 
 Confirmed participants in Stockholm:
-[Eylül Fidan Akinci](e.fakinci@gmail.com) – 12-16 november 
+[Eylül Fidan Akinci](e.fakinci@gmail.com) – 12-16 november  
 [Alice Chauchat](alicechauchat@leslaboratoires.org)
-One person from ION (they'll get back to us about who)
+One person from ION (they'll get back to us about who)  
 
-Possible participants:
-[Virginie Bobin](v.bobin@leslaboratoires.org)
+Possible participants:  
+[Virginie Bobin](v.bobin@leslaboratoires.org)  
 
 ------
 This document is best viewed in [Prose.io](http://prose.io/#dilettant/public-offices/blob/master/wiki/postit-session-draft.md)  
