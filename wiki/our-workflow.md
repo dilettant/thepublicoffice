@@ -1,10 +1,22 @@
 ---
 author: victor
+layout: wiki
+group: wiki
 ---
 
 ## Intention
 
 In this document I will try to describe our internal workflow, the different tools we will need and how to combine them all in order to be able to in one hand publish our reflections and discoveries in the wiki, and in the other hand keep the website updated and all of it using the same platform.
+
+## Our needs
+
+It is essential to indentify our needs in order to get to a better internal workflow. This section collects them as we indentify them:
+
+* A web platform in which we explain what the project is about
+* The abillity to offer some tools/applications related to the project within the same platform
+* The abillity for all of us to keep track of our discoveries, reflections and conclusions along and after the process in some sort of web wiki/blog publishing tool
+* The abillity for anyone ouside the project to collaboraste and make the project more valuable for everyone from the ousdier's point of view.
+* Some basic project management functionality such as to-dos, deadlines, internal communication (voice, mail, txt etc)
 
 ## Useful resources
 
