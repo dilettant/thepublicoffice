@@ -4,7 +4,7 @@ layout: wiki
 group: wiki  
 author: victor  
 date: 2012-08-13  
-prose_link: http://prose.io/#dilettant/public-offices/edit/master/wiki/our-workflow.md
+
 ---
 
 ## This document
