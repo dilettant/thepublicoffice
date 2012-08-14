@@ -1,4 +1,8 @@
-## Assertions
+## Discussion
+
+* We must decide if we would use and how the bloggish behaviour against plain pages
+
+## Assertion
 
 Uses of github in our workflow:
 
