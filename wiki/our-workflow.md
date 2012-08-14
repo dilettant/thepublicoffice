@@ -32,5 +32,5 @@ This section will mostly be a collection of readings that inspired and guided ou
 * [How We Build CMS-Free Websites](http://rdd.me/v8scoivo) – by [Dave Cole](https://github.com/dhcole) – Yet another explanation on how to use github as a web support platform.
 
 ----
-This document is best viewed in [Prose.io](http://prose.io/#dilettant/public-offices/blob/master/wiki/our-workflow.md)  
+This document is best viewed in [Prose.io](http://prose.io/#dilettant/thepublicoffice/blob/master/wiki/our-workflow.md)  
 *With geek intentions, comes geek responsibilities*
