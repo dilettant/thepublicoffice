@@ -6,7 +6,7 @@ Uses of github in our workflow:
 	* To-dos
     * Forum/discussions
 * Milestones in the issues section as milestones/deadlines
-* Project main repository as the web hosting
+* Project's main repository as the web hosting
 * Wiki directory inside the main repository to publish our notes etc (should this be renamed?)
 
 ### Assets
