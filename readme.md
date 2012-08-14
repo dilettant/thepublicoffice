@@ -59,3 +59,6 @@ The museum will ask their photographer to come by one day to take photos
 	* invite a company to do it, eg. a second hand office furniture or similiar
 	* collect what we can find at the museum or similar
 4. Contact Maria Östman regarding marketing strategies and preliminary schedule of the museum
+
+----
+This document is best viewed in [Prose.io](http://prose.io/#dilettant/thepublicoffice/blob/master/readme.md) 
