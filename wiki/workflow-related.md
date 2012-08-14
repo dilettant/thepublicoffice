@@ -6,7 +6,7 @@
 
 Uses of github in our workflow:
 
-* Issues as 
+* Issues as
 	* To-dos
     * Forum/discussions
 * Milestones in the issues section as milestones/deadlines
@@ -18,3 +18,4 @@ Uses of github in our workflow:
 * Linnked files and embedded assets should be hosted in an external dropbox account and linked directly
 	* If the browsers can handel the type of file, leave it as is
     * If the browser cannot handle the file type (i.e. spreadsheets etc)
+* look into some javascript plugin to replace audio and video links with embeds
