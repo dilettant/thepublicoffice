@@ -61,9 +61,19 @@ date: 2012-08-13
 ### Framed subjects:
 
 * Work
-	* What is work?
 	* Contemporary labour markets
-	* Workplaces
+		* The mobile/portable work style
+			* Who is this worker?
+				* Is it a requirement to have engagement, or can this worker be between jobs etc.?
+			* Define this type of work
+				* Where and how does it happen?
+				* Means of communication
+			* Define the workspace
+				* What is the minimum requirements
+				* What would happen with more tools?
+				* Physical, cultural and communication aspects
+				* How can we cultivate and develop the mobile work style?
+			* How does it situate itself in the topography of contemporary labour market?
 * Sustainable development
 	* Local development
 	* Public infrastructure & diversity
