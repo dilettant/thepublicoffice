@@ -60,39 +60,42 @@ date: 2012-08-13
 
 ### Framed subjects:
 
-* Work
-	* Contemporary labour markets
-		* The mobile/portable work style
-			* Who is this worker?
-				* Is it a requirement to have engagement, or can this worker be between jobs etc.?
-			* Define this type of work
-				* Where and how does it happen?
-				* Means of communication
-			* Define the workspace
-				* What is the minimum requirements
-				* What would happen with more tools?
-				* Physical, cultural and communication aspects
-				* How can we cultivate and develop the mobile work style?
-			* How does it situate itself in the topography of contemporary labour market?
-* Sustainable development
-	* Local development
-	* Public infrastructure & diversity
-	* Sharing resources 
-	* Using existing resources
+#### Work
+* Contemporary labour markets
+	* The mobile/portable work style
+		* Who is this worker?
+			* Is it a requirement to have engagement, or can this worker be between jobs etc.?
+		* Define this type of work
+			* Where and how does it happen?
+			* Means of communication
+		* Define the workspace
+			* What is the minimum requirements
+			* What would happen with more tools?
+			* Physical, cultural and communication aspects
+			* How can we cultivate and develop the mobile work style?
+		* How does it situate itself in the topography of contemporary labour market?
+
+#### Sustainable development
+* Public infrastructure
+	* What is the role of public infrastructure in relation to sustainable development?
+		* Local perspective
+			* Sharing resources
+			* Building on existing resources
+	* How to design for diversity?
 	* Open source
-	* Commeons
-	* Public
-	* Publishing discoursive practices (Special Issue, week 3)
-* Political dimensions
-	* Ideology & values
-	* Cooperation
-	* Publicness/commons
-	* Diversity etc.
-	* Political areas
-		* Labour
-		* Business
-		* Culture
-		* Education
+		* Commons
+		* Publishing discoursive practices (Special Issue, week 3)
+
+#### Political dimensions
+* Ideology & values
+* Cooperation
+* Publicness/commons
+* Diversity etc.
+* Political areas
+	* Labour
+	* Business
+	* Culture
+	* Education
 
 ## Future – P.O.3. And Beyond
 
