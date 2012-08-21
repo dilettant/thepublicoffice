@@ -61,28 +61,28 @@ date: 2012-08-13
 ### Framed subjects:
 
 * Work
-* What is work?
-* Contemporary labour markets
-* Workplaces
+	* What is work?
+	* Contemporary labour markets
+	* Workplaces
 * Sustainable development
-* Local development
-* Public infrastructure & diversity
-* Sharing resources 
-* Using existing resources
-* Open source
-* Commeons
-* Public
-* Publishing discoursive practices (Special Issue, week 3)
+	* Local development
+	* Public infrastructure & diversity
+	* Sharing resources 
+	* Using existing resources
+	* Open source
+	* Commeons
+	* Public
+	* Publishing discoursive practices (Special Issue, week 3)
 * Political dimensions
-* Ideology & values
-* Cooperation
-* Publicness/commons
-* Diversity etc.
-* Political areas
-* Labour
-* Business
-* Culture
-* Education
+	* Ideology & values
+	* Cooperation
+	* Publicness/commons
+	* Diversity etc.
+	* Political areas
+		* Labour
+		* Business
+		* Culture
+		* Education
 
 ## Future – P.O.3. And Beyond
 
