@@ -62,56 +62,61 @@ date: 2012-08-13
 
 #### Work
 
-* Define mobile/portable work
-		* Where and how does it happen?
-		* Means of communication
 * What has work turn into nowadays?
+* Define mobile/portable work
+	* Where and how does it happen?
+	* Means of communication
 * Different approaches to the subject
-		*	Personal (what is work to me? As a starting pojnt that would lead us to the following points)
-		* Defining work as argument for POC - VS -  defining what work can happen at PO
-		* Format ( where/when does work begin and end these days? ) see also Contemporary labour markets
-		* Content ( which activities could be considered work? laptopping, painting, dancing etc )
-		* PO is a physical space "containing" work, helps define start and end in terms of time and space
+	* Personal (what is work to me? As a starting pojnt that would lead us to the following points)
+	* Format ( where/when does work begin and end these days? ) see also Contemporary labour markets
+	* Content ( which activities could be considered work? laptopping, painting, dancing etc )
+* Work as argument for POC
+* What work can actually happen at PO
 
 #### Contemporary labour markets
 
 * The mobile/portable work style
 	* Who is this worker?
-		* Is it a requirement to have engagement, or can this worker be between jobs etc.?
+		* Is it a requirement to have engagement
+        * can this worker be between jobs? etc.
 * Statistics (quantitative)
-* how many one person firms?
-* how many without a workplace? 
-* how many in cafés? 
-* how do people use libraries for working?
+	* how many one person firms?
+	* how many without a workplace? 
+	* how many in cafés? 
+	* how do people use libraries for working?
 * Statistics/research (qualitative)
-* how do people feel about todays working conditions?
+	* how do people feel about todays working conditions?
 * Pros for the worker
-* freedom etc
+	* freedom etc
 * Cons for the worker
-* Physical space, time boundaries
+	* Physical space, time boundaries
 * Pros from PO ( how is PO solving the problems described above? )
+	* PO is a physical space "containing" work, helps define start and end in terms of time and space
 * Cons from PO ( how is PO not solving or even producing problems? )
-* Define the workspace
-		* What is the minimum requirements
-		* What would happen with more tools?
-		* Physical, cultural and communication aspects
-		* How can we cultivate and develop the mobile work style?
+
+#### Define the workspace
+
+* Mobile work style
+	* What is the minimum requirements
+	* What would happen with more tools?
+	* Physical, cultural and communication aspects
+	* How can we cultivate and develop the mobile work style?
 	* How does it situate itself in the topography of contemporary labour market?
-	*	What is (or what happens at) a workplace that
-		*	a café isn't/doesn't happen?
-		*	a library isn't/doesn't happen?
-		*	a home ins't/doesn't happen?
-	*	The architecture/design of contemporary/future offices
-		*	e.g. how does new design facilitate what type of knowledge exchange, creativity etc
-		*	trough spaces how can you enhance a certain cooperation/workflow? (spaces for meeting/talking, presenting, working individually, speaking on phone/skype, socializing etc)
+*	What is (or what happens at) a workplace that
+	* a café isn't/doesn't happen?
+	* a library isn't/doesn't happen?
+	* a home ins't/doesn't happen?
+*	The architecture/design of contemporary/future offices
+	* e.g. how does new design facilitate what type of knowledge exchange, creativity etc
+	* trough spaces how can you enhance a certain cooperation/workflow? (spaces for meeting/talking, presenting, working individually, speaking on phone/skype, socializing etc)
 
 #### Sustainable development
 
-*	Local development
-	*	Actual trends and strategies & values in urban planning e.g. regarding public spaces?
-	*	What could a PO potentially produce/provide for a local community?
-	*	How does gentrification work???
-	*	integration of different social groups in a local community?
+* Local development
+	* Actual trends and strategies & values in urban planning e.g. regarding public spaces?
+	* What could a PO potentially produce/provide for a local community?
+	* How does gentrification work???
+	* integration of different social groups in a local community?
 * Public infrastructure
 	* What is the role of public infrastructure in relation to sustainable development?
 		* Local perspective
@@ -119,8 +124,8 @@ date: 2012-08-13
 			* Building on existing resources
 	* How to design for diversity?
 * Open source
-	* Commons
-	* Publishing discoursive practices (Special Issue, week 3)
+* Commons
+* Publishing discoursive practices (Special Issue, week 3)
 
 #### Political dimensions
 * Ideology & values
