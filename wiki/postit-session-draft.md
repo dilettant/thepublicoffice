@@ -96,12 +96,13 @@ Program for the week
 
 Confirmed participants in Stockholm:
 
-* [Eylül Fidan Akinci](e.fakinci@gmail.com) – 12-16 november  
-* [Alice Chauchat](alicechauchat@leslaboratoires.org) 
+* Eylül Fidan Akinci, <e.fakinci@gmail.com> – 12-16 november  
+* Alice Chauchat, <alicechauchat@leslaboratoires.org>
 * One person from ION (they'll get back to us about who)  
 
 Possible participants:  
-[Virginie Bobin](v.bobin@leslaboratoires.org)  
+
+* Virginie Bobin. <v.bobin@leslaboratoires.org>  
 
 ------
 This document is best viewed in [Prose.io](http://prose.io/#dilettant/thepublicoffice/blob/master/wiki/postit-session-draft.md)  
