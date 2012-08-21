@@ -62,7 +62,7 @@ date: 2012-08-13
 
 #### Work
 
-* What has work turn into nowadays?
+* What has work turn into nowadays:
 * Define mobile/portable work
 	* Where and how does it happen?
 	* Means of communication
