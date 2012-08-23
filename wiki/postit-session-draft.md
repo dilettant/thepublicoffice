@@ -16,47 +16,47 @@ date: 2012-08-13
 * Workflow (V & J & M)
 * Reports
 * Documentation
-* Text
-* Photo
+	* Text
+	* Photo
 
 ## Making P.O.C. Public
 
 * Grafic Design (V)
 * Web Platform (V & J)
 * Marketing & press
-* Web
-* Press releases
-* Invite through networks & organizations
-* Maybe video
+	* Web
+	* Press releases
+	* Invite through networks & organizations
+	* Maybe video
 * Processing info (ALL)
 * Translation
 
 ## Making P.O.M.A. Work
 
 * Design P.O.M.A. (J)
-* Space
-* Functions
+	* Space
+	* Functions
 * Fabel workshop (J)
 * Dialogue meetings (M)
 * Events (M)
-* Launch
+	* Launch
+    * Finishing event
+		* Political panel?
 * History of public meeting places
 * Sustainable development
 * Work
-* Finishing event
-* Political panel?
 
 ## Further Develop P.O.C.
 
 * Continuous:
 * Specify a P.O.
-* Ideology
-* Functions
-* Features
-* Identity/profile
-* How and what do we share?
-* Target groups
-* Who is it for?
+	* Ideology
+	* Functions
+	* Features
+	* Identity/profile
+	* How and what do we share?
+	* Target groups
+	* Who is it for?
 
 ### Framed subjects:
 
