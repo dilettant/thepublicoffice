@@ -130,9 +130,9 @@ date: 2012-08-13
 
 #### Political dimensions
 * Ideology & values
-* Cooperation
-* Publicness/commons
-* Diversity etc.
+	* Cooperation
+	* Publicness/commons
+	* Diversity etc.
 * Political areas
 	* Labour
 	* Business
