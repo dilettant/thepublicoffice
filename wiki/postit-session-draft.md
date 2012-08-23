@@ -63,6 +63,7 @@ date: 2012-08-13
 #### Work
 
 *Victor & Anders*
+
 * What is work?
 	* Personal (what is work to me? As a starting pojnt that would lead us to the following points)
 	* Defining work as argument for POC - VS -  defining what work can happen at PO
@@ -94,6 +95,7 @@ date: 2012-08-13
 		* trough spaces how can you enhance a certain cooperation/workflow? (spaces for meeting/talking, presenting, working individually, speaking on phone/skype, socializing etc)
 
 *Myriam & Johan*
+
 * Contemporary labour markets
 	* The mobile/portable work style
 		* Who is this worker?
@@ -111,6 +113,7 @@ date: 2012-08-13
 #### Sustainable development
 
 *Victor & Anders*
+
 * Local development
 	* Actual trends and strategies & values in urban planning e.g. regarding public spaces?
 	* What could a PO potentially produce/provide for a local community?
@@ -118,6 +121,7 @@ date: 2012-08-13
 	* integration of different social groups in a local community?
 
 *Myriam & Johan*
+
 * Public infrastructure
 	* What is the role of public infrastructure in relation to sustainable development?
 		* Local perspective
