@@ -61,6 +61,39 @@ date: 2012-08-13
 ### Framed subjects:
 
 #### Work
+
+*Victor & Anders*
+* What is work?
+	* Personal (what is work to me? As a starting pojnt that would lead us to the following points)
+	* Defining work as argument for POC - VS -  defining what work can happen at PO
+	* Format ( where/when does work begin and end these days? )
+	* Content ( which activities could be considered work? laptopping, painting, dancing etc )
+	* PO is a physical space "containing" work, helps define start and end in terms of time and space
+* Contemporary labour markets (related to format above)
+	* what has work turn into nowadays?
+		* Statistics (quantitative)
+			* how many one person firms?
+			* how many without a workplace?
+			* how many in cafés?
+			* how do people use libraries for working?
+		* Statistics/research (qualitative)
+			* how do people feel about todays working conditions?
+		* Pros for the worker
+			* freedom etc
+		* Cons for the worker
+			* Physical space, time boundaries
+		* Pros from PO ( how is PO solving the problems described above? )
+		* Cons from PO ( how is PO not solving or even producing problems? )
+* Workplaces
+	* What is (or what happens at) a workplace that
+		* a café isn't/doesn't happen?
+		* a library isn't/doesn't happen?
+		* a home ins't/doesn't happen?
+	* The architecture/design of contemporary/future offices
+		* e.g. how does new design facilitate what type of knowledge exchange, creativity etc
+		* trough spaces how can you enhance a certain cooperation/workflow? (spaces for meeting/talking, presenting, working individually, speaking on phone/skype, socializing etc)
+
+*Myriam & Johan*
 * Contemporary labour markets
 	* The mobile/portable work style
 		* Who is this worker?
@@ -76,6 +109,15 @@ date: 2012-08-13
 		* How does it situate itself in the topography of contemporary labour market?
 
 #### Sustainable development
+
+*Victor & Anders*
+* Local development
+	* Actual trends and strategies & values in urban planning e.g. regarding public spaces?
+	* What could a PO potentially produce/provide for a local community?
+	* How does gentrification work???
+	* integration of different social groups in a local community?
+
+*Myriam & Johan*
 * Public infrastructure
 	* What is the role of public infrastructure in relation to sustainable development?
 		* Local perspective
