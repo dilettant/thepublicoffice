@@ -4,9 +4,6 @@ The Public Office" is a long-term development project that seeks to articulate a
 
 Please refer to this [english version of the docs](http://prose.io/#dilettant/thepublicoffice/blob/master/files/PublicOffices.md) for a more extended explanation.
 
-## Budget
-
-Please refer to the [po-budget.ods](https://github.com/dilettant/thepublicoffice/blob/master/po-budget.ods) (Swedish)
 
 ## The Public Office space at the museum
 
