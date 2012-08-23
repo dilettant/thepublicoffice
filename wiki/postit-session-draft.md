@@ -40,11 +40,12 @@ date: 2012-08-13
 * Dialogue meetings (M)
 * Events (M)
 	* Launch
+    	* History of public meeting places
     * Finishing event
 		* Political panel?
-* History of public meeting places
-* Sustainable development
 * Work
+* Sustainable development
+* Political Dimensions
 
 ## Further Develop P.O.C.
 
