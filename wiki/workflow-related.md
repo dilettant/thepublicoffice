@@ -10,7 +10,5 @@
 
 ### Assets
 
-* Linnked files and embedded assets should be hosted in an external dropbox account and linked directly
-	* If the browsers can handel the type of file, leave it as is
-    * If the browser cannot handle the file type (i.e. spreadsheets etc) zip it
+* All the files that we want to be able to display on the website will go inside the github folder, when we don't need to then we keep them in the shared dropbox folder.
 * look into some javascript plugin to replace audio and video links with embed codes
