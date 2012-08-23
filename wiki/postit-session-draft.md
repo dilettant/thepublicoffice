@@ -98,17 +98,17 @@ date: 2012-08-13
 
 * Contemporary labour markets
 	* The mobile/portable work style
-		* Who is this worker?
+		1. Who is this worker?
 			* Is it a requirement to have engagement, or can this worker be between jobs etc.?
-		* Define this type of work
+		2. Define this type of work
 			* Where and how does it happen?
 			* Means of communication
-		* Define the workspace
+		3. Define the workspace
 			* What is the minimum requirements
 			* What would happen with more tools?
 			* Physical, cultural and communication aspects
 			* How can we cultivate and develop the mobile work style?
-		* How does it situate itself in the topography of contemporary labour market?
+		4. How does it situate itself in the topography of contemporary labour market?
 
 #### Sustainable development
 
