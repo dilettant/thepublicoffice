@@ -116,7 +116,7 @@ date: 2012-08-13
 
 * Local development
 	* Actual trends and strategies & values in urban planning e.g. regarding public spaces?
-	* What could a PO potentially produce/provide for a local community?
+	* What could a PO potentially produce/provide for a local community and in urban development?
 	* How does gentrification work???
 	* integration of different social groups in a local community?
 
@@ -133,23 +133,50 @@ date: 2012-08-13
 		* Publishing discoursive practices (Special Issue, week 3)
 
 #### Political dimensions
+*Myriam & Anders*
+
 * Ideology & values
-* Cooperation
-* Publicness/commons
-* Diversity etc.
+	* Cooperation
+	* Publicness/commons
+	* Diversity etc.
+    
 * Political areas
 	* Labour
+    	* the project can challenge the conventional picture of what work is and where it happens, in order to find/instigate more relevant initiatives
+		* further articulate how PO relates to the new labour markets
+		* PO can visualize/show how the individuals and circulating units work and interact
+		* PO as meeting place has the potential to create new connections and jobs, show how energy, time and knowledge is otherwise wasted 
+		* check research + examples of offices/designs/methods to know more about how/what could promote "job creation"
+		* address the entrepreneur
+        
 	* Business
+    	* Look into the concept of co-working (previously bypass: cluster, synergy, incubators, creative working spaces
+ etc) – how is it positive for the development of companies and businesses? 
+	* how can POs facilitate a development in methods and organization within freelance companies? (because people will get exposed to new/other ways of working, tools, knowledges etc)
+		* democratization of business development
+		* remember to frame and narrow these requests according to our ideological interests, there is TONS of bullcrap out there
+        
 	* Culture
+    	* culture/arts as example of expanded/flexible notions of work, freelancers and workplacelessness
+		* OBS opportunistic!!! artists in touch with entrepreneurs + companies in touch with creativity = core of contemporary capitalism
+		* is it interesting to look at which user groups are using the public library – what in the library structure/space makes it used by so many different people?
+        
 	* Education
+		* Learning in a working environment, how does it work? (LIA = Lärande i arbete) 
+		* Research to show how skills are developed in a shared working space/co-working situation
+        
+	* Other proposals of what to frame as a political area:
+		* City/Urban development (probably mostly on a local/regional level)
 
+	* Possible way of addressing politicians and civil servants:
+		* What need to happen for this to end up on the political table?
+    
 ## Future – P.O.3. And Beyond
 
 Strategic guests
 Future collaborators & stakeholders
 
 ## Special Issue
-Trip to Paris 
 Travels and accommodations to partners at P.O.M.A.
 Program for the week
 
