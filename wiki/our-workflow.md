@@ -13,12 +13,12 @@ In this document I will try to describe our internal workflow, the different too
 
 ## Our needs
 
-It is essential to indentify our needs in order to get to a more productive internal workflow. This section collects them as we indentify them:
+It is essential to identify our needs in order to get to a more productive internal workflow. This section collects them as we identify them:
 
 * A web platform in which we explain what the project is about
 * The abillity to offer some tools/applications related to the project within the same platform
 * The abillity for all of us to keep track of our discoveries, reflections and conclusions along and after the process in some sort of web wiki/blog publishing tool
-* The abillity for anyone ouside the project to collaboraste and make the project more valuable for everyone from the ousdier's point of view.
+* The ability for anyone ouside the project to collaborate and make the project more valuable for everyone from the outsdier's point of view.
 * Some basic project management functionality such as to-dos, deadlines, internal communication (voice, mail, txt etc)
 
 ## Useful resources
