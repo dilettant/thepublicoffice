@@ -103,10 +103,11 @@ date: 2012-08-13
 #### Political dimensions
 *Myriam & Anders*
 
-* Ideology & values
+* Ideology & values guiding the PO
 	* Cooperation
 	* Publicness/commons
 	* Diversity etc.
+    * Sharing resources
     
 * Political areas
 	* Labour
