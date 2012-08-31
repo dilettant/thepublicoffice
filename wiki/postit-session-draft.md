@@ -33,6 +33,8 @@ date: 2012-08-13
 
 ## Making P.O.M.A. Work
 
+* Define what work can happen at POMA. 
+* PO is a physical space "containing" work, helps define start and end in terms of time and space
 * Design P.O.M.A. (J)
 * Space
 * Functions
@@ -64,32 +66,6 @@ date: 2012-08-13
 
 *Victor & Anders*
 
-* What is work?
-	* Personal (what is work to me? As a starting pojnt that would lead us to the following points)
-	* Defining work as argument for POC - VS -  defining what work can happen at PO
-	* Format ( where/when does work begin and end these days? )
-	* Content ( which activities could be considered work? laptopping, painting, dancing etc )
-	* PO is a physical space "containing" work, helps define start and end in terms of time and space
-* Contemporary labour markets (related to format above)
-	* what has work turn into nowadays?
-		* Statistics (quantitative)
-			* how many one person firms?
-			* how many without a workplace?
-			* how many in cafés?
-			* how do people use libraries for working?
-		* Statistics/research (qualitative)
-			* how do people feel about todays working conditions?
-		* Pros for the worker
-			* freedom etc
-		* Cons for the worker
-			* Physical space, time boundaries
-		* Pros from PO ( how is PO solving the problems described above? )
-		* Cons from PO ( how is PO not solving or even producing problems? )
-* Workplaces
-	* What is (or what happens at) a workplace that
-		* a café isn't/doesn't happen?
-		* a library isn't/doesn't happen?
-		* a home ins't/doesn't happen?
 	* The architecture/design of contemporary/future offices
 		* e.g. how does new design facilitate what type of knowledge exchange, creativity etc
 		* trough spaces how can you enhance a certain cooperation/workflow? (spaces for meeting/talking, presenting, working individually, speaking on phone/skype, socializing etc)
@@ -105,10 +81,18 @@ date: 2012-08-13
 			* Means of communication
 		3. Define the workspace
 			* What is the minimum requirements
-			* What would happen with more tools?
+				* Working machines/tools
+					* What would happen with more tools?
+				* Design of the physical space and the web presence
+			* How is it different from cafés, libraries, home etc?
 			* Physical, cultural and communication aspects
 			* How can we cultivate and develop the mobile work style?
-		4. How does it situate itself in the topography of contemporary labour market?
+		4. Statistics
+			* Questions
+				* Do you consider that you work in a mobile/portable way?
+				* Are you without a workplace?
+			* Statistics as a sub project (could be pitched to people we meet)
+		5. How does it situate itself in the topography of contemporary labour market?
 
 #### Sustainable development
 
@@ -170,7 +154,10 @@ date: 2012-08-13
 
 	* Possible way of addressing politicians and civil servants:
 		* What need to happen for this to end up on the political table?
-    
+
+#### Questions
+1. Är du arbetsplatslös?
+
 ## Future – P.O.3. And Beyond
 
 Strategic guests
