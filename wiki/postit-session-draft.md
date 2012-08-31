@@ -82,30 +82,22 @@ date: 2012-08-13
 		4. Statistics
 			* Questions
 				* Do you consider that you work in a mobile/portable way?
+                	* If, yes, how is your work portable/mobile?
 				* Are you without a workplace?
 			* Statistics as a sub project (could be pitched to people we meet)
 		5. How does it situate itself in the topography of contemporary labour market?
 
 #### Sustainable development
 
-*Victor & Anders*
-
-* Local development
-	* Actual trends and strategies & values in urban planning e.g. regarding public spaces?
-	* What could a PO potentially produce/provide for a local community and in urban development?
-	* How does gentrification work???
-	* integration of different social groups in a local community?
-
-*Myriam & Johan*
-
 * Public infrastructure
-	* What is the role of public infrastructure in relation to sustainable development?
-		* Local perspective
-			* Sharing resources
-			* Building on existing resources
-	* How to design for diversity?
-	* Open source
-		* Commons
+	1. What is the role of public infrastructure in relation to sustainable development? How could PO as a public space fit in to strategies in this area and what values would it correspond?
+		* Local perspective: What could a PO potentially produce/provide for a local community and in urban development?
+        	* Risks/aspects of PO playing into a gentrification process?
+			* Sharing resources and building on existing resources
+	2. How to design for diversity?
+    	* in terms of social groups
+	3. Open source
+		* Commons (define commons)
 		* Publishing discoursive practices (Special Issue, week 3)
 
 #### Political dimensions
