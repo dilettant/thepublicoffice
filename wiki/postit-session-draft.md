@@ -90,15 +90,15 @@ date: 2012-08-13
 #### Sustainable development
 
 * Public infrastructure
-	1. What is the role of public infrastructure in relation to sustainable development? How could PO as a public space fit in to strategies in this area and what values would it correspond?
-		* Local perspective: What could a PO potentially produce/provide for a local community and in urban development?
-        	* Risks/aspects of PO playing into a gentrification process?
-			* Sharing resources and building on existing resources
-	2. How to design for diversity?
-    	* in terms of social groups
-	3. Open source
-		* Commons (define commons)
-		* Publishing discoursive practices (Special Issue, week 3)
+		1. What is the role of public infrastructure in relation to sustainable development? How could PO as a public space fit in to strategies in this area and what values would it correspond? 
+			* Local perspective: What could a PO potentially produce/provide for a local community and in urban development?
+        		* Risks/aspects of PO playing into a gentrification process?
+				* Sharing resources and building on existing resources
+		2. How to design for diversity?
+    		* in terms of social groups
+		3. Open source
+			* Commons (define commons)
+			* Publishing discoursive practices (Special Issue, week 3)
 
 #### Political dimensions
 *Myriam & Anders*
