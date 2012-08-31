@@ -64,14 +64,6 @@ date: 2012-08-13
 
 #### Work
 
-*Victor & Anders*
-
-	* The architecture/design of contemporary/future offices
-		* e.g. how does new design facilitate what type of knowledge exchange, creativity etc
-		* trough spaces how can you enhance a certain cooperation/workflow? (spaces for meeting/talking, presenting, working individually, speaking on phone/skype, socializing etc)
-
-*Myriam & Johan*
-
 * Contemporary labour markets
 	* The mobile/portable work style
 		1. Who is this worker?
@@ -83,10 +75,10 @@ date: 2012-08-13
 			* What is the minimum requirements
 				* Working machines/tools
 					* What would happen with more tools?
-				* Design of the physical space and the web presence
+				* Design of the physical space and the web
 			* How is it different from cafés, libraries, home etc?
 			* Physical, cultural and communication aspects
-			* How can we cultivate and develop the mobile work style?
+			* How can we cultivate and develop the mobile work style? How can we trough the PO facilitate a certain cooperation/workflow, knowledge exchange?
 		4. Statistics
 			* Questions
 				* Do you consider that you work in a mobile/portable way?
