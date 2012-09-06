@@ -35,4 +35,27 @@
     
 ### Travels and accommodations to partners at P.O.M.A.
 
+* Budget frame
+	* how much for travels?
+    * how much for accomodation?
+    	* How many nights does the project cover?
+    * how much (if any) per diems?
+    
+* Accomodation Suggestion: Hostel af Chapman, since based on Skeppsholmen.
+	* Check if participants are ok to share double rooms 
+
+* Travel details
+	* double check dates
+    * dep + arr times + places
+
+
 ### Program for the week
+
+* Intro/info material before arrival..?
+
+* Day 1: Intro session
+* Day 2:
+* Day 3:
+* Day 4: Closing session
+
+
