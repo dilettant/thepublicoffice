@@ -1,3 +1,5 @@
+.clear{clear:both;}
+
 body {
   font: normal normal 400 100%/1.5em georgia,serif;
   -webkit-font-smoothing: antialiased;
