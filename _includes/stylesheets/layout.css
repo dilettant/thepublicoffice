@@ -1,6 +1,9 @@
 body {
   font: normal normal 400 100%/1.5em georgia,serif;
-}
+  -webkit-font-smoothing: antialiased;
+  height: 100%;
+  line-height: 1.5em;
+ }
 
 nav{
   background-color: #e9e9e9;
