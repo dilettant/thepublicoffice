@@ -12,4 +12,5 @@
   </ul>
 {% endfor %}
 {% assign doc_list = null %}
+<div class="clear"></div>
 </div>
