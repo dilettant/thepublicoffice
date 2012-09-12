@@ -33,7 +33,8 @@ nav.back{
 }
 
 div.content {
-  margin: 90px auto;
+  margin: 90px auto 0;
+  padding-bottom: 90px;
   width: 700px;
 }
 
