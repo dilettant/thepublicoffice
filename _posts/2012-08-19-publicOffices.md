@@ -1,4 +1,11 @@
-# Public offices
+---
+title: The Public Office
+layout: document  
+category: documents  
+author: anders
+---
+
+# The Public Office
 ##a vision of open and rent-free work and meeting places  
 Report, project part one
 
