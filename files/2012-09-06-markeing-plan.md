@@ -23,6 +23,7 @@ Special focus journalists (call):
 * Flyers
 * Signs for the Museum
 
+
 *Places for distribution:*
 
 * Café LouieLouie...
