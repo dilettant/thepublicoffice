@@ -1,9 +1,13 @@
 ---
-layout: document
-category : documents
+
+title: Public Office – project overview  
+layout: document  
+category : documents  
 author : anders  
-title: "Public Office Project Overview"
+
 ---
+
+# Public Office – project overview
 
 ## Project Management
 

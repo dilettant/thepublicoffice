@@ -1,8 +1,10 @@
 ---
-title: Workflow related notes
+
+title: Workflow related notes  
 layout: document  
 category: documents  
 author: victor
+
 ---
 
 ## Assertions

@@ -1,8 +1,10 @@
 ---
-title: Workflow proposal
+
+title: Workflow proposal  
 layout: document  
 category: documents  
 author: victor  
+
 ---
 
 ## This document

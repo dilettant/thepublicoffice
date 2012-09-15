@@ -1,8 +1,10 @@
 ---
-title: Skype Conversation 20120821
+
+title: Skype Conversation 20120821  
 layout: document  
 category: documents  
 author: anders
+
 ---
 
 # POMA Skype 20120821
