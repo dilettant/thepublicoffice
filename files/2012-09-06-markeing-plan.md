@@ -10,7 +10,7 @@
 
 ### Webb
 * www.allmannakontoret.se & www.thepublicoffice.se (samma sida)
-* Facebook event (från Dilettants Page)
+* Facebook event (från Dilettants Sida)
 * Twitter #thepublicoffice och/eller #allmannakontoret
 
 ### Trycksaker
