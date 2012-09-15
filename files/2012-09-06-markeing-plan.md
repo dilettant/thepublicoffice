@@ -14,7 +14,7 @@
 * Twitter #thepublicoffice och/eller #allmannakontoret
 
 ### Trycksaker
-* Affischer 
+* Affischer (till caféer, bibliotek, co-workingplatser, högskolor etc)
 * Infoblad för museet och andra strategiska platser
 
 ### Textmaterial
