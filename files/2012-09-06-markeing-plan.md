@@ -49,7 +49,7 @@ We are also making posters for the POMA, is it possible for the museum to to pri
 How does POMA integrate in the museum environment? We would like to place indication signs in connection to the signs already placed in the museum - fixed as well as mobile ones - so as to become an integrated part of the museum and its visitors flow.
 We'd like to suggest that for the fixed orientation signs (as above the reception desk)as well as the signs applied on the windows (i.e. the Bibliotek sign on the Café Blom window) the museum follows the museum formats and design and that the mobile ones correspond to the Publics office own poster.
 
-We think that it would be most useful to meet with head of communications Monica, walk through the museum and discuss the possiblities.
+We think that it would be most useful to meet with head of communications Maria Östman, walk through the museum and discuss the possiblities.
 
 
 
