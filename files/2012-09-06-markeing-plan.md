@@ -19,10 +19,12 @@ Special focus journalists (call):
 * Kulturnyheterna
 
 ### Printing stuff
-* Posters
-* Flyers
+* Printing house: Posters 
+* Home print: Info leaflet for museum and other places
 * Signs for the Museum
-
+* Check with museum 
+	* if they can print or have a good print deal we can use
+    * Signs:how do we integrate? 
 
 *Places for distribution:*
 
