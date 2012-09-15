@@ -18,7 +18,7 @@
 * Infoblad för museet och andra strategiska platser
 
 ### Övrig kommunikation
-Dilettant kommer att informera – främst via epost och telefon – olika nätverk av frilansare och andra aktörer som är relevanta för att använda det Allmänna kontoret.
+Dilettant kommer att informera – främst via epost och telefon – olika nätverk av frilansare och andra aktörer som är relevanta som användare av det Allmänna kontoret.
 
 ### Textmaterial
 Dilettant kommer att tillhandahålla textmaterial till museet till överenskomna datum. 
