@@ -48,10 +48,16 @@ Guest apartment in Tanto (via AJ), staying with husband and child.
 * Accomodation Suggestion: Hostel af Chapman, since based on Skeppsholmen.
 	* Check if participants are ok to share double rooms 
     * Check out the rooms
+    * Check if the Hostel accept infants (for Aranxja)
 
 * Travel details
 	* double check dates
     * dep + arr times + places
+
+
+### Paris trip
+* PO presentation: who does it? Who says what?
+* Suggestions for SI@POMA: 
 
 
 ### Program for the week
