@@ -21,7 +21,8 @@ Please feel free to edit and change and add - this is just a first brainstorm t
 * Home print: Info leaflet for museum and other places
 * Signs for the Museum
 
-
+### Text material
+Dilettant will provide text material for the museum
 
 ## Arkitekturmuseet (proposal)
 
@@ -38,13 +39,17 @@ Please feel free to edit and change and add - this is just a first brainstorm t
 * Twitter
 
 
-
 ## Questions to Museum
 
+### Prints and informaterial
 We would like to print a simple information leaflet to have at the museum, is this something we can print out at the museum?
 We are also making posters for the POMA, is it possible for the museum to to print them or does the museum have a deal with a printing house w ecan use? 
 
-Signs:how do we integrate? 
+### Signs
+How does POMA integrate in the museum environment? We would like to place indication signs in connection to the signs already placed in the museum - fixed as well as mobile ones - so as to become an integrated part of the museum and its visitors flow.
+We'd like to suggest that for the fixed orientation signs the museum follows the museum format
+
+We think that it would be most useful to meet with head of communications Monica, walk through the museum and discuss the possiblities.
 
 
 
