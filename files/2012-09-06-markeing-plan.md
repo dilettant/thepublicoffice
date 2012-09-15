@@ -3,7 +3,7 @@
 ## Dilettant
 
 ### Pressmeddelanden (ungefärliga datum)
-* Offentligt öppningsevent om Allmänningar + AK startar – 1okt 
+* Offentligt öppningsevent om Allmänningar + Allmänna kontoret (AK) startar – 1okt 
 * Påminnelse öppningsevent om Allmänningar + AK startar – Oct 23
 * AK pågår + Special Issue (EU-projektet) – Nov 7
 * Avslutande offentligt event – Nov 20
