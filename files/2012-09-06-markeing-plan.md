@@ -5,7 +5,7 @@
 ### Pressmeddelanden (ungefärliga datum för utskick)
 * Offentligt öppningsevent om Allmänningar + Allmänna kontoret (AK) startar – 1okt 
 * Påminnelse öppningsevent om Allmänningar + AK startar – Oct 23
-* AK pågår + Special Issue (EU-projektet) – Nov 7
+* AK pågår + Special Issue (EU-projektet som Allmänna kontoret är en del av. Partners från Serbien, Frankrike och Spanien närvarar 13-17 november) – Nov 7
 * Avslutande offentligt event – Nov 20
 
 ### Webb
