@@ -1,7 +1,56 @@
 # Marketing Plan
-Please feel free to edit and change and add - this is just a first brainstorm to get started! Eventually consistent... This will have to be reduced in prder to become a marketing plan document, but I wanted to rwite examples and a bit ToDo in order for us to distinguish what is what.
+
+## Dilettant
+
+### Pressmeddelanden (ungefärliga datum)
+* Offentligt öppningsevent om Allmänningar + AK startar – 1okt 
+* Påminnelse öppningsevent om Allmänningar + AK startar – Oct 23
+* AK pågår + Special Issue (EU-projektet) – Nov 7
+* Avslutande offentligt event – Nov 20
+
+### Webb
+* www.allmannakontoret.se & www.thepublicoffice.se (samma sida)
+* Facebook event (från Dilettants Page)
+* Twitter #thepublicoffice och/eller #allmannakontoret
+
+### Trycksaker
+* Posters 
+* Infoblad för museet och andra strategiska platser
+
+### Textmaterial
+Dilettant kommer att tillhandahålla textmaterial till museet till överenskomna datum. 
+
+## Arkitekturmuseet (förslag)
+
+### Pressmeddelanden
+* Öppningsevent om Allmänningar + AK startar
+* Påminnelse öppningsevent om Allmänningar + AK startar
+* AK pågår + Special Issue (EU-projektet)
+* Avslutande offentligt event 
+
+### Webb
+* www.arkitekturmuseet.se & www.hallbarstad.se
+* Nyhetsbrev
+* Facebook page: dela Dilettants AK-event + kommunicera AK under projektperioden
+* Twitter
+
+## Frågor till Arkitekturmuseet
+
+### Trycksaker och informationsmaterial
+Vi vill skriva ut ett enkelt informationsblad för att placera ut på museet, är det något som vi kan skriva ut på museet? Vi kommer även att göra affischer, är det möjligt för museet att skriva ut/trycka dem eller har museet ett avtal med ett tryckeri som vi kan använda oss av?
+
+### Skyltar
+Hur integrerar vi Allmänna kontoret på bästa sätt i museemiljön? Vi skulle vilja sätta hänvisningsskyltar i samband med de fasta skyltar som redan finns i museet – samt mobila skyltar – så att det blir en integrerad del av museet och dess besökarflöde.
+
+Vi föreslår att vi för fasta orienteringsskyltar i museet (t.ex. över informationsdisken) likväl som skyltar som sitter på fönster (t.ex. vid Biblioteks-skylten på Café Bloms fönster) följer Arkitekturmuseets format och design, och att de mobila kan motsvara designen på Allmänna kontoret egen affisch.
+
+Vi tror att det skulle vara bra att träffa Maria Östman för att tillsammans gå igenom museet och diskutera olika möjligheter.
+
+## Övrigt
+Namnbytet från Hybris Konstproduktion AB till Dilettant AB går enligt planerna, och vi förväntar oss att ändringen ska vara på plats den 1 oktober, vilket är samma dag som vi planerar att publicera webbplatserna för både Dilettant och Allmänna kontoret.
 
 ---------
+*English*
 
 ## Dilettant
 
@@ -51,8 +100,10 @@ We'd like to suggest that for the fixed orientation signs (as above the receptio
 
 We think that it would be most useful to meet with head of communications Maria Östman, walk through the museum and discuss the possiblities.
 
+## Other notes
+The name change of Hybris Konstproduktion AB to Dilettant AB is going according to plans, and we expect the change to be in place by October 1, which is the same date we plan to publish both the Dilettant and The Public Office websites.
 
-
+-------------
 
 # Notes to Dilettant
 
