@@ -1,8 +1,10 @@
 ---
-title: Special Issue
+
+title: Special Issue  
 layout: document  
 category: documents  
 author: myriam
+
 ---
 
 

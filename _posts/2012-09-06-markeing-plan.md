@@ -1,8 +1,10 @@
 ---
-title: Marketing Plan
+
+title: Marketing Plan  
 layout: document  
 category: documents  
 author: anders
+
 ---
 
 # Marknadsföringsplan

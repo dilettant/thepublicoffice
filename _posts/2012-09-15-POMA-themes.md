@@ -1,8 +1,10 @@
 ---
-title: POMA-themes
+
+title: POMA-themes  
 layout: document  
-category: documents  
+category: documents   
 author: anders
+
 ---
 
 #Background

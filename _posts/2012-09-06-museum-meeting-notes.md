@@ -1,8 +1,10 @@
 ---
-title: Meeting with Arkitekturmuseet
+
+title: Meeting with Arkitekturmuseet  
 layout: document  
 category: documents  
 author: anders
+
 ---
 
 # Meeting with Arkitekturmuseet 6 Sept.
