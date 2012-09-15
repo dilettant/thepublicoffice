@@ -22,7 +22,7 @@ Please feel free to edit and change and add - this is just a first brainstorm t
 * Signs for the Museum
 
 ### Text material
-Dilettant will provide text material for the museum
+Dilettant will provide the necsesary text material for the museum on agreed dates.
 
 ## Arkitekturmuseet (proposal)
 
