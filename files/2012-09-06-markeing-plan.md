@@ -17,6 +17,9 @@
 * Affischer (till caféer, bibliotek, co-workingplatser, högskolor etc)
 * Infoblad för museet och andra strategiska platser
 
+### Övrig kommunikation
+Dilettant kommer att informera – främst via epost och telefon – olika nätverk av frilansare och andra relevanta aktörer som kan komma för att använda det Allmänna kontoret.
+
 ### Textmaterial
 Dilettant kommer att tillhandahålla textmaterial till museet till överenskomna datum. 
 
@@ -30,7 +33,7 @@ Dilettant kommer att tillhandahålla textmaterial till museet till överenskomna
 
 ### Webb
 * www.arkitekturmuseet.se & www.hallbarstad.se
-* Nyhetsbrev
+* Nyhetsbrev och eventuella utskick till relevanta kanaler/nätverk
 * Facebook page: dela Dilettants AK-event + kommunicera AK under projektperioden
 * Twitter
 
