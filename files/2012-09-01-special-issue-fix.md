@@ -61,6 +61,9 @@ Guest apartment in Tanto (via AJ), staying with husband and child.
     * dep + arr times + places
     * inform that per diem can only be payed if invoiced 
 
+### Important Info to everyone
+
+*
 
 ### Paris trip
 * PO presentation: who does it? Who says what?
