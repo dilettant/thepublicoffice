@@ -23,6 +23,13 @@ Dilettant kommer att informera – främst via epost och telefon – olika nätv
 ### Textmaterial
 Dilettant kommer att tillhandahålla textmaterial till museet till överenskomna datum. 
 
+### Logotyper och credits
+I marknadsföringsmaterial kommer Dilettant att använda logotyper för de instanser som stödjer projektet ekonomiskt: EU, Kulturbryggan, Arkitekturmuseet och Stockholms Stad (se exempel på http://hybriskonst.org/allmanna-kontoret )
+
+Övriga credits kommer att skrivas enligt följande:
+
+Allmänna kontorets första delmoment genomfördes med ekonomiskt stöd av Kulturbryggan. Projektets andra delmoment sker i samarbete med Arkitekturmuseet, EU-projektet Special Issue och Fabel Kommunikation AB, med ekonomiskt stöd av Europeiska Unionens kulturprogram, Kulturbryggan, Arkitekturmuseet och Stockholms Stads Kulturförvaltning.
+
 ## Arkitekturmuseet (förslag)
 
 ### Pressmeddelanden
