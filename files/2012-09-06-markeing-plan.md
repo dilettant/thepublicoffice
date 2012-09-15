@@ -1,14 +1,55 @@
 # Marketing Plan
 Please feel free to edit and change and add - this is just a first brainstorm to get started! Eventually consistent... This will have to be reduced in prder to become a marketing plan document, but I wanted to rwite examples and a bit ToDo in order for us to distinguish what is what.
 
+---------
 
 ## Dilettant
 
-### Press releases
-* Dilettant AB name change – late September
-* Release of POMA website + invitation to opening event – Oct 1st
+### Press releases (approximate dates)
+* Release of POMA website + opening event – Oct 1
 * Reminder POMA opening + opening event – Oct 23
-* Maybe: POMA in process + Special Issue – ?
+* POMA in process + Special Issue – Nov 7
+* Closing event – Nov 20
+
+### Web
+* www.allmannakontoret.se & www.thepublicoffice.se (same page)
+* Facebook event (hosted by Dilettant)
+* Twitter #thepublicoffice
+
+### Printing stuff
+* Printing house: Posters 
+* Home print: Info leaflet for museum and other places
+* Signs for the Museum
+
+
+
+## Arkitekturmuseet (proposal)
+
+### Press releases
+* Opening event on commons + project start
+* Reminder Opening event on commons + project start
+* POMA in process + Special Issue presence
+* Closing public event
+
+### Web
+* www.arkitekturmuseet.se + www.hallbarstad.se
+* Newsletter
+* Facebook page: share Dilettants Public Office event + communicate POMA activities during the project period.
+* Twitter
+
+
+
+## Questions to Museum
+
+We would like to print a simple information leaflet to have at the museum, is this something we can print out at the museum?
+We are also making posters for the POMA, is it possible for the museum to to print them or does the museum have a deal with a printing house w ecan use? 
+
+Signs:how do we integrate? 
+
+
+
+
+# Notes to Dilettant
 
 Special focus journalists (call):
 
@@ -17,15 +58,6 @@ Special focus journalists (call):
 * DN: Calle Pauli (is he still around?)
 
 * Kulturnyheterna
-
-### Printing stuff
-* Printing house: Posters 
-* Home print: Info leaflet for museum and other places
-* Signs for the Museum
-* Check with museum 
-	* if they can print or have a good print deal we can use
-    * Signs:how do we integrate? 
-
 *Places for distribution:*
 
 * Café LouieLouie...
