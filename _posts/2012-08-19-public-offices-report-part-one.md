@@ -1,8 +1,10 @@
 ---
+
 title: The Public Office – report part one  
 layout: document  
 category: documents  
-author: anders  
+author: anders
+
 ---
 
 # The Public Office
