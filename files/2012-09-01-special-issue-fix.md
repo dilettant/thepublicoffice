@@ -6,7 +6,7 @@
 * Eylül Fidan Akinci
 	* can come 12-16 November 
 	* e.fakinci@gmail.com
-	* should be followed up and informed that the dates are now 13-17 November
+	* Myriam contacts re flights and confirm dates. 
 
 * Alice Chauchat 
 	* alicechauchat@leslaboratoires.org
@@ -49,15 +49,20 @@ Guest apartment in Tanto (via AJ), staying with husband and child.
 	* Check if participants are ok to share double rooms 
     * Check out the rooms
     * Check if the Hostel accept infants (for Aranxja)
+    * Check breakfast costs
+    * Book breakfast for those who want contra a 15% reduction on per diem
 
 * Travel details
 	* double check dates
     * dep + arr times + places
+    * inform that per diem can only be payed if invoiced 
 
 
 ### Paris trip
 * PO presentation: who does it? Who says what?
 * Suggestions for SI@POMA: 
+* Logistics and budget: Alice & Virginie
+* 
 
 
 ### Program for the week
