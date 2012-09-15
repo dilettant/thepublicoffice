@@ -12,20 +12,23 @@
 	* alicechauchat@leslaboratoires.org
 	* will probably travel on the budget of Les Labo, needs to be checked
 
-* Nilo Gallego
 
-* Nilo/Arantxa Martinez
+* Nilo Martinez
+* Arantxa Martinez
 	* nilogallego@gmail.com
 	* araparis@yahoo.com.mx
 	* Nilo and Arantxa will come together. As Arantxa had a child just a few days ago, they will be back with an answer about how to organize the trip in mid- or end of September
 
-* Blanca + Ion from Mugatxoan 
-
+* Blanca from Mugatxoan
+* Ion from Mugatxoan 
+	* we cover Blanca's costs
+    * they will find solution for Ion.
+    
 * Marijana Cvetcovic 12-17(18)
 marijana.cvetkovic@gmail.com
-Gästlägenhet/Guest apartment in Tanto (via AJ), staying with husband and child.
-400 kr/night
-NB: reimbursment to AJ's parents! 
+Guest apartment in Tanto (via AJ), staying with husband and child.
+400 kr/night= 2000 kr (2400)
+*NB: reimbursment to AJ's parents!*  
 
 
 *Possible participants:*
@@ -41,7 +44,6 @@ NB: reimbursment to AJ's parents!
 	* how much for travels? 1400 kr/night/person
     * how much for accomodation? 1000 kr/night/person
     	* How many nights does the project cover? 5
-   
     
 * Accomodation Suggestion: Hostel af Chapman, since based on Skeppsholmen.
 	* Check if participants are ok to share double rooms 
