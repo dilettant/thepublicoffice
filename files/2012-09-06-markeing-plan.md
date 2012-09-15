@@ -40,9 +40,9 @@ Dilettant kommer att tillhandahålla textmaterial till museet till överenskomna
 Vi vill skriva ut ett enkelt informationsblad för att placera ut på museet, är det något som vi kan skriva ut på museet? Vi kommer även att göra affischer, är det möjligt för museet att skriva ut/trycka dem eller har museet ett avtal med ett tryckeri som vi kan använda oss av?
 
 ### Skyltar
-Hur integrerar vi Allmänna kontoret på bästa sätt i museemiljön? Vi skulle vilja sätta hänvisningsskyltar i samband med de fasta skyltar som redan finns i museet – samt mobila skyltar – så att AK blir en integrerad del av museet och dess besökarflöde.
+Hur integrerar vi Allmänna kontoret på bästa sätt i museemiljön? Vi skulle vilja sätta hänvisningsskyltar i samband med de fasta skyltar som redan finns i museet – samt mobila skyltar – så att AK i så stor utsträckning som möjligt blir en integrerad del av museet och dess besökarflöde.
 
-Vi föreslår att vi för fasta orienteringsskyltar i museet (t.ex. över informationsdisken) likväl som skyltar som sitter på fönster (t.ex. vid Biblioteks-skylten på Café Bloms fönster) följer Arkitekturmuseets format och design, och att de mobila kan motsvara designen på Allmänna kontoret egen affisch.
+Om det är möjligt, föreslår vi att vi för fasta orienteringsskyltar i museet (t.ex. över informationsdisken) likväl som skyltar som sitter på fönster (t.ex. vid Biblioteks-skylten på Café Bloms fönster) följer Arkitekturmuseets format och design, och att de mobila kan motsvara designen på Allmänna kontoret egen affisch.
 
 Vi tror att det skulle vara bra att träffa Maria Östman för att tillsammans gå igenom museet och diskutera olika möjligheter.
 
