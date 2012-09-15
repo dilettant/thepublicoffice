@@ -34,7 +34,13 @@ Dilettant kommer att tillhandahålla textmaterial till museet till överenskomna
 * Facebook page: dela Dilettants AK-event + kommunicera AK under projektperioden
 * Twitter
 
-## Frågor till Arkitekturmuseet
+### Trycksaker och informationsmaterial
+Se frågor i mejl.
+
+### Skyltar
+Se frågor i mejl.
+
+## Frågor till Arkitekturmuseet (i mejl)
 
 ### Trycksaker och informationsmaterial
 Vi vill skriva ut ett enkelt informationsblad för att placera ut på museet, är det något som vi kan skriva ut på museet? Vi kommer även att göra affischer, är det möjligt för museet att skriva ut/trycka dem eller har museet ett avtal med ett tryckeri som vi kan använda oss av?
