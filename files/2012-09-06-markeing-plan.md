@@ -1,4 +1,4 @@
-# Marketing Plan
+# Marknadsföringsplan
 
 ## Dilettant
 
