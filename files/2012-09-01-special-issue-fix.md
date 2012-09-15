@@ -21,8 +21,9 @@
 
 * Blanca from Mugatxoan
 * Ion from Mugatxoan 
-	* we cover Blanca's costs
-    * they will find solution for Ion.
+	* we cover Blanca's costs (travel,accomodation, per diem)
+   	* we cover the accomodation for Ion too
+    * tips about cheap flihhts from Bilbao.
     
 * Marijana Cvetcovic 12-17(18)
 marijana.cvetkovic@gmail.com
