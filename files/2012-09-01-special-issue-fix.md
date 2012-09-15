@@ -44,6 +44,8 @@ Guest apartment in Tanto (via AJ), staying with husband and child.
 	* how much for travels? 1400 kr/night/person
     * how much for accomodation? 1000 kr/night/person
     	* How many nights does the project cover? 5
+    * Per diems à 300/day/pers (max 5 days) needs to be invoiced
+		* Blanca, Marjana, Eylül, Nilo, Aranxa, Virginie?
     
 * Accomodation Suggestion: Hostel af Chapman, since based on Skeppsholmen.
 	* Check if participants are ok to share double rooms 
@@ -51,6 +53,7 @@ Guest apartment in Tanto (via AJ), staying with husband and child.
     * Check if the Hostel accept infants (for Aranxja)
     * Check breakfast costs
     * Book breakfast for those who want contra a 15% reduction on per diem
+	* Check invoicing possibilites
 
 * Travel details
 	* double check dates
