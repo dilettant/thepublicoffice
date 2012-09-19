@@ -7,7 +7,6 @@ author: myriam
 
 ---
 
-
 # Special Issue
 
 ### Confirmed participants in Stockholm:
@@ -77,7 +76,10 @@ Guest apartment in Tanto (via AJ), staying with husband and child.
 ### Paris trip
 * PO presentation: who does it? Who says what?
 * Logistics and budget: Alice & Virginie
-* Suggestions for SI@POMA: We invite you to come and to be part of the PO, as users. It is what each specific partner finds interesting in the project and their understaning of it that is the starting point focus for dialogue. Sharing is a way of publishing discourse, PO is clearly setting a discourse, how is it producing this discourse. What is this discourse, How do you interpret it.
+* Suggestions for SI@POMA: 
+	* We invite you to come and to be part of the PO, as users. 
+	* It is what each specific partner finds interesting in the project and their understaning of it that is the starting point focus for dialogue. 
+    * Sharing is a way of publishing discourse, Public space publishes discourse - PO is clearly setting a discourse, how is it producing this discourse. What is this discourse, How do you interpret it.
 
 
 ### Program for the week
