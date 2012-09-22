@@ -27,8 +27,9 @@ Dilettant AB is responsible for organizing the dialogue meetings, invite guests,
 
 * Contemporary labour markets
 	* The mobile/portable work style
-		1. Who is this worker?
+		1. Who is this worker?  
 			* Is it a requirement to have engagement, or can this worker be between jobs etc.?
+            * Exapanding the notion of work into a modern context where "wage labour is diminishing but work is increasing" 
 		2. Define this type of work
 			* Where and how does it happen?
 			* Means of communication
@@ -56,6 +57,7 @@ Dilettant AB is responsible for organizing the dialogue meetings, invite guests,
 
 * Public infrastructure
 	* What is the role of public infrastructure in relation to sustainable development? How could PO as a public space fit in to strategies in this area and what values would it correspond? 
+    * Democratisation of infrastructure of work:
 		1. Local perspective: What could a PO potentially produce/provide for a local community and in urban development?
         	* Risks/aspects of PO playing into a gentrification process?
 			* Sharing resources and building on existing resources
@@ -106,9 +108,51 @@ Dilettant AB is responsible for organizing the dialogue meetings, invite guests,
 		* What need to happen for this to end up on the political table?
 
 #### Questions
-1. Är du arbetsplatslös
+    
+ * In the democratisation of work, i.e the freedom to to a larger extent chose work, form of work and who you want to work with, is the PO then a logic contiuition - ie the democratisation of work place as in communaly owned, taking place in a public place- of that process? 
+
+* Democratisation of infrastructure of work:
+
 
 
 #### Potential dialogue partners
  * Individuals
  * Groups
+Week 1 
+Who and what is the work?
+* Gilles Saussier, photographer and artists: visualisation of work and invisible workers
+* Lisa Rosendahl, jaspis: artistic labour, immaterial labour in global capitalism
+* Kaliber, SR: "De osäkert anställda" http://sverigesradio.se/sida/gruppsida.aspx?programid=1316&grupp=16969
+*xxx = en som är positivt inställd till flexibiliteten* 
+* Roland Paulsen, phd sociology, Uppsala Uni:"Arbetssamhället"
+http://katalog.uu.se/empInfo/?id=N7-57
+http://www.adlibris.com/se/searchresult.aspx?search=advanced&author=Roland%20Paulsen&fromproduct=true
+
+*Q to Magnus: 
+ * suggestions for research that's been made relating to Work -Where and how does it happen? (ie work in social environments) 
+ * Democratisation of infrastructure of work
+ 
+ 
+
+Week 4/5
+Political dimensions:
+Arbetsmiljöverket, re the lack of statistics and thus, the invisibility of this field
+(the portable mobile worker and workplaceness) 
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
