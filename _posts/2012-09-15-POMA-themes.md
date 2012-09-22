@@ -47,6 +47,10 @@ Dilettant AB is responsible for organizing the dialogue meetings, invite guests,
 				* Are you without a workplace?
 			* Statistics as a sub project (could be pitched to people we meet)
 		5. How does it situate itself in the topography of contemporary labour market?
+          
+        6. Gilles input: the lack of traces/imprints of work/the portable worker; manifestations of work; no accumulation
+        saknas ett sammanhang, Mostånd, hur erkänns arbete och arbetaren - få möjligheter att lämna spår, skapa plats där man kan bygga sin självbild/identitet som arbetare; skapar vilsenhet?
+        hur synliggörs den osynliga arbetaren? Visualisering
 
 #### Sustainable development
 
@@ -102,7 +106,7 @@ Dilettant AB is responsible for organizing the dialogue meetings, invite guests,
 		* What need to happen for this to end up on the political table?
 
 #### Questions
-1. Är du arbetsplatslös?
+1. Är du arbetsplatslös
 
 
 #### Potential dialogue partners
