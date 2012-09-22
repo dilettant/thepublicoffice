@@ -114,7 +114,7 @@ Dilettant AB is responsible for organizing the dialogue meetings, invite guests,
 
 * Democratisation of infrastructure of work:
 
-
+* A worspace: How is it defined? 
 
 #### Potential dialogue partners
  * Individuals
