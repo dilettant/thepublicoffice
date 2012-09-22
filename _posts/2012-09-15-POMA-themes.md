@@ -34,7 +34,7 @@ Dilettant AB is responsible for organizing the dialogue meetings, invite guests,
 		2. Define this type of work
 			* Where and how does it happen?
 			* Means of communication
-		3. Define the workspace
+		3. Define the workspace of the portable/mobile worker
 			* What is the minimum requirements
 				* Working machines/tools
 					* What would happen with more tools?
