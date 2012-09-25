@@ -12,25 +12,30 @@ author: myriam
 ### Confirmed participants in Stockholm:
 
 * Eylül Fidan Akinci
-	* can come 12-16 November 
+	* can come 12-17 November 
 	* e.fakinci@gmail.com
-	* Myriam contacts re flights and confirm dates. 
+	* Waiting for confirmation on flights. 
+
 
 * Alice Chauchat 
 	* alicechauchat@leslaboratoires.org
+    * waiting for reply from Jo re who can book her flight
+
 
 * Nilo Martinez
 * Arantxa Martinez
 	* nilogallego@gmail.com
 	* araparis@yahoo.com.mx
 	* Nilo and Arantxa will come together. As Arantxa had a child just a few days ago, they will be back with an answer about how to organize the trip in mid- or end of September
+    
 
 * Blanca from Mugatxoan
 * Ion from Mugatxoan 
 	* we cover Blanca's costs (travel,accomodation, per diem)
    	* we cover the accomodation for Ion too
     * tips about cheap flights from Bilbao.
-    
+  
+  
 * Marijana Cvetcovic 12-17(18)
 marijana.cvetkovic@gmail.com
 Guest apartment in Tanto (via AJ), staying with husband and child.
@@ -38,14 +43,13 @@ Guest apartment in Tanto (via AJ), staying with husband and child.
 *NB: reimbursment to AJ's parents!*  
 
 
-*Possible participants:*
-
 * Virginie Bobin 
 	* v.bobin@leslaboratoires.org
-	* Les Labo can pay.
+	* Les Labo pays.
 
     
 ### Travels and accommodations to partners at P.O.M.A.
+
 
 * Budget frame
 	* how much for travels? 1400 kr/night/person
