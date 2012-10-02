@@ -19,7 +19,8 @@ author: myriam
 
 * Alice Chauchat 
 	* alicechauchat@leslaboratoires.org
-    * waiting for reply from Jo re who can book her flight
+    * cost for our budget, but will be charged directly from Les Labo
+		* Barbara will book her travel
 
 
 * Nilo Martinez
@@ -31,9 +32,10 @@ author: myriam
 
 * Blanca from Mugatxoan
 * Ion from Mugatxoan 
-	* we cover Blanca's costs (travel,accomodation, per diem)
-   	* we cover the accomodation for Ion too
-    * tips about cheap flights from Bilbao.
+	* we cover Blanca's costs (per diem)
+   	* we cover the accomodation for both Blanca and Ion
+    * Blanca and Ion will cover the expenses for their travel 
+		* send tips about cheap flights from Bilbao.
   
   
 * Marijana Cvetcovic 12-17(18)
@@ -56,7 +58,7 @@ Guest apartment in Tanto (via AJ), staying with husband and child.
     * how much for accomodation? 1000 kr/night/person
     	* How many nights does the project cover? 5
     * Per diems à 300/day/pers (max 5 days) needs to be invoiced
-		* Blanca, Marjana, Eylül, Nilo, Aranxa, Virginie?
+		* Blanca, Marijana, Eylül, Nilo, Aranxa, Alice
     
 * Accomodation Suggestion: Hostel af Chapman, since based on Skeppsholmen.
 	* Check if participants are ok to share double rooms 
