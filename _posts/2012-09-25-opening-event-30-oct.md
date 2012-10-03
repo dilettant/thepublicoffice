@@ -25,3 +25,12 @@ published: false
 * Dilettant presenterar Allmänna kontoret; som projekt/vision och informerar om perioden på Arkitekturmuseet 
 
 *Ev: vidare diskussioner om framtidens allmänningar där även Dilettant deltar i mer informell form.*
+
+Maria: hur ser Marknadsplanen ut? Tycker ni att de ser ok ut och när behöver ni texter? Ring Anders!
+
+- Återkoppling Sandra (ringa): synd att det blev så här, men vi vill skulle vilja lägga till en föreläsare Moa Thunström - är det ok? 
+I vilken utsträckning/omfattning kan vi räkna med att de engarerar sig (mingelmat etc..)
+Monica håller ihop kvällen?
+Vilken typ av info? MFmöjligheter
+- Kontakta Moa Thunström
+Q Johan: vilka betalar vi och vilka betalar vi inte? Vad är minimum?
