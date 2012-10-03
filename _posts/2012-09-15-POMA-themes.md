@@ -121,11 +121,11 @@ Dilettant AB is responsible for organizing the dialogue meetings, invite guests,
  * Groups: 1. co-working representanter, from different places in sweden, adressing the user perspective
  
  
-Week 1 
+#### Week 1 
 Who and what is the work?
 * Gilles Saussier, photographer and artists: visualisation of work and invisible workers
 * Lisa Rosendahl, jaspis: artistic labour, immaterial labour in global capitalism
-* Kaliber, SR: "De osäkert anställda" http://sverigesradio.se/sida/gruppsida.aspx?programid=1316&grupp=16969
+* Kaliber, SR: "De osäkert anställda" http://sverigesradio.se/sida/gruppsida.aspx?programid=1316&grupp=16969 ( Prodbolag: 3e stadsmakten)
 
 * Roland Paulsen, phd sociology, Uppsala Uni:"Arbetssamhället"
 http://katalog.uu.se/empInfo/?id=N7-57
@@ -138,26 +138,10 @@ http://www.adlibris.com/se/searchresult.aspx?search=advanced&author=Roland%20Pau
  * suggestions for research that's been made relating to Work -Where and how does it happen? (ie work in social environments) 
  * Democratisation of infrastructure of work
  
+ 
+#### Week 3+4
 
-Week 4/5
+#### Week 5
 Political dimensions:
 Arbetsmiljöverket, re the lack of statistics and thus, the invisibility of this field
-(the portable mobile worker and workplaceness) 
-
-
-
-
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+(the portable mobile worker and workplaceness)
