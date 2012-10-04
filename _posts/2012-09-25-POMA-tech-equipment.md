@@ -32,15 +32,12 @@ published: false
 		* ethernetkablar – finns att hämta i förråd
 
 ## Design
-* Stefan väntar på att få ritning på rummet och kommer därefter att skicka den vidare till oss (för inredningsarkitekter att se hur de skulle kunna utforma kontorslandskapet)
+* Stefan har skickat en .dwg ritning på hela huset, samt en .jpg 
 * vi bör tänka på att införskaffa ljuddämpande material för att sätta upp i kontoret
 
 ## IT
-Johan inväntar kontaktuppgifter till IT-avdelningen från Stefan.  
-Frågor vi behöver adressera är:
+Johan har pratat med Adolfo Vega som är ansvarig på IT-avdelningen
 
-* vi behöver internettillgång
-	* är det enklast med egen wifi-station/router inkopplad till det publika nätverket
-	* behövs en särskild brandvägg sättas upp? 
-	* bör vi skaffa eget mobilt bredband?
+* det är inga problem att sätta upp en egen sändare i kontoret med ett eget nätverk som kontorsbesökare kopplar upp sig mot.
+* Adolfo ska kolla om det finns lediga sändare på museet och återkommer om det är något som projektet behöver införskaffa.
 
