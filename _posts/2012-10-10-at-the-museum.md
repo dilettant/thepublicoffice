@@ -5,7 +5,7 @@ category: documents
 author: victor  
 ---
 
-# Public office
+# The Public office
 ## At the museum of architecture
 
 ### Intro
@@ -31,4 +31,6 @@ Marie de France ( Project Space Design), Anna Ingebrigtsen ( Project Space Desig
 You can find us from Tuesday to Saturday between 08 and 17 or call our number (0) 736 300 114
 
 ### Partners& funders
-The project is invited to be part of the EU project Special Issue, with partners in France, Serbia, Spain and Turkey. Special Issue focuses on the publication of discursive practices in the arts sector, and is coordinated by Les Laboratoires d'Aubervillier, Paris.The Public Office at the Museum of architecture is run by Dilettant AB in collaboration with The Swedish Museum of Architecture, the EU project Special Issue and Fabel Kommunikation AB, with financial support of the Culture Programme of the European Union, Kulturbryggan, The Swedish Museum of Architecture and the City of Stockholm.
+The project is invited to be part of the EU project Special Issue, with partners in France, Serbia, Spain and Turkey. Special Issue focuses on the publication of discursive practices in the arts sector, and is coordinated by Les Laboratoires d'Aubervillier, Paris.
+
+The Public Office at the Museum of architecture is run by Dilettant AB in collaboration with The Swedish Museum of Architecture, the EU project Special Issue and Fabel Kommunikation AB, with financial support of the Culture Programme of the European Union, Kulturbryggan, The Swedish Museum of Architecture and the City of Stockholm.
