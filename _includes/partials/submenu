@@ -14,7 +14,16 @@
           
           <li{% if page.title == item %} class="active"{% endif %}><a href="{{site.baseurl}}/{{current}}/{{item_url}}.html">{{item}}</a></li>
           
-
+          {% assign nsec = sections | size %}
+          {% if nsec != 0%}
+            <ul class="secondary">
+            {% for i in (1..nsec) %}
+          
+            
+          
+            {% endfor %}
+            </ul>
+          {% endif %}
         {% endfor %}
 
       {% else %}
