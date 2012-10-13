@@ -4,4 +4,4 @@ title: philosophy
 category: about
 ---
 
-To be or not to be that is the question...
+In order to situate the project's ambitions and driving force, we introduce a number of basic ideological positions, which frame the work with The Public Office concept.
