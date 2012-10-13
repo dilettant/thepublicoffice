@@ -5,9 +5,11 @@
     {% for cat in site[current] %}
 
       {% for sec in cat %}
-        {% if sec[0]] | size == 0 %}
+      {% assign has = sec[0] | size%}
 
-          <li>HHH</li>
+        {% if has == 0 %}
+
+          <li>has</li>
 
         {% else %}
           {% assign sections = sec[forloop.index] %}
