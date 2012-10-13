@@ -27,10 +27,10 @@ index:
 about:
   - team
   - project_phases:
-    - phase_I
-    - phase_II
+    - phase+I
+    - phase+II
   - philosophy:
-    - open_source
+    - open+source
     - cooperation
     - commons
     - diversity

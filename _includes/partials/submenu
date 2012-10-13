@@ -10,7 +10,7 @@
         {% for sec in cat %}
           {% assign sections = sec[forloop.index] %}
           {% assign item = sec[0]%}
-          {% assign item_read = item | replace:'_',' ' %}
+          {% assign item_read = item | replace:'+',' ' %}
           
           <li{% if page.title == item_read %} class="active"{% endif %}><a href="{{site.baseurl}}/{{current}}/{{item}}.html">{{item_read}}</a></li>
           
@@ -20,7 +20,7 @@
             {% for i in (1..nsec) %}
           
             {% assign item = sections[forloop.index0]] %}
-            {% assign item_read = item | replace:'_',' ' %}
+            {% assign item_read = item | replace:'+',' ' %}
             <li{% if page.title == item_read %} class="active"{% endif %}><a href="{{site.baseurl}}/{{current}}/{{item}}.html">{{item_read}}</a></li>
           
             {% endfor %}
@@ -31,7 +31,7 @@
       {% else %}
         
         {% assign item = cat %}
-        {% assign item_read = item | replace:'_',' ' %}
+        {% assign item_read = item | replace:'+',' ' %}
         <li{% if page.title == item_read %} class="active"{% endif %}><a href="{{site.baseurl}}/{{current}}/{{item}}.html">{{item_read}}</a></li>    
       
       {% endif %}
