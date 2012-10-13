@@ -4,4 +4,6 @@ title: contact
 category: contact
 ---
 
-Put contact info here please
+Phone: ?  
+Email: dilettant@riseup.net  
+Postal address: Dilettant AB, Box 20148, SE-104 60 Stockholm, Sweden  
