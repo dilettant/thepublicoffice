@@ -14,7 +14,8 @@
           
           <li{% if page.title == item %} class="active"{% endif %}><a href="{{site.baseurl}}/{{current}}/{{item_url}}.html">{{item}}</a></li>
           
-          
+
+        {% endfor %}
 
       {% else %}
         
