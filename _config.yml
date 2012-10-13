@@ -13,24 +13,13 @@ permalink:   date
 
 gravasize: 142
 
-index:
-  - stuff
-  - des stuff:
-    - un studd
-    - deux stuff
-  - others:
-    - one
-    - two
-    - three
-    - four
-
 about:
   - team
   - project_phases:
-    - phase+I
-    - phase+II
+    - phase-I
+    - phase-II
   - philosophy:
-    - open+source
+    - open-source
     - cooperation
     - commons
     - diversity
