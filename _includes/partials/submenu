@@ -3,39 +3,27 @@
     {% assign current = page.category %}
 
     {% for cat in site[current] %}
-    {% assign numCat = cat | first %}
-    cat : {{cat}}
-    numCat : {{numCat}}
     
-      {% if numCat != 0 %}
-        
-        {% for sec in cat %}
-          {% assign sections = sec[forloop.index] %}
-          {% assign item = sec[0]%}
-          
-          <li{% if page.title == item | replace:'_',' '} %} class="active"{% endif %}><a href="{{site.baseurl}}/{{current}}/{{item}}.html">{{item | replace:'_',' '}}</a></li>
-          
-          {% assign nsec = sections | size %}
-          
-          {% if nsec != 0%}
-          
-            <ul class="secondary">
-            {% for i in nsec %}
-          
-              {% assign item = sections[forloop.index0]] %}
-              <li{% if page.title == item | replace:'_',' '} %} class="active"{% endif %}><a href="{{site.baseurl}}/{{current}}/{{item}}.html">{{item | replace:'_',' '}}</a></li>
-          
-            {% endfor %}
-            </ul>
-          {% endif %}
-        {% endfor %}
-
-      {% else %}
-
-        {% assign item = numCat %}
-        <li{% if page.title == item | replace:'_',' '} %} class="active"{% endif %}>ssss<a href="{{site.baseurl}}/{{current}}/{{item}}.html">1{{item | replace:'_',' '}}</a></li>    
+    {% for sec in cat %}
+      {% assign sections = sec[forloop.index] %}
+      {% assign item = sec[0]%}
       
+      <li{% if page.title == item | replace:'_',' '} %} class="active"{% endif %}><a href="{{site.baseurl}}/{{current}}/{{item}}.html">{{item | replace:'_',' '}}</a></li>
+      
+      {% assign nsec = sections | size %}
+      
+      {% if nsec != 0%}
+      
+        <ul class="secondary">
+        {% for i in nsec %}
+      
+          {% assign item = sections[forloop.index0]] %}
+          <li{% if page.title == item | replace:'_',' '} %} class="active"{% endif %}><a href="{{site.baseurl}}/{{current}}/{{item}}.html">{{item | replace:'_',' '}}</a></li>
+      
+        {% endfor %}
+        </ul>
       {% endif %}
+    {% endfor %}
 
     {% endfor %}
   </ul>
