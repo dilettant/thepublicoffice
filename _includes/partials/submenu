@@ -5,7 +5,7 @@
     {% for cat in site[current] %}
 
     {% for sec in cat %}
-    {{sec}}<br>
+    {{sec[0]}}<br>
       {% assign sections = sec[forloop.index] %}
       {% assign item = sec[0]%}
 
