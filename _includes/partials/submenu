@@ -4,7 +4,6 @@
 
     {% for cat in site[current] %}
     {% assign numCat = cat | first %}
-      {{numCat}}
       {% if numCat != 0 %}
         
         {% for sec in cat %}
@@ -30,7 +29,7 @@
 
       {% else %}
 
-        {% assign item = cat %}
+        {% assign item = numCat %}
         <li{% if page.title == item | replace:'_',' '} %} class="active"{% endif %}>ssss<a href="{{site.baseurl}}/{{current}}/{{item}}.html">1{{item | replace:'_',' '}}</a></li>    
       
       {% endif %}
