@@ -7,7 +7,7 @@
       {% for sec in cat %}
         {% assign sections = sec[forloop.index] %}
         {% assign item = sec[0]%}
-        {% assign len = item | size %}
+        {% assign len = item.size %}
 
         <li{% if page.title == item | replace:'_',' '} %} class="active"{% endif %}>{{len}} - <a href="{{site.baseurl}}/{{current}}/{{item}}.html">{{item | replace:'_',' '}}</a></li>
 
