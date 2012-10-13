@@ -10,9 +10,8 @@
         {% for sec in cat %}
           {% assign sections = sec[forloop.index] %}
           {% assign item = sec[0]%}
-          {% assign item_read = item | replace:'_',' ' %}
           
-          <li{% if page.title == item_read %} class="active"{% endif %}><a href="{{site.baseurl}}/{{current}}/{{item}}.html">{{item_read}}</a></li>
+          <li{% if page.title == item | replace:'_',' '} %} class="active"{% endif %}><a href="{{site.baseurl}}/{{current}}/{{item}}.html">{{item | replace:'_',' '}}}</a></li>
           
           {% assign nsec = sections | size %}
           
@@ -22,8 +21,7 @@
             {% for i in nsec %}
           
               {% assign item = sections[forloop.index0]] %}
-              {% assign item_read = item | replace:'_',' ' %}
-              <li{% if page.title == item_read %} class="active"{% endif %}><a href="{{site.baseurl}}/{{current}}/{{item}}.html">{{item | replace:'_',' '}}</a></li>
+              <li{% if page.title == item | replace:'_',' '} %} class="active"{% endif %}><a href="{{site.baseurl}}/{{current}}/{{item}}.html">{{item | replace:'_',' '}}</a></li>
           
             {% endfor %}
             </ul>
@@ -34,7 +32,7 @@
         
         {% assign item = cat %}
         {% assign item_read = item | replace:'_',' ' %}
-        <li{% if page.title == item_read %} class="active"{% endif %}><a href="{{site.baseurl}}/{{current}}/{{item}}.html">{{item | replace:'_',' '}}</a></li>    
+        <li{% if page.title == item | replace:'_',' '} %} class="active"{% endif %}><a href="{{site.baseurl}}/{{current}}/{{item}}.html">{{item | replace:'_',' '}}</a></li>    
       
       {% endif %}
 
