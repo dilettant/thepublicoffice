@@ -1,12 +1,9 @@
 safe:        false
-auto:        false
+auto:        true
 server:      false
 server_port: 4000
-baseurl:    http://dilettant.github.com/thepublicoffice
-url: http://dilettant.github.com/thepublicoffice
-
-source:      .
-destination: ./_site
+baseurl:    file:///Users/vectorsize/Dropbox/www/dilettant/thepublicoffice2/_site
+# url: http://dilettant.github.com/thepublicoffice
 
 future:      true
 lsi:         false
@@ -14,27 +11,26 @@ pygments:    false
 markdown:    maruku
 permalink:   date
 
-maruku:
-  use_tex:    false
-  use_divs:   false
-  png_engine: blahtex
-  png_dir:    images/latex
-  png_url:    /images/latex
+gravasize: 142
 
-rdiscount:
-  extensions: []
+index:
+  - stuff
+  - des stuff:
+    - un studd
+    - deux stuff
+  - others:
+    - one
+    - two
+    - three
+    - four
 
-kramdown:
-  auto_ids: true,
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  use_coderay: false
-
-  coderay:
-    coderay_wrap: div
-    coderay_line_numbers: inline
-    coderay_line_numbers_start: 1
-    coderay_tab_width: 4
-    coderay_bold_every: 10
-    coderay_css: style
+about:
+  - team
+  - project_phases:
+    - phase_I
+    - phase_II
+  - philosophy:
+    - open_source
+    - cooperation
+    - commons
+    - diversity

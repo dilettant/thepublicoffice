@@ -75,8 +75,6 @@ Guest apartment in Tanto (via AJ), staying with husband and child.
 
 ### Important Info to everyone
 
-*
-
 ### Paris trip
 * PO presentation: who does it? Who says what?
 * Logistics and budget: Alice

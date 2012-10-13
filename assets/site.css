@@ -1,5 +1,4 @@
 ---
 ---
-{% include stylesheets/normalize.css %}
-{% include stylesheets/iawriter.css %}
-{% include stylesheets/layout.css %}
+{% include stylesheets/grid.css %}
+{% include stylesheets/app.css %}

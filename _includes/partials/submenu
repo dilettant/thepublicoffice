@@ -1,0 +1,41 @@
+<nav>
+  <ul class="primary">
+    {% assign current = page.category %}
+
+    {% for cat in site[current] %}
+    {% assign numCat = cat | first | size %}
+      
+      {% if numCat != 0 %}
+        
+        {% for sec in cat %}
+          {% assign sections = sec[forloop.index] %}
+          {% assign item = sec[0]%}
+          {% assign item_read = item | replace:'_',' ' %}
+          
+          <li{% if page.title == item_read %} class="active"{% endif %}><a href="{{site.baseurl}}/{{current}}/{{item}}.html">{{item_read}}</a></li>
+          
+          {% assign nsec = sections | size %}
+          {% if nsec != 0%}
+            <ul class="secondary">
+            {% for i in (1..nsec) %}
+          
+            {% assign item = sections[forloop.index0]] %}
+            {% assign item_read = item | replace:'_',' ' %}
+            <li{% if page.title == item_read %} class="active"{% endif %}><a href="{{site.baseurl}}/{{current}}/{{item}}.html">{{item_read}}</a></li>
+          
+            {% endfor %}
+            </ul>
+          {% endif %}
+        {% endfor %}
+
+      {% else %}
+        
+        {% assign item = cat %}
+        {% assign item_read = item | replace:'_',' ' %}
+        <li{% if page.title == item_read %} class="active"{% endif %}><a href="{{site.baseurl}}/{{current}}/{{item}}.html">{{item_read}}</a></li>    
+      
+      {% endif %}
+
+    {% endfor %}
+  </ul>
+</nav>
