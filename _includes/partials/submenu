@@ -3,7 +3,7 @@
     {% assign current = page.category %}
 
     {% for cat in site[current] %}
-    {% assign numCat = cat | first | size %}
+    {% assign numCat = cat | first %}
       {{numCat}}
       {% if numCat != 0 %}
         
