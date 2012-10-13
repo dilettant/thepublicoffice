@@ -2,7 +2,7 @@ safe:        false
 auto:        true
 server:      false
 server_port: 4000
-baseurl:    file:///Users/vectorsize/Dropbox/www/dilettant/thepublicoffice2/_site
+baseurl:    http://dilettant.se/thepublicoffice/
 # url: http://dilettant.github.com/thepublicoffice
 
 future:      true
