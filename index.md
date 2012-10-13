@@ -1,6 +1,6 @@
 ---
 layout: global
-title: the public office - a vision of open and rent-free work and meeting places
+title: the public office: a vision of open and rent-free work and meeting places
 category: index
 ---
 
