@@ -9,7 +9,7 @@
         {% assign item = sec[0]%}
         {% assign len = item.size %}
 
-        {% if len == 0 %}
+        {% if len %}
         <li>blä</li>
         {% else %}
           <li{% if page.title == item | replace:'_',' '} %} class="active"{% endif %}>{{len}} - <a href="{{site.baseurl}}/{{current}}/{{item}}.html">{{item | replace:'_',' '}}</a></li>
