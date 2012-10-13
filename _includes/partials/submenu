@@ -17,6 +17,7 @@
           {% assign nsec = sections | size %}
           
           {% if nsec != 0%}
+          {{nsec}}
             <ul class="secondary">
             {% for i in (1..nsec) %}
           
