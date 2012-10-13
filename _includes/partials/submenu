@@ -17,9 +17,9 @@
           {% assign nsec = sections | size %}
           
           {% if nsec != 0%}
-          {{nsec}}
+          
             <ul class="secondary">
-            {% for i in (1..nsec) %}
+            {% for i in nsec %}
           
             {% assign item = sections[forloop.index0]] %}
             {% assign item_url = item | replace:' ','_' %}
