@@ -8,7 +8,7 @@ The second phase aims to open up the research prosess and to practically try out
 
 The project team consists of Anders Jacobson, Myriam Mazzoni, Victor Saiz & Johan Thelander. The site becomes a base for our further work on the concept of public offices, along with invited guests and interested users. We will invite politicians and civil servants, researchers, architects, city planners,  artists and representatives of libraries and housing companies to  explore the concept's potential and political viability.  
 
-[Read more about The Public Office at The Museum of Architecture] (http://museumofarchitecture.thepublicoffice.se)  
+[Read more about The Public Office at The Museum of Architecture 30 Nov-30 Oct 2012] (http://museumofarchitecture.thepublicoffice.se)  
 
 Project duration: 2012-08-03-2013-01-31  
 Accountant: Nätverkstan Ekonomitjänst  
