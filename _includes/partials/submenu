@@ -4,7 +4,7 @@
 
     {% for cat in site[current] %}
     {% assign numCat = cat | first | size %}
-      
+      {{numCat}}
       {% if numCat != 0 %}
         
         {% for sec in cat %}
