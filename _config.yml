@@ -15,11 +15,11 @@ gravasize: 142
 
 about:
   - team
-  - project phases:
-    - phase I
-    - phase II
+  - project_phases:
+    - phase_I
+    - phase_II
   - philosophy:
-    - open source
+    - open_source
     - cooperation
     - commons
     - diversity
