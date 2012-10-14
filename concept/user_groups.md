@@ -1,6 +1,7 @@
 ---
 layout: global
 title: user groups
+parent: the_vision_of_the_public_office
 category: concept
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: global
 title: phase I
+parent: project_phases
 category: about
 ---
 

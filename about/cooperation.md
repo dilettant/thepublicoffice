@@ -1,6 +1,7 @@
 ---
 layout: global
 title: cooperation
+parent: philosophy
 category: about
 ---
 

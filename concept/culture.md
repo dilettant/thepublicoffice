@@ -1,6 +1,7 @@
 ---
 layout: global
 title: culture
+parent: the_public_office_as_a_political_issue
 category: concept
 ---
 

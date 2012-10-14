@@ -1,6 +1,7 @@
 ---
 layout: global
 title: commons
+parent: philosophy
 category: about
 ---
 

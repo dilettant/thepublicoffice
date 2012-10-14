@@ -1,6 +1,7 @@
 ---
 layout: global
 title: expansion of the mandate of existing institutions
+parent: suggestions_for_forms_of_operation
 category: concept
 ---
 

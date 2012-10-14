@@ -1,6 +1,7 @@
 ---
 layout: global
 title: public meeting places and the right to work
+parent: starting_points_and_perspectives
 category: concept
 ---
 

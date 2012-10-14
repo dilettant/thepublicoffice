@@ -1,6 +1,7 @@
 ---
 layout: global
 title: open source
+parent: philosophy
 category: about
 ---
 

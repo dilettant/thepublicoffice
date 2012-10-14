@@ -17,8 +17,8 @@
           {% if nsec != 0%}
 
           {% capture curr %}{{ page.title | replace: ' ','_' }}{% endcapture %}
-
-            <ul class="secondary{% if curr == item %} active{% endif %}">
+          
+            <ul class="secondary{% if curr == item %} active{% elsif page.parent == item %} active{% endif %}">
             {% for i in nsec %}
           
               {% assign item = sections[forloop.index0]] %}
