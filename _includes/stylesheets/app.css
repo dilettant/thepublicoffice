@@ -93,23 +93,23 @@ nav li.contact.active a{
   color: #c20233;
 }
 
-.about section h2{
+.about section > h2{
     background: #FFC600 url(img/star.png) no-repeat 25px center;
 }
 
-.index section h2{
+.index section > h2{
     background: #0085bc url(img/star.png) no-repeat 25px center;
 }
 
-.concept section h2{
+.concept section > h2{
   background: #00a068 url(img/star.png) no-repeat 25px center;
 }
 
-.contact section h2{
+.contact section > h2{
   background: #c20233 url(img/star.png) no-repeat 25px center;
 }
 
-section h2 {
+section > h2 {
  font-size: 36px;
   text-transform: uppercase;
   margin: 0;
