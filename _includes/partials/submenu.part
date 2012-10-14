@@ -29,11 +29,11 @@
           {{ page.title | replace: ' ','_' }}
           {% endcapture %}
 
-          {{curr}}
-          {{item}}
+          {{curr | length}}
+          {{item | length}}
 
             {% if curr == item %} active{% endif %}
-            
+
             <ul class="secondary{% if page.title | replace:' ','_' == item %} active{% endif %}">
             {% for i in nsec %}
           
