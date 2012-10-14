@@ -1,3 +1,4 @@
+{{page}}
 <nav>
   <ul class="primary">
     {% assign current = page.category %}
@@ -15,8 +16,7 @@
           {% assign nsec = sections | size %}
           
           {% if nsec != 0%}
-          {% assign title = page.title %}
-          {% assign curr = title | replace: ' ','_'%}
+          {% assign curr = page.title | replace: ' ','_'%}
           {{curr}}
           {{item}}
 
