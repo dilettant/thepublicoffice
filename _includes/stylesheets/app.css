@@ -126,6 +126,11 @@ aside ul.primary{
 
 aside ul.secondary{
   text-transform: none;
+  display: none;
+}
+
+aside ul.secondary.active{
+  display: block;
 }
 
 .about aside ul.secondary li.active{

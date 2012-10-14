@@ -15,16 +15,16 @@
           {% assign nsec = sections | size %}
           
           {% if nsec != 0%}
-"{{item | replace:' ','_'}}""
-"{{page.title | replace:' ','_'}}"
-            {% assign pre = item | replace:' ','_' %}
-            {% assign curr = page.title | replace:' ','_' %}
+          {% assign title = page.title %}
+          {% assign curr = title | replace:' ','_'%}
+          {{curr}}=={{item}}
 
-            <ul class="secondary{% if pre != curr %} hidden{% endif %}">
+            {% if curr == item %} active{% endif %}
+            <ul class="secondary{% if page.title | replace:' ','_' == item %} active{% endif %}">
             {% for i in nsec %}
           
               {% assign item = sections[forloop.index0]] %}
-              <li{% if page.title == item | replace:'_',' '} %} class="active"{% endif %}><a href="{{site.baseurl}}/{{current}}/{{item}}.html">{{item | replace:'_',' '}}</a></li>
+              <li{% if page.title == item | replace:'_',' ' %} class="active"{% endif %}><a href="{{site.baseurl}}/{{current}}/{{item}}.html">{{item | replace:'_',' '}}</a></li>
           
             {% endfor %}
             </ul>
