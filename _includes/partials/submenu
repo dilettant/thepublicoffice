@@ -16,7 +16,7 @@
           
           {% if nsec != 0%}
           
-            <ul class="secondary">
+            <ul class="secondary hidden">
             {% for i in nsec %}
           
               {% assign item = sections[forloop.index0]] %}
