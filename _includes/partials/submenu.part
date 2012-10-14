@@ -16,7 +16,7 @@
           
           {% if nsec != 0%}
           {% assign title = page.title %}
-          {% assign curr = title | replace:' ','_'%}
+          {% assign curr = title | replace: ' ','_'%}
           {{curr}}
           {{item}}
 
