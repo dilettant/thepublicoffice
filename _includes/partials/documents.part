@@ -1,0 +1,16 @@
+<div class="content">
+{% for category in doc_list %} 
+  <h2>{{ category[0] | capitalize }}</h2>
+  <ul>
+    {% for post in site.posts %}
+      {% for cat in post.categories %}
+        {% if cat == category[0] %}
+          <li class="doc"><a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a></li>
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+  </ul>
+{% endfor %}
+{% assign doc_list = null %}
+<div class="clear"></div>
+</div>

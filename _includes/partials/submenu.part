@@ -1,0 +1,39 @@
+<nav>
+  <ul class="primary">
+    {% assign current = page.category %}
+
+    {% for cat in site[current] %}
+
+      {% for sec in cat %}
+        {% assign sections = sec[forloop.index] %}
+        {% assign item = sec[0]%}
+        {% assign len = item.size %}
+
+        {% if len %}
+          <li{% if page.title == item | replace:'_',' '} %} class="active"{% endif %}><a href="{{site.baseurl}}/{{current}}/{{item}}.html">{{item | replace:'_',' '}}</a></li>
+
+          {% assign nsec = sections | size %}
+          
+          {% if nsec != 0%}
+
+          {% capture curr %}{{ page.title | replace: ' ','_' }}{% endcapture %}
+          
+            <ul class="secondary{% if curr == item %} active{% elsif page.parent == item %} active{% endif %}">
+            {% for i in nsec %}
+          
+              {% assign item = sections[forloop.index0]] %}
+              <li{% if page.title == item | replace:'_',' ' %} class="active"{% endif %}><a href="{{site.baseurl}}/{{current}}/{{item}}.html">{{item | replace:'_',' '}}</a></li>
+          
+            {% endfor %}
+            </ul>
+          {% endif %}
+        {% else %}
+          {% assign item = cat%}
+          <li{% if page.title == item | replace:'_',' '} %} class="active"{% endif %}><a href="{{site.baseurl}}/{{current}}/{{item}}.html">{{item | replace:'_',' '}}</a></li>
+        {% endif %}
+
+      {% endfor %}
+
+    {% endfor %}
+  </ul>
+</nav>

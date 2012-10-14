@@ -1,0 +1,21 @@
+---
+layout: global
+title: team
+category: about
+---
+
+<ul>
+  {% for item in site.categories.team reversed %}
+    <li>
+      <h3>{{item.name}}</h3>
+      <h4>{{item.role}}</h4>
+      {% if item.gravatar %}
+        <img src="{{item.gravatar}}?s={{site.gravasize}}" alt="{{item.name}}">
+      {% else %}
+        <img width="{{site.gravasize}}" src="{{site.baseurl}}/assets/img/{{item.picture}}" alt="{{item.name}}">
+      {% endif %}
+
+      <p>{{item.content}}</p>
+    </li>
+  {% endfor %}
+</ul>
