@@ -1,12 +1,3 @@
-
-{% capture path %}
-{{ page.category | prepend:'/' | append:'/' }}
-{% endcapture %}
-
-{{path}}
-{{page.url | replace: path,'' }}
-
-
 <nav>
   <ul class="primary">
     {% assign current = page.category %}
@@ -25,16 +16,9 @@
           
           {% if nsec != 0%}
 
-          {% capture curr %}
-          {{ page.title | replace: ' ','_' }}
-          {% endcapture %}
+          {% capture curr %}{{ page.title | replace: ' ','_' }}{% endcapture %}
 
-          {{curr | length}}
-          {{item | length}}
-
-            {% if curr == item %} active{% endif %}
-
-            <ul class="secondary{% if page.title | replace:' ','_' == item %} active{% endif %}">
+            <ul class="secondary{% if curr == item %} active{% endif %}">
             {% for i in nsec %}
           
               {% assign item = sections[forloop.index0]] %}
