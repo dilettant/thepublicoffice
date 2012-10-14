@@ -6,7 +6,7 @@ category: about
 
 The second and current phase aims to open up the research process and to practically try out the concept of a Public Office. Between 30 October–30 November 2012, a temporary Public Office will be open at The Swedish Museum of Architecture in Stockholm. Those who come to use the office are welcome to work independently or in groups, study, organize lectures, conversations, exchange ideas, make contacts and so on.  
 
-The project team consists of Anders Jacobson, Myriam Mazzoni, Victor Saiz & Johan Thelander. The team will continue developing the concept of public offices, along with invited guests and interested users. Starting from three main topics – *Work*, *Sustainable development*, and *Political dimensions* – we invite politicians and civil servants, researchers, architects, city planners, artists and representatives of libraries and housing companies, to critically explore the concept's potential and political viability.  
+The project team consists of Anders Jacobson, Myriam Mazzoni, Victor Saiz & Johan Thelander. Throughout the period, the team will continue developing the concept of public offices, along with invited guests and interested users. Starting from three main topics – *Work*, *Sustainable development*, and *Political dimensions* – we invite politicians and civil servants, researchers, architects, city planners, artists and representatives of libraries and housing companies, to critically explore the concept's potential and political viability.  
 
 [Read more about The Public Office at The Museum of Architecture 30 Nov-30 Oct 2012] (http://museumofarchitecture.thepublicoffice.se)  
 
