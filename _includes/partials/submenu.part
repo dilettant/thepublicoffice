@@ -1,3 +1,4 @@
+{{page.title | replace:' ','_'}}
 <nav>
   <ul class="primary">
     {% assign current = page.category %}
@@ -15,8 +16,10 @@
           {% assign nsec = sections | size %}
           
           {% if nsec != 0%}
-          
-            <ul class="secondary hidden">
+            {% assign pre = item | replace:' ','_' %}
+            {% assign curr = page.title | replace:' ','_' %}
+
+            <ul class="secondary{% if pre != curr %} hidden{% endif %}">
             {% for i in nsec %}
           
               {% assign item = sections[forloop.index0]] %}
