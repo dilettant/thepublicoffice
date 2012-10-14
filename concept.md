@@ -8,4 +8,4 @@ This section is where we continuously develop the concept of The Public Office. 
 
 On the concept pages we aim to situate the idea in a political framework, discuss it in relation to social issues such as public meeting places and changes in the labour market. This is also where we develop proposals on how public offices can be run, owned and financed.   
 
-To view the history of changes and revisions of each section/post, [visit The Public Office repository at GitHub] (https://github.com/dilettant/thepublicoffice)
+To view the history of changes and revisions of each section/post, [visit The Public Office repository at GitHub] (https://github.com/dilettant/thepublicoffice).
