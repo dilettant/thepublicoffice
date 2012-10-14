@@ -17,10 +17,10 @@
           {% if nsec != 0%}
           {% assign title = page.title %}
           {% assign curr = title | replace:' ','_'%}
-          {{curr}}
+          {{title | replace:' ','_'}}
           {{item}}
 
-            {% if curr == item %} active{% endif %}
+            {% if title | replace:' ','_' == item %} active{% endif %}
             <ul class="secondary{% if page.title | replace:' ','_' == item %} active{% endif %}">
             {% for i in nsec %}
           
