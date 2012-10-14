@@ -1,7 +1,6 @@
 /* @override http://dilettant.se/thepublicoffice/assets/site.css */
 
 html{
-  -webkit-text-stroke: 0.15px;
   background: url(img/grid.png) repeat;
   font-family: 'Josefin Slab', serif;
 }
