@@ -241,20 +241,81 @@ How does POMA integrate in the museum environment? We would like to place indica
 We think that it would be most useful to meet with head of communications Maria Östman, walk through the museum and discuss the possibilities.
 Other notes
 The name change of Hybris Konstproduktion AB to Dilettant AB is going according to plans, and we expect the change to be in place by October 1, which is the same date we plan to publish both the Dilettant and The Public Office websites.
-----------
+---
 
-# Notes to Dilettant
+**Vad är syftet med projektet?**  
+Allmänna kontoret på Arkitekturmuseet utgör det andra delmomentet i ett långsiktigt utvecklingsprojekt som syftar till att artikulera en idé om öppna och kostnadsfria arbets- och mötesplatser, där medborgare ges möjlighet att bedriva arbete och fortbildning. Under flera delmoment avser vi (Dilettant AB) utforska konceptets möjligheter och potentiella funktioner på en allt mer rörlig arbetsmarknad, samt inom stadsplanering och lokal utveckling,  näringslivsutveckling och integration.
+Under perioden på Arkitekturmuseet kommer vi att öppna ett Allmänt kontor under fem veckor, 30 okt-30 nov. Kontoret är öppet för allmänheten, och de som kommer för att använda kontoret är välkomna att arbeta självständigt eller i grupp, studera, organisera föreläsningar, samtal, utbyta idéer, knyta kontakter osv. Platsen blir dessutom en bas för projektteamets vidare arbete med konceptet, tillsammans med inbjudna gäster och intresserade brukare. Vi  kommer att bjuda in politiker och tjänstepersoner, forskare, arkitekter, konstnärer och stadsplanerare samt företrädare för bibliotek och bostadsbolag, för  att diskutera konceptets möjligheter och politiska bärkraft. Konceptet finns tillgängligt online, och utvecklas hela tiden under projektets gång.
 
-Special focus journalists (call):
+Syftet med detta delmoment av projektet är att öppna upp och tillgängliggöra vår researchprocess samt att testa idén på ett konkret plan.
 
-* Fria Tidningen: Kristian Borg
+**Vad vill ni berätta? Vad är huvudbudskapet?**  
+Idén om allmänna kontor utgör ett infrastrukturellt förslag och en politisk vision som syftar till att möta upp nya behov på de arbetsmarknader som utgörs av en växande andel frilans- och hemarbete. Fundamentet i idén om allmänna kontor handlar om att skapa kostnadsfria och demokratiskt tillgängliga strukturer för arbete, där människors tid och kompetenser kan delas och berika varandra.
 
-* DN: Calle Pauli (is he still around?)
+Vi menar att platser för fri tillgång till arbetsgemenskap och kunskapsutbyte har viktiga positiva effekter för människors arbetssituation och utveckling, samt för en hållbar social utveckling i en stadsdel.  
 
-* Kulturnyheterna
-*Places for distribution:*
+**Varför samarbeta med museet? Vad är era förväntningar?**  
+Samarbetet med Arkitekturmuseet ger oss en mängd möjligheter att utveckla och tillgängliggöra arbetet med Allmänna kontoret. Museet utgör en miljö med stor kunskap om hållbar utveckling, arkitektur och stadsutveckling. Att öppna ett första Allmännt kontor på museet sätter arbetet med idén i ett brett samhälleligt sammanhang med direkt koppling till arkitektur, stadsplanering och hållbar utveckling, som kan bredda intresset för, och vetskapen om, idén och ge projektet större politisk tyngd. Att museet kan erbjuda oss en plats att testa idén, samt bidrag till projektbudgeten är en enorm hjälp.
 
-* Café LouieLouie...
+Vi hoppas att markadsföringen från Arkitekturmuseets sida ska bidra till att relevanta nätverk och aktörer får kännedom om projektet och konceptet. I övrigt har vi egentligen inga förväntningar på museet utöver det vi redan genomfört tillsammans under förarbetet, och tycker att det har varit tydligt från början att vårt arbete kommer att ske relativt självständigt. Vi ser helt enkelt fram emot att sätta igång!
+
+**Vilka är huvudmålgruppen? Vilka ska komma?**  
+Huvudmålgruppen är frilansare, projektanställda, egen- och småföretagare som arbetar primärt i hemmet, på kaféer, i bibliotek, eller på tillfälliga kontorsplatser. Inga särskilda yrkesgrupper avses, men vi bedömer att många av de som kommer att känna sig direkt tilltalade arbetar inom konst, kultur, arkitektur och stadsplanering, media, design, programmering, (teoretisk) forskning, konsultation, offentlig förvaltning osv. De som kommer och som behöver tillgång till t.ex. en dator, måste ha med sig en egen, och detta begränsar målgruppen något. Vi vill även nå ut till studenter och personer engagerade i ideella föreningar eller aktivistiska rörelser och nätverk. I viss mån riktar sig Allmänna kontoret även till arbetssökande, pensionärer eller andra som kan tänkas vilja utföra daglig administration såsom att betala räkningar, uppdatera sin CV osv, men dessa målgrupper betraktas som sekundära i denna del av projektet. Vi vill självklart gärna nå potentiella användare som har ett intresse av frågan, och i så stor utsträckning som möjligt utnyttja flödet av människor som arbetar och studerar på eller i närheten av Skeppsholmen.
+
+**Vad är er framtidsvision?**  
+Projektets långsiktiga vision är att Allmänna kontor i sina olika former blir en del av stadsplanering och lokal utveckling, och att det i framtiden finns lokala Allmänna kontor i olika stadsdelar, troligtvis till en början i Stockholm, men i längden även nationellt. Detta är projektets andra delmoment, och det är svårt att på förhand säga vilka steg och vilken tidsomfattning som behövs för att uppfylla visionen – det beror på vilken respons vi får från inbjudna gäster och brukare, på politiska processer hastighet, på hur väl vi lyckas stärka, artikulera och kommunicera konceptet osv.
+
+**Bilagor**  
+Till dessa svar bifogar vi  
+– utkast till pressmeddelande/nyhetsbrev  
+– länkar: allmannakontoret.se och thepublicoffice.se  
+– logotyper för Allmänna kontoret, Dilettant, EU's kulturprogram, Kulturbryggan och Stockholms Stad. Framför allt är det viktigt att ha med bidragsgivrnas loggor, ev. inkl. Arkitekturmuseet, i kommunikationsmaterialet.  
+
+**Övrigt**  
+Vi kommer som sagt att göra ett Facebook-event för hela perioden 30 okt-30 nov, och vi föreslår att Arkitekturmuseet gör ett Facebook-event för öppningskvällen den 30 okt.
+
+
+
+
+
+
+
+
+-------
+
+## Notes to Dilettant
+
+**Special focus journalists (call):**    
+Fria Tidningen: Kristian Borg  
+DN: Calle Pauli   
+Kulturnyheterna  
+Bagisbloggen  
+
+**Places for distribution:**  
+Café LouieLouie  
+Hängmattan  
+Copacabana och BioRio  
+String  
+Il Café  
+Drop Coffee  
+Chutney  
+Vurma  
+Lilla Bagis  
+Studentpalatset  
+Stadsbibliteket   
+Biblioteket Medborgarplatsen  
+Div Bibliotek: Bagis, Aspudden, osv  
+Stockholms Universitet  
+Södertörns högskola  
+Konstfack  
+Mejan  
+Arkitekturskolan  
+Journalisthögskolan  
+Dans och Cirkushögskolan  
+Hemliga trädgården  
+SITE  
+Transit kulturinkubator  
+Coffice  
 
 ### Email networks and people (just briefly mention in the plan)
 * Prekariatet (Anders)
@@ -269,8 +330,3 @@ Special focus journalists (call):
 * Journalistförbundet
 * Arkitekturskolan
 * Konstfack
-
-## Arkitekturmuseet
-
-### Press releases
-* Release of POMA website + invitation to opening event – ?
