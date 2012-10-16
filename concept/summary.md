@@ -5,7 +5,7 @@ ref: summary
 category: concept
 ---
 
-The vision of The Public Office is comprised of open and rent-free work and meeting places, where citizens have the opportunity to engage in work and further education. The foundation of the idea is the creation of free and democratically available structures for work, where people's time and skills can be shared and enriched. 
+The vision of The Public Office is comprised of open and rent-free work and meeting places, where the public has the opportunity to engage in work and further education. The foundation of the idea is the creation of free and democratically available structures for work, where people's time and skills can be shared and enriched. 
 	
 The concept of The Public Office is an infrastructural proposal and a political vision that seeks to meet the changing needs of the labour markets, characterized by a growing number of people working freelance or from their homes, as well as an increased mobility and flexibility in the work. The Public Office is a proposal aiming to provide greater security, stability and productive development in relation to these new situations and needs.
 	
