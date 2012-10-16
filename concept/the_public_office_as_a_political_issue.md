@@ -2,7 +2,7 @@
 layout: global
 title: the public office as a political issue
 ref: the_public_office_as_a_political_issue
-parent: starting_points_and_perspectives
+parent: the_public_office_as_a_political_issue
 category: concept
 ---
 
