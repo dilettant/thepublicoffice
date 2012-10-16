@@ -1,0 +1,43 @@
+---
+layout: amuseet
+heading: "Allmänna kontoret<br>på arkitekturmuseet"
+date: "30 oct - 30 nov, 2012"
+---
+
+<aside class="menu">
+  <h1 class="logo"><a title="Allmänna kontoret hemsida" href="{{site.baseurl}}">{{site.amuseettitle}}</a></h1>
+  <nav>
+      <ul class="link">
+        <li><a class="active" href="#hem">Hem</a>
+          {% for mus in site.categories.amuseet reversed %}
+          <li><a href="#{{mus.ref}}">{{mus.title}}</a>
+          {% endfor %}
+      </ul>
+  </nav>
+</aside>
+
+<header>
+  <h2 class="title">{{page.heading}}</h2>
+  <h3>{{page.date}}</h3>
+</header>
+
+<section>
+  {% for invigning in site.categories.invigning %}
+  <hgroup class="event">
+    <h2>{{invigning.title}}</h2>
+    <h3>{{invigning.headline}}</h3>
+    {{ invigning.content }}
+  </hgroup>
+  {% endfor %}
+</section>
+<section>
+{% for mus in site.categories.amuseet reversed %}
+  <article>
+    <h2 id="{{mus.ref}}">{{mus.title}}</h2>
+    {{ mus.content }}
+  </article>
+{% endfor %}
+</section>
+<footer>
+{% include partials/footer.part %}
+</footer>

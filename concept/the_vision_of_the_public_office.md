@@ -1,6 +1,7 @@
 ---
 layout: global
 title: the vision of the public office
+ref: the_vision_of_the_public_office
 category: concept
 ---
 

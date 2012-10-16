@@ -1,6 +1,7 @@
 ---
 layout: global
 title: use of temporarily available spaces
+ref: use_of_temporarily_available_spaces
 parent: suggestions_for_forms_of_operation
 category: concept
 ---

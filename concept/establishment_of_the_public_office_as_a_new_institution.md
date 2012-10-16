@@ -1,6 +1,7 @@
 ---
 layout: global
 title: establishment of the public office as a new institution
+ref: establishment_of_the_public_office_as_a_new_institution
 parent: suggestions_for_forms_of_operation
 category: concept
 ---

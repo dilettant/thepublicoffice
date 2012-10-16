@@ -1,20 +1,37 @@
+# DEFAULTS
+# ========
+
 safe:        false
 auto:        true
 server:      false
-server_port: 4000
+
+# SITE VARS
+# =========
+
+title: The public office
+amuseettitle: The public office at the museum
 baseurl:    http://thepublicoffice.se
-# baseurl:    file:///Users/vectorsize/Dropbox/www/dilettant/thepublicoffice/_site
-# url: http://dilettant.github.com/thepublicoffice
+assetsurl : http://allmannakontoret.se
+bannername: Arkitekturmuseet
 
-future:      true
-lsi:         false
-pygments:    false
-markdown:    maruku
-permalink:   date
-
+# baseurl:    file:///Users/vectorsize/Dropbox/www/dilettant/allmannakontoret-en/_site
+lang: en
 gravasize: 142
 
-about:
+# MENUS
+# =====
+
+# MAIN
+# -----
+menu_main:
+  - home
+  - about
+  - concept
+  - contact
+
+# ABOUT
+# -----
+menu_about:
   - team
   - philosophy:
     - open_source
@@ -22,10 +39,12 @@ about:
     - commons
     - diversity
   - project_phases:
-    - phase_I
-    - phase_II
+    - phase_1
+    - phase_2
 
-concept:
+# CONCEPT
+# ------
+menu_concept:
   - summary
   - starting_points_and_perspectives:
     - changes_in_the_labour_market
@@ -46,3 +65,9 @@ concept:
     - culture
     - business
     - education
+
+
+# DICTIONARY
+# ==========
+
+index: Home

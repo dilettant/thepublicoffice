@@ -1,6 +1,7 @@
 ---
 layout: global
 title: philosophy
+ref: philosophy
 category: about
 ---
 

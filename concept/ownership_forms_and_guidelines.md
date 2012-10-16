@@ -1,6 +1,7 @@
 ---
 layout: global
 title: ownership forms and guidelines
+ref: ownership_forms_and_guidelines
 parent: the_vision_of_the_public_office
 category: concept
 ---

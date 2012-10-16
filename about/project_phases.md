@@ -1,6 +1,7 @@
 ---
 layout: global
 title: project phases
+ref: project_phases
 category: about
 ---
 

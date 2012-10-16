@@ -1,0 +1,38 @@
+<!DOCTYPE HTML>
+<html lang="sv">
+<head>
+  <meta charset=utf-8>
+  <link rel="icon" href="{{site.baseurl}}/assets/img/favicon.ico" type="image/x-icon">
+  <title>{{site.amuseettitle}}</title>
+  <link href='http://fonts.googleapis.com/css?family=Josefin+Slab:600,700' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Lora:700,400italic,700italic' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="{{site.baseurl}}/assets/amuseet.css">
+
+  <script type="text/javascript" src="{{site.baseurl}}/assets/scripts/jquery-1.8.2.min.js"></script>
+  <script type="text/javascript" src="{{site.baseurl}}/assets/scripts/jquery.smooth-scroll.js"></script>
+<script>
+document.createElement("article");
+document.createElement("footer");
+document.createElement("header");
+document.createElement("hgroup");
+document.createElement("nav");
+
+$(document).ready(function() {
+  var $links = $('ul.link li a');
+  $links.smoothScroll();
+
+  $links.click(function(){
+    console.log('$this', $(this));
+    $links.removeClass('active');
+    $(this).addClass('active');
+  });
+});
+
+</script>
+</head>
+<body id="hem">
+<div id="container">
+    {{content}}
+</div>
+</body>
+</html>

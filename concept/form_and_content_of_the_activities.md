@@ -1,6 +1,7 @@
 ---
 layout: global
 title: form and content of the activities
+ref: form_and_content_of_the_activities
 parent: the_vision_of_the_public_office
 category: concept
 ---

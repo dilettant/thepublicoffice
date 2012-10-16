@@ -1,5 +1,6 @@
 ---
 layout: global
+main: true
 title: the public office
 category: index
 ---

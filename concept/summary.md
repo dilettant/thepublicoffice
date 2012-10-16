@@ -1,6 +1,7 @@
 ---
 layout: global
 title: summary
+ref: summary
 category: concept
 ---
 

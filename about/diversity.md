@@ -1,6 +1,7 @@
 ---
 layout: global
 title: diversity
+ref: diversity
 parent: philosophy
 category: about
 ---

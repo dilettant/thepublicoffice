@@ -1,6 +1,7 @@
 ---
 layout: global
 title: starting points and perspectives
+ref: starting_points_and_perspectives
 category: concept
 ---
 

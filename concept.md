@@ -1,5 +1,6 @@
 ---
 layout: global
+main: true
 title: concept
 category: concept
 ---

@@ -1,6 +1,7 @@
 ---
 layout: global
 title: public meeting places in local development
+ref: public_meeting_places_in_local_development
 parent: starting_points_and_perspectives
 category: concept
 ---

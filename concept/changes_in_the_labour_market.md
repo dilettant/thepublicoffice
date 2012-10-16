@@ -1,6 +1,7 @@
 ---
 layout: global
 title: changes in the labour market
+ref: changes_in_the_labour_market
 parent: starting_points_and_perspectives
 category: concept
 ---

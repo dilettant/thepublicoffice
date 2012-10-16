@@ -1,8 +1,22 @@
 ---
 layout: default
 ---
-<h2>{{page.category}}</h2>
-<article>
-<h3>{{page.title}}</h3>
-{{ content }}
+<article class="hentry">
+  <header>
+    {% capture title %}{% if site[page.category] %}{{site[page.category]}}{% else %}{{page.category}}{% endif %}{% endcapture %}
+    {% capture subtitle %}{% if site[page.parent] %}{{site[page.parent]}}{% else %}{{page.parent | replace:'_', ''}}{% endif %}{% endcapture %}
+    <h1 id="top" class="entry-title">
+      {% if page.main %}{{page.title}}{% else %}{{title}}{% endif%}
+    </h1>
+    {% unless page.main%}
+      {% if page.parent %}
+      <h2 class="entry-section">{{subtitle | capitalize}}</h2>
+      <h3 class="entry-summary">{{page.title | capitalize}}</h3>
+      {% else %}
+      <h2 class="entry-summary">{{page.title | capitalize}}</h2>
+      {% endif %}
+
+    {% endunless %}
+  </header>
+  <div class="hentry-content">{{ content }}</div>
 </article>

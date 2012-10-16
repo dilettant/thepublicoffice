@@ -1,6 +1,7 @@
 ---
 layout: global
 title: the public office in practice
+ref: the_public_office_in_practice
 parent: the_vision_of_the_public_office
 category: concept
 ---

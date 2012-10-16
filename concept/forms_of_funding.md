@@ -1,6 +1,7 @@
 ---
 layout: global
 title: forms of funding
+ref: forms_of_funding
 parent: the_vision_of_the_public_office
 category: concept
 ---

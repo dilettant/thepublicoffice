@@ -1,10 +1,18 @@
 <!DOCTYPE HTML>
-<html lang="en">
+<html lang="{{site.lang}}">
 <head>
   <meta charset=utf-8>
+  <link rel="icon" href="{{site.assetsurl}}/assets/img/favicon.ico" type="image/x-icon">
   <link href='http://fonts.googleapis.com/css?family=Josefin+Slab:400,700' rel='stylesheet' type='text/css'>
-  <link rel="stylesheet" href="{{site.baseurl}}/assets/site.css">
-  <title>The public office</title>
+  <link href='http://fonts.googleapis.com/css?family=Lora:700,400italic,700italic' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="{{site.assetsurl}}/assets/site.css">
+  {% capture title %}{% if site[page.category] %}{{site[page.category]}}{% else %}{{page.category | reaplce:'_',' '}}{% endif %}{% endcapture %}
+  {% capture subtitle %}{% if site[page.parent] %}{{site[page.parent]}}{% else %}{{page.parent | replace:'_', ''}}{% endif %}{% endcapture %}
+  {% if page.parent %}
+  <title>{{site.title}} • {{title | capitalize}} • {{subtitle | capitalize}} • {{page.title | capitalize}}</title>
+  {% else %}
+  <title>{{site.title}} • {{title | capitalize}} • {{page.title | capitalize}}</title>
+  {% endif %}
   <script>
     document.createElement("article"); 
     document.createElement("footer"); 
@@ -14,32 +22,37 @@
   </script>
 </head>
 <body>
-  <div class="container_12 {{page.category}}">
-    <div class="grid_12">
+  <div class="container_24 {{page.category}}">
+    <div class="grid_24 content">
 
-      <h1 class="grid_3 alpha">The public office</h1>
-      <header class="grid_9 omega">
+      <h1 class="logo logo_{{site.lang}} grid_7 alpha">{{site.title}}</h1>
+      <header class="main grid_17 omega">
           <nav>
-              <ul class="grid_3 alpha">
-                  <li class="{% assign item = 'index'%}home{% if page.category == item %} active{% endif %}"><a href="{{site.baseurl}}/{{item}}.html">Home</a></li>
-                  <li class="{% assign item = 'about'%}about{% if page.category == item %} active{% endif %}"><a href="{{site.baseurl}}/{{item}}.html">About</a></li>
-                  <li class="{% assign item = 'concept'%}concept{% if page.category == item %} active{% endif %}"><a href="{{site.baseurl}}/{{item}}.html">Concept</a></li>
-                  <li class="{% assign item = 'contact'%}contact{% if page.category == item %} active{% endif %}"><a href="{{site.baseurl}}/{{item}}.html">Contact</a></li>
+              <ul class="grid_6 alpha">
+                {% include partials/menu.part %}
               </ul>
           </nav>
+          <div id="postit">
+            <a href="{{site.baseurl}}/arkitekturmuseet"><img src="{{site.baseurl}}/assets/img/banner_{{site.lang}}.png" alt="{{site.bannername}}"></a>
+          </div>
       </header>
       <br class="clear"/>
-      <aside class="grid_3 alpha">
+      <aside class="grid_7 alpha">
         {% include partials/submenu.part %}
       </aside>
-      <section class="grid_9 omega ">
-        {{content}}  
-      </section>
+      <section class="grid_17 omega ">{{content}}</section>
     </div>
   </div>
   <br class="clear"/>
-  <footer>
-   <p>This is the Footer</p>
+  <footer class="centered">
+    <section class="address">
+      <h3>Dilettant AB</h3>
+      <p class="centered">Box 20148 • SE-104 60 Stockholm • Sweden</p>
+    </section>
+    <section class="contact">
+      <p class="centered"><a href="mailto:email@dilettant@riseup.net">dilettant@riseup.net</a></p>
+      <p class="centered">+4670-297 79 70</p>
+    </section>    
   </footer>
 </body>
 </html>
