@@ -281,7 +281,9 @@ Vi kommer som sagt att göra ett Facebook-event för hela perioden 30 okt-30 nov
 
 
 
--------
+---
+
+----
 
 ## Notes to Dilettant
 
@@ -318,15 +320,21 @@ Transit kulturinkubator
 Coffice  
 
 ### Email networks and people (just briefly mention in the plan)
-* Prekariatet (Anders)
-* Enlightement Hearts (Anders)
-* Maximum Spaces (Anders)
-* The Good Tribe (Anders)
-* TYP (Anders)
 * Jenni Sundin (Anders)
-* Staffan Hjalmarsson (Anders)
+* Teresa Kristoffersson
 * Teaterförbundet
 * Musikerförbundet
 * Journalistförbundet
 * Arkitekturskolan
 * Konstfack
+* Personer som vi träffade under delmoment ett:
+	Martin Sundin och Matilda Berggren, Kulturdepartementet
+    
+
+Skickat:  
+* TYP (Anders)  
+* Enlightement Hearts (Anders)  
+* SITE-stipendiater (Anders)  
+* Prekariatet (Anders)
+* Staffan Hjalmarsson (Anders)  
+* The Good Tribe (Anders)
