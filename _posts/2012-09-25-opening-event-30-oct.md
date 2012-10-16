@@ -26,11 +26,39 @@ published: false
 
 *Ev: vidare diskussioner om framtidens allmänningar där även Dilettant deltar i mer informell form.*
 
-Maria: hur ser Marknadsplanen ut? Tycker ni att de ser ok ut och när behöver ni texter? Ring Anders!
 
-- Återkoppling Sandra (ringa): synd att det blev så här, men vi vill skulle vilja lägga till en föreläsare Moa Thunström - är det ok? 
-I vilken utsträckning/omfattning kan vi räkna med att de engarerar sig (mingelmat etc..)
-Monica håller ihop kvällen?
-Vilken typ av info? MFmöjligheter
-- Kontakta Moa Thunström
-Q Johan: vilka betalar vi och vilka betalar vi inte? Vad är minimum?
+
+
+
+## TO DO
+
+Checklist Museum:
+
+- Marketing (FB + email)
+- Equipment 
+	* projector
+	* screen 
+	* sound
+- Technician?
+- Set time for presenters (Monica + Karin)
+
+Checklist event
+
+- Snacks + drinks
+	* budget 1500 kr, what do we opt for?
+- PR
+	* Invitation text
+	* Email
+	* FB-event
+- Info material
+	* printed posters
+	* printed info sheets
+- POMA ready
+	* Signs up
+	* Space ready
+- Dilettant presentation of PO
+	* who says what
+	* ready presentation
+
+
+
