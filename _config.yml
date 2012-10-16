@@ -34,10 +34,10 @@ menu_main:
 menu_about:
   - team
   - philosophy:
-    - open_source
     - cooperation
     - commons
     - diversity
+    - open_source
   - project_phases:
     - phase_1
     - phase_2
