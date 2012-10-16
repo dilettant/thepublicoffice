@@ -1,9 +1,9 @@
-—
+---
 category: amuseet
 
 title: Team
 ref: team
-—
+---
 
 ###  Project Team 
 Johan Thelander (Project manager, economy & research), Myriam Mazzoni (Production & research), Victor Saiz (Web & research), Anders Jacobson ( Production & research) . 

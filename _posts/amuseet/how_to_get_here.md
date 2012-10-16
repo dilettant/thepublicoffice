@@ -1,9 +1,9 @@
-—
+---
 category: amuseet
 
 title: How to get here
 ref: how_to_get_here
-—
+---
 
 ### Address  
 [Arkitekturmuseet] (http://www.arkitekturmuseet.se) (The Swedish Museum of Architecture) is located in the same building as Moderna Museet, at Exercisplan/Slupskjulsplan on Skeppsholmen, Stockholm. Signs and posters in the museum will show the way to the workspace, and you can also ask at the Arkitekturmuseet main desk.   

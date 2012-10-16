@@ -1,9 +1,9 @@
-—
+---
 category: amuseet
 
 title: Partners and funders
 ref: partners_and_funders
-—
+---
 
 The Public Office at the Museum of Architecture is run by Dilettant AB in collaboration with The Swedish Museum of Architecture, the EU project Special Issue and Fabel Kommunikation AB, with financial support from the Culture Programme of the European Union, Kulturbryggan, The Swedish Museum of Architecture and the City of Stockholm.
 
