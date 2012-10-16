@@ -24,7 +24,7 @@ gravasize: 142
 # MAIN
 # -----
 menu_main:
-  - home
+  - index
   - about
   - concept
   - contact
