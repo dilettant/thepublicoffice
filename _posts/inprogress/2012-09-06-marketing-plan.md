@@ -281,6 +281,7 @@ Vi kommer som sagt att göra ett Facebook-event för hela perioden 30 okt-30 nov
 
 
 
+published: false
 ---
 
 ----
@@ -325,6 +326,8 @@ Coffice
 * Teaterförbundet
 * Musikerförbundet
 * Journalistförbundet
+* KRO
+* Dramatikerförbundet
 * Arkitekturskolan
 * Konstfack
 * Personer som vi träffade under delmoment ett:
