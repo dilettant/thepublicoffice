@@ -5,18 +5,18 @@ ref: team
 category: about
 ---
 
-<ul>
+<ul class="team">
   {% for item in site.categories.team reversed %}
-    <li>
-      <h3>{{item.name}}</h3>
-      <h4>{{item.role}}</h4>
-      {% if item.gravatar %}
-        <img src="{{item.gravatar}}?s={{site.gravasize}}" alt="{{item.name}}">
-      {% else %}
-        <img width="{{site.gravasize}}" src="{{site.baseurl}}/assets/img/{{item.picture}}" alt="{{item.name}}">
+    <li class="grid_13">
+      <h3 class="grid_13">{{item.name}}</h3>
+      <h4 class="grid_13">{{item.role}}</h4>
+      <img class="grid_3 alpha" 
+      {% if item.gravatar %} src="{{item.gravatar}}?s={{site.gravasize}}"
+      {% else %} width="{{site.gravasize}}" src="{{site.baseurl}}/assets/img/{{item.picture}}"
       {% endif %}
-
-      <p>{{item.content}}</p>
+      alt="{{item.name}}">
+      <div class="description grid_9 omega"><p>{{item.content}}</p></div>
     </li>
   {% endfor %}
 </ul>
+<br class="clear" />

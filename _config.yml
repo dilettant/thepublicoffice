@@ -9,12 +9,12 @@ server:      false
 # =========
 
 title: The public office
-amuseettitle: The public office at the museum
+amuseettitle: The public office at the swedish museum of architecture
+# baseurl:    file:///Users/vectorsize/Dropbox/www/dilettant/thepublicoffice/_site
 baseurl:    http://thepublicoffice.se
 assetsurl : http://allmannakontoret.se
-bannername: Arkitekturmuseet
+bannername: Museumofarchitecture
 
-# baseurl:    file:///Users/vectorsize/Dropbox/www/dilettant/allmannakontoret-en/_site
 lang: en
 gravasize: 142
 
