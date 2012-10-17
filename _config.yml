@@ -13,7 +13,7 @@ amuseettitle: The public office at the swedish museum of architecture
 # baseurl:    file:///Users/vectorsize/Dropbox/www/dilettant/thepublicoffice/_site
 baseurl:    http://thepublicoffice.se
 assetsurl : http://allmannakontoret.se
-bannername: Museumofarchitecture
+bannername: museumofarchitecture
 
 lang: en
 gravasize: 142
