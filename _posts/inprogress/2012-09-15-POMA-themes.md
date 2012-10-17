@@ -127,7 +127,7 @@ Who and what is the work?
 * Lisa Rosendahl, jaspis: artistic labour, immaterial labour in global capitalism
 * Kaliber, SR: "De osäkert anställda" http://sverigesradio.se/sida/gruppsida.aspx?programid=1316&grupp=16969 ( Prodbolag: 3e stadsmakten)
 
-* Roland Paulsen, phd sociology, Uppsala Uni:"Arbetssamhället"
+* Roland Paulsen, phd sociology, Uppsala Uni:"Arbetssamhället"0737839337
 http://katalog.uu.se/empInfo/?id=N7-57
 http://www.adlibris.com/se/searchresult.aspx?search=advanced&author=Roland%20Paulsen&fromproduct=true
 
