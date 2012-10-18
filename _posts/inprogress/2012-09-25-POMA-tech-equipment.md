@@ -38,6 +38,5 @@ published: false
 ## IT
 Johan har pratat med Adolfo Vega som är ansvarig på IT-avdelningen
 
-* det är inga problem att sätta upp en egen sändare i kontoret med ett eget nätverk som kontorsbesökare kopplar upp sig mot.
-* Adolfo ska kolla om det finns lediga sändare på museet och återkommer om det är något som projektet behöver införskaffa.
+* Adolfo har en wi-fi router som vi kan använda för att sända ett eget öppet nätverk som kontorsbesökare kopplar upp sig mot.
 
