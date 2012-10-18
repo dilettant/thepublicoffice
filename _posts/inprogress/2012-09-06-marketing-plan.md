@@ -284,7 +284,23 @@ Vi kommer som sagt att göra ett Facebook-event för hela perioden 30 okt-30 nov
 published: false
 ---
 
-----
+---
+
+##Posts on Facebook Pages:
+
+*To Do*  
+
+*Done*  
+Teaterförbundet  
+KRO/KIF  
+Tomma Rum  
+MDT  
+Konstfack  
+Mejan Labs  
+Jornalistförbundet  
+Studentpalatset  
+Södertörns högskola  
+Stockholms Universitet  
 
 ## Notes to Dilettant
 
