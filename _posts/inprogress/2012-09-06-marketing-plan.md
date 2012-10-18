@@ -348,6 +348,9 @@ Coffice
 * Konstfack
 * Personer som vi träffade under delmoment ett:
 	Martin Sundin och Matilda Berggren, Kulturdepartementet
+* Kulturbryggan (Johan kan skicka till referensgruppen)
+* Sthlm Stad
+	Patrick Liljegren, Monica Christensen
     
 
 Skickat:  
