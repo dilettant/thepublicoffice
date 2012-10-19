@@ -7,11 +7,11 @@ published: false
 # DIALOGUE MEETINGS
 
 
-QUESTIONS 
+QUESTIONS
 
-* Fees for dialogue partners: can we establish a minimum or an average fee? The museum pays 3500 kr.
+* Fees for dialogue partners: can we establish a minimum or an average fee? The museum pays 3500 kr or 2000+moms
 
-* Formats: can we comission people to think..?
+* Formats: can we comission people to think..? 
 
 ### Format
 1. Feedback on report for reading
@@ -41,7 +41,7 @@ mpstefannilsson.wordpress.com
 *Katarina Ahlqvist: vd, Gårdstensbostäder
 progressive property management where the inhabitants are in the board
 
-
+*Subtopia: about local partipation and development
 
 *Work/sustainable development:*
 
