@@ -22,28 +22,28 @@ QUESTIONS
 
 ### ABOUT People/organisations/groups 
 
-Politicians:
+*Politicians:*
 
 *Stefan Nilsson: 
 Gruppledare för Miljöpartiet de Gröna i Stockholm. Socionom, företagsekonom och dansinstruktör.
 mpstefannilsson.wordpress.com
 
 
-Sustainable development:
+*Sustainable development:*
 
 *Micael Nilsson, fil.dr.	och	expert,	Boverket 
 
 *Peter Örn: ordförande, Delegationen för hållbara städer 
 
 
-Fastighetsförvaltare / 'Real estate managers':
+*Fastighetsförvaltare / 'Real estate managers':*
 
 *Katarina Ahlqvist: vd, Gårdstensbostäder
 progressive property management where the inhabitants are in the board
 
 
 
-Work/sustainable development:
+*Work/sustainable development:*
 
 *Charlotta Mellander: docent i nationalekonomi vid Handelshögskolan i Jönköping och medarbetare till Richard Florida som grundat The Creative Class Group. Hon håller föreläsningar om hur viktig platsen blivit för den ekonomiska utvecklingen. Charlotta pratar om huruvida det verkligen är arbetsmöjligheter i andra områden som lockar människor eller om det egentligen är arbetskraften som lockar till sig jobben. 
 Will be presenting at Arena Hållbar stad 6-8 nov, maybe we can catch her after 
