@@ -58,6 +58,9 @@ Moa Thunström, commons, history of commons, (urban) sustainable development)
 
 Henrietta Palmer, KKH/Mejan Arc.
 
+* Ev. någon från nätverket Skapa Allmänningar! (en något annorlunda syn dock i och med sitt fokus på självorganisering) http://skapaallmanningar.se/
+* Ev. någon från Performing the Common – Föreställningar om det gemensamma – http://www.performingthecommon.se/ *Karin Hansson som är doktorand vid Stockholms Universitet i Kista/Kungl. Konsthögskolan, och utställningen är en del av en del av forskningen om e-demokrati vid institutionen för data- och systemvetenskap vid Stockholms Universitet och Skolan för arkitektur och samhällsbyggnad vid Kungliga Tekniska högskolan*
+
 
 ### INFO to have on all dialogue partners:
 
