@@ -56,6 +56,9 @@ http://www.facebook.com/CitiesAsValueNetworks
 Moa Thunström, commons, history of commons, (urban) sustainable development)
 
 
+Henrietta Palmer, KKH/Mejan Arc.
+
+
 ### INFO to have on all dialogue partners:
 
 1. Name:
