@@ -73,6 +73,8 @@ http://www.facebook.com/CitiesAsValueNetworks
 
 *Work*
 
+*Roland Paulsen, sociologist, "Arbetarsamhället"; contemporary refelction on what work is or isn't anymore..
+
 *Lisa Rosendahl, IASPIS (har genomfört en mängd arbete om arbete och conditions of production, superskarp och bra)
 
 *Arbetsförmedlingen? AJ har t.ex. kontakt med Roine Wig, som nog kan tipsa
