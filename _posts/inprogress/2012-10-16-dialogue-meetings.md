@@ -80,7 +80,7 @@ http://www.facebook.com/CitiesAsValueNetworks
 
 * Ester Barinaga, Department of Management, Politics and Philosophy, Copenhagen Business School; Integration/segregation/gentrification
 
-* Cultura21: vi har blivit tillfrågade ab projektledare Daniel Tjäder om att vara med i deras nätverk ARK NORD. Anders har sagt att vi kan stå med i deras ansökan till KKNord, men att vi borde ses för att sätta oss in mer i vad det innebär. Daniel, och förhoppningsvis kollegorna Oleg och Kajsa (som bor i Köpenhamn). Han funderade på om dom kunde göra nån typ av workshop hos oss för att det då skulle bli lättare att få dom från Kph till Sthlm. 
+* Cultura21: vi har blivit tillfrågade av projektledare Daniel Tjäder om att vara med i deras nätverk ARK NORD. Anders har sagt att vi kan stå med i deras ansökan till KKNord, men att vi borde ses för att sätta oss in mer i vad det innebär. Daniel, och förhoppningsvis kollegorna Oleg och Kajsa (som bor i Köpenhamn) vill gärna komma förbi POMA för ett möte. Han funderade även på om dom kunde göra nån typ av workshop hos oss för att det då skulle bli lättare att få dom från Kph till Sthlm. 
 http://cultura21.dk/projekter-2/ark-nord-network-development-project/
 
 *Work/sustainable development:*
