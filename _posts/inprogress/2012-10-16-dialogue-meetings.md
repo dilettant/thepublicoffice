@@ -83,6 +83,8 @@ http://www.facebook.com/CitiesAsValueNetworks
 * Cultura21: vi har blivit tillfrågade av projektledare Daniel Tjäder om att vara med i deras nätverk ARK NORD. Anders har sagt att vi kan stå med i deras ansökan till KKNord, men att vi borde ses för att sätta oss in mer i vad det innebär. Daniel, och förhoppningsvis kollegorna Oleg och Kajsa (som bor i Köpenhamn) vill gärna komma förbi POMA för ett möte. Han funderade även på om dom kunde göra nån typ av workshop hos oss för att det då skulle bli lättare att få dom från Kph till Sthlm. 
 http://cultura21.dk/projekter-2/ark-nord-network-development-project/
 
+* Hood Arkitektur (Petter Jacobson & Miguel Lara) – arkitektkontor under uppstart med fokus på förortsfrågor bl.a.
+
 *Work/sustainable development:*
 
 * Charlotta Mellander: docent i nationalekonomi vid Handelshögskolan i Jönköping och medarbetare till Richard Florida som grundat The Creative Class Group. Hon håller föreläsningar om hur viktig platsen blivit för den ekonomiska utvecklingen. Charlotta pratar om huruvida det verkligen är arbetsmöjligheter i andra områden som lockar människor eller om det egentligen är arbetskraften som lockar till sig jobben.   
