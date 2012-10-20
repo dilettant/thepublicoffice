@@ -45,6 +45,17 @@ mpstefannilsson.wordpress.com
 *Stadsutvecklare:*
 
 *Regionplanekontoret:*
+Detta svarade Tillväxt, miljö och regionplanering (f.d. Regionplanekontoret Sthlm) vid en tidigare förfrågan om Mohamed, projektledare för projektet Mötesplatser:
+
+"SLL Tillväxt, miljö och regionplanering jobbar vidare med det arbete som Mohamed gjorde som rörde mötesplatser och sammanhållning i regionen. Hör av dig om du vill ha kontakt med någon av oss.
+
+Vänliga hälsningar
+Pia Eliasson
+Informationschef
+SLL Tillväxt, miljö och regionplanering
+ 
+Tel: 08-737 44 42
+Mobil: 070-737 44 42
 
 *Stockholm Business Region:* 
 
