@@ -80,7 +80,8 @@ http://www.facebook.com/CitiesAsValueNetworks
 
 * Ester Barinaga, Department of Management, Politics and Philosophy, Copenhagen Business School; Integration/segregation/gentrification
 
-
+* Cultura21: vi har blivit tillfrågade ab projektledare Daniel Tjäder om att vara med i deras nätverk ARK NORD. Anders har sagt att vi kan stå med i deras ansökan till KKNord, men att vi borde ses för att sätta oss in mer i vad det innebär. Daniel, och förhoppningsvis kollegorna Oleg och Kajsa (som bor i Köpenhamn). Han funderade på om dom kunde göra nån typ av workshop hos oss för att det då skulle bli lättare att få dom från Kph till Sthlm. 
+http://cultura21.dk/projekter-2/ark-nord-network-development-project/
 
 *Work/sustainable development:*
 
@@ -123,6 +124,12 @@ progressive property management where the inhabitants are in the board
 * Någon ur personalen på Dieselverkstadens bibliotek (personalägt AB på uppdrag av Nacka kommun)
 
 * Bibliotikarien i Fisksätra
+
+*Studentgrupper:*
+* Sara Vall, Critical Design Studies på Arkitekturskolan (vi har varit i kontakt och hon är intresserad av samverkan på nåt sätt: smr.vall@gmail.com
+
+* Tor Lindstrand (har 24 studenter, har visat intresse för att t.ex. organisera föreläsning eller nåt sånt: <tor@llp.se>
+
 
 
 * Subtopia: about local partipation and development?
