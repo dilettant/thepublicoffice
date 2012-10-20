@@ -83,8 +83,6 @@ http://www.facebook.com/CitiesAsValueNetworks
 *Katarina Ahlqvist: vd, Gårdstensbostäder
 progressive property management where the inhabitants are in the board
 
-*Subtopia: about local partipation and development?
-
 *Stockholmshem
 
 *Stenafastigheter – kör med något de kallar relationsförvaltning
@@ -107,11 +105,29 @@ progressive property management where the inhabitants are in the board
 *Bibliotikarien i Fisksätra
 
 
-
+*Subtopia: about local partipation and development?
 
 *Ev. någon från nätverket Skapa Allmänningar! (en något annorlunda syn dock i och med sitt fokus på självorganisering) http://skapaallmanningar.se/
 
 *Performing the Common – Föreställningar om det gemensamma – http://www.performingthecommon.se/ *Karin Hansson som är doktorand vid Stockholms Universitet i Kista/Kungl. Konsthögskolan, och utställningen är en del av en del av forskningen om e-demokrati vid institutionen för data- och systemvetenskap vid Stockholms Universitet och Skolan för arkitektur och samhällsbyggnad vid Kungliga Tekniska högskolan*
+
+*Skapa allmänningar! http://skapaallmanningar.se/
+
+*Alternativ Stad, http://www.alternativstad.nu/
+
+*City Mine(d), http://www.citymined.org/
+
+*Tomma Rum, http://www.tommarum.se/
+
+*Kulturkampanjen/Cyklopen (?)
+
+*Prekariatet
+
+*Planka.nu (om arbetspendling och utveckling av förorterna)
+
+*Co-working Umeå: Albin Davidsson http://www.umea2014.se/arkivnyheter/enarbetsplatsdarkreativapersonermots.5.7053ae821362a1b437c3629.html 
+
+
 
 
 ### INFO to have on all dialogue partners:
@@ -123,3 +139,4 @@ progressive property management where the inhabitants are in the board
 5. Questions
 6. Week
 7. Format
+8. Agreement/Fee
