@@ -6,7 +6,7 @@ category: contact
 ---
 
 Phone +46 (0) 702 97 79 70  
-Email dilettant@riseup.net  
+Email <dilettant@riseup.net>  
 
 Postal address:   
 Dilettant AB   
