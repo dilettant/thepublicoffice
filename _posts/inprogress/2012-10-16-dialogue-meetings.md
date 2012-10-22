@@ -9,13 +9,6 @@ published: false
 
 QUESTIONS
 
-* Fees for dialogue partners:  
-I budget har vi räknat med sju dialogmöten á 5000 kr + moms. Totalt
-har vi alltså avsatt 35000 kr för konsultarvoden. Beroende på vad vi ber
-om så kan ju 2000 kr + moms var en mer rimlig summa kanske. Då kan vi i
-såna fall bjuda in fler personer. :)
-
-
 * Formats: can we comission people to think..? 
 
 ### Format
@@ -24,6 +17,11 @@ såna fall bjuda in fler personer. :)
 3. Take notes? record?
 4. Establish a form based on structure of the report?
 
+### Budget
+Fees for dialogue partners:  
+Total budget 35000 kr 
+2000 kr + moms 
+400 kr/restimme
 
 ### ABOUT People/organisations/groups 
 
