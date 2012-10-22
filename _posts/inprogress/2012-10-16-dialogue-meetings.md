@@ -6,10 +6,13 @@ published: false
 
 # DIALOGUE MEETINGS
 
-
 QUESTIONS
 
 * Formats: can we comission people to think..? 
+
+PEOPLE WITH CONTACTS
+* Yvonne Roch
+* Jonas Andersson
 
 ### Format
 1. Feedback on report for reading
