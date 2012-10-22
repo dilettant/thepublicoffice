@@ -347,16 +347,16 @@ Coffice
 * Sthlm Stad
 	Patrick Liljegren, Monica Christensen
 
-*Skickat:*    
+Skickat:  
 * Konstfack 
 * KRO  
 * DOCH  
 * Teaterförbundet  
 * Dramatikerförbundet 
 * Teresa Kristoffersson (Journalisthögskolan)  
-* TYP (Anders)  
-* Enlightement Hearts (Anders)  
-* SITE-stipendiater (Anders)  
-* Prekariatet (Anders)
-* Staffan Hjalmarsson (Anders)  
-* The Good Tribe (Anders)
+* TYP   
+* Enlightement Hearts   
+* SITE-stipendiater   
+* Prekariatet  
+* Staffan Hjalmarsson  
+* The Good Tribe   
