@@ -329,7 +329,7 @@ Stockholms Universitet
 Södertörns högskola  
 Konstfack  
 Mejan  
-Arkitekturskolan  
+Arkitekturskolan (Anna I)   
 Journalisthögskolan  
 Dans och Cirkushögskolan  
 Hemliga trädgården  
@@ -337,8 +337,7 @@ SITE
 Transit kulturinkubator  
 Coffice  
 
-### Email networks and people (just briefly mention in the plan)
-* Teresa Kristoffersson
+### Email networks and people 
 * Musikerförbundet
 * Journalistförbundet
 * Arkitekturskolan
@@ -347,14 +346,14 @@ Coffice
 * Kulturbryggan (Johan kan skicka till referensgruppen)
 * Sthlm Stad
 	Patrick Liljegren, Monica Christensen
-    
 
-Skickat:  
+*Skickat:*    
 * Konstfack 
 * KRO  
 * DOCH  
 * Teaterförbundet  
-* Dramatikerförbundet  
+* Dramatikerförbundet 
+* Teresa Kristoffersson (Journalisthögskolan)  
 * TYP (Anders)  
 * Enlightement Hearts (Anders)  
 * SITE-stipendiater (Anders)  
