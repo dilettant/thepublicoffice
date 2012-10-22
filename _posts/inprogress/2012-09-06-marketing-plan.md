@@ -301,6 +301,7 @@ Jornalistförbundet
 Studentpalatset  
 Södertörns högskola  
 Stockholms Universitet  
+Skapa Allmänningar!
 
 ## Notes to Dilettant
 
@@ -337,15 +338,10 @@ Transit kulturinkubator
 Coffice  
 
 ### Email networks and people (just briefly mention in the plan)
-* Jenni Sundin (Anders)
 * Teresa Kristoffersson
-* Teaterförbundet
 * Musikerförbundet
 * Journalistförbundet
-* KRO
-* Dramatikerförbundet
 * Arkitekturskolan
-* Konstfack
 * Personer som vi träffade under delmoment ett:
 	Martin Sundin och Matilda Berggren, Kulturdepartementet
 * Kulturbryggan (Johan kan skicka till referensgruppen)
@@ -354,6 +350,11 @@ Coffice
     
 
 Skickat:  
+* Konstfack 
+* KRO  
+* DOCH  
+* Teaterförbundet  
+* Dramatikerförbundet  
 * TYP (Anders)  
 * Enlightement Hearts (Anders)  
 * SITE-stipendiater (Anders)  
