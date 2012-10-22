@@ -9,7 +9,12 @@ published: false
 
 QUESTIONS
 
-* Fees for dialogue partners: can we establish a minimum or an average fee? The museum pays 3500 kr or 2000+moms
+* Fees for dialogue partners:  
+I budget har vi räknat med sju dialogmöten á 5000 kr + moms. Totalt
+har vi alltså avsatt 35000 kr för konsultarvoden. Beroende på vad vi ber
+om så kan ju 2000 kr + moms var en mer rimlig summa kanske. Då kan vi i
+såna fall bjuda in fler personer. :)
+
 
 * Formats: can we comission people to think..? 
 
