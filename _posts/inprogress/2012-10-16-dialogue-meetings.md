@@ -15,7 +15,8 @@ QUESTIONS
 1. Feedback on report for reading
 2. Specify 3-5 questions?
 3. Take notes? record?
-4. Establish a form based on structure of the report?
+4. Establish a form based on structure of the report?  
+Make a plan with Victor
 
 ### Budget
 Fees for dialogue partners:  
@@ -26,12 +27,12 @@ Total budget 35000 kr
 ### ABOUT People/organisations/groups 
 
 *Politicians:*
-
+bedöma projektets politiska rimlighet../political feedback
 * Stefan Nilsson: 
 Gruppledare för Miljöpartiet de Gröna i Stockholm. Socionom, företagsekonom och dansinstruktör.
 mpstefannilsson.wordpress.com
 
-* Ann-Margarethe Livh (V), gruppledare Vänsterpartiet och vice ordförande i Familjebostäder
+* Ann-Margarethe Livh (V), gruppledare Vänsterpartiet och vice ordförande i Familjebostäder + stockholmsblogg
 
 * Berit Högman (S) – kulturutskottet (har bl.a. drivit frågor i Riksdagen om mötesplatser)
 
@@ -39,19 +40,20 @@ mpstefannilsson.wordpress.com
 
 * Madeleine Sjöstedt (FP) – kultur- och fastighetsborgarråd 
 
-* Patrik Liljegren, Kulturstrategiska avd. (vägen in till Medeleine Sjöstrand?)
-
 * Olov Lavesson (M) – näringsutskottet
 
 * Centerpartist?
 
-*Stadsutvecklare:*
 
-*Regionplanekontoret:*
+*Tjänstehen/civilservants*
+
+* Patrik Liljegren, Kulturstrategiska avd. (vägen in till Medeleine Sjöstedt?)
+
+* Stadsutvecklare? 
+
+* Regionplanekontoret  
 Detta svarade Tillväxt, miljö och regionplanering (f.d. Regionplanekontoret Sthlm) vid en tidigare förfrågan om Mohamed, projektledare för projektet Mötesplatser:
-
 "SLL Tillväxt, miljö och regionplanering jobbar vidare med det arbete som Mohamed gjorde som rörde mötesplatser och sammanhållning i regionen. Hör av dig om du vill ha kontakt med någon av oss.
-
 Vänliga hälsningar
 Pia Eliasson
 Informationschef
@@ -59,11 +61,6 @@ SLL Tillväxt, miljö och regionplanering
  
 Tel: 08-737 44 42
 Mobil: 070-737 44 42
-
-*Stockholm Business Region:* 
-
-
-
 
 *Sustainable development:*
 
@@ -87,6 +84,8 @@ http://www.facebook.com/CitiesAsValueNetworks
 http://cultura21.dk/projekter-2/ark-nord-network-development-project/
 
 * Hood Arkitektur (Petter Jacobson & Miguel Lara) – arkitektkontor under uppstart med fokus på förortsfrågor bl.a.
+
+* Stockholm Business Region?
 
 *Work/sustainable development:*
 
