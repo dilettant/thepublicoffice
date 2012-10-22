@@ -352,6 +352,8 @@ Skickat:
 * KRO  
 * DOCH  
 * Teaterförbundet  
+* Danscentrum
+* Jobbscen
 * Dramatikerförbundet 
 * Teresa Kristoffersson (Journalisthögskolan)  
 * TYP   
