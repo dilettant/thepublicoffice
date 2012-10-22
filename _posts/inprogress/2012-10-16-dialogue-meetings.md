@@ -10,7 +10,7 @@ QUESTIONS
 
 * Formats: can we comission people to think..? 
 
-PEOPLE WITH CONTACTS
+PEOPLE WITH (POL) CONTACTS
 * Yvonne Roch
 * Jonas Andersson
 
@@ -46,6 +46,7 @@ mpstefannilsson.wordpress.com
 * Olov Lavesson (M) – näringsutskottet
 
 * Centerpartist?
+* Stockholm Business Region
 
 
 *Tjänstehen/civilservants*
@@ -56,7 +57,7 @@ mpstefannilsson.wordpress.com
 
 * Regionplanekontoret  
 Detta svarade Tillväxt, miljö och regionplanering (f.d. Regionplanekontoret Sthlm) vid en tidigare förfrågan om Mohamed, projektledare för projektet Mötesplatser:
-"SLL Tillväxt, miljö och regionplanering jobbar vidare med det arbete som Mohamed gjorde som rörde mötesplatser och sammanhållning i regionen. Hör av dig om du vill ha kontakt med någon av oss.
+"SLL Tillväxt, miljö och regionplanering jobbar vidare med det arbete som Mohamed gjorde som rörde mötesplatser och sammanhållning i regionen. Hör av dig om du vill ha kontakt med någon av oss. 
 Vänliga hälsningar
 Pia Eliasson
 Informationschef
@@ -64,6 +65,7 @@ SLL Tillväxt, miljö och regionplanering
  
 Tel: 08-737 44 42
 Mobil: 070-737 44 42
+
 
 *Sustainable development:*
 
@@ -86,9 +88,10 @@ http://www.facebook.com/CitiesAsValueNetworks
 * Cultura21: vi har blivit tillfrågade av projektledare Daniel Tjäder om att vara med i deras nätverk ARK NORD. Anders har sagt att vi kan stå med i deras ansökan till KKNord, men att vi borde ses för att sätta oss in mer i vad det innebär. Daniel, och förhoppningsvis kollegorna Oleg och Kajsa (som bor i Köpenhamn) vill gärna komma förbi POMA för ett möte. Han funderade även på om dom kunde göra nån typ av workshop hos oss för att det då skulle bli lättare att få dom från Kph till Sthlm. 
 http://cultura21.dk/projekter-2/ark-nord-network-development-project/
 
-* Hood Arkitektur (Petter Jacobson & Miguel Lara) – arkitektkontor under uppstart med fokus på förortsfrågor bl.a.
+* Hood Arkitektur (Petter Jacobson & Miguel Lara) – arkitektkontor under uppstart med fokus på förortsfrågor bl.a. 
 
-* Stockholm Business Region?
+* Någon från museet?
+
 
 *Work/sustainable development:*
 
@@ -97,7 +100,7 @@ http://cultura21.dk/projekter-2/ark-nord-network-development-project/
 
 *Work*
 
-* Roland Paulsen, sociologist, "Arbetarsamhället"; contemporary reflection on what work is or isn't anymore.. (PDF in Dropbox)
+* Roland Paulsen, sociologist, "Arbetsamhället"; contemporary reflection on what work is or isn't anymore.. (PDF in Dropbox) 
 
 * Lisa Rosendahl, IASPIS (har genomfört en mängd arbete om arbete och conditions of production, superskarp och bra)
 
@@ -111,11 +114,7 @@ progressive property management where the inhabitants are in the board
 
 * Stockholmshem
 
-* Stenafastigheter – kör med något de kallar relationsförvaltning
-
 * Dag Levander, fastighetschef Vasakronan
-
-* Atrium Ljungberg
 
 * HSB
 
@@ -126,18 +125,16 @@ progressive property management where the inhabitants are in the board
 
 * Emelie Wieslander, Verksamhetssamordnare för Garaget i Malmö
 
-* Inga Lundén, Stadsbibliotikare
+* Inga Lundén, Stadsbibliotikare Sthlm
 
 * Någon ur personalen på Dieselverkstadens bibliotek (personalägt AB på uppdrag av Nacka kommun)
 
 * Bibliotikarien i Fisksätra
 
-*Studentgrupper:*
+*Studentgrupper:*  
 * Sara Vall, Critical Design Studies på Arkitekturskolan (vi har varit i kontakt och hon är intresserad av samverkan på nåt sätt: smr.vall@gmail.com
 
-* Tor Lindstrand (har 24 studenter, har visat intresse för att t.ex. organisera föreläsning eller nåt sånt: <tor@llp.se>
-
-
+* Tor Lindstrand (har 24 arkitektstudenter, har visat intresse för att t.ex. organisera föreläsning eller nåt sånt: <tor@llp.se>
 
 * Subtopia: about local partipation and development?
 
@@ -145,8 +142,6 @@ progressive property management where the inhabitants are in the board
 
 * Performing the Common – Föreställningar om det gemensamma – http://www.performingthecommon.se/   
 * Karin Hansson som är doktorand vid Stockholms Universitet i Kista/Kungl. Konsthögskolan, och utställningen är en del av en del av forskningen om e-demokrati vid institutionen för data- och systemvetenskap vid Stockholms Universitet och Skolan för arkitektur och samhällsbyggnad vid Kungliga Tekniska högskolan*
-
-* Skapa allmänningar! http://skapaallmanningar.se/
 
 * Alternativ Stad, http://www.alternativstad.nu/  
 
@@ -156,13 +151,9 @@ progressive property management where the inhabitants are in the board
 
 * Kulturkampanjen/Cyklopen (?)
 
-* Prekariatet
-
-* Planka.nu (om arbetspendling och utveckling av förorterna)  
+* Prekariatet  
 
 * Co-working Umeå: Albin Davidsson http://www.umea2014.se/arkivnyheter/enarbetsplatsdarkreativapersonermots.5.7053ae821362a1b437c3629.html 
-
-
 
 
 ### INFO to have on all dialogue partners:
