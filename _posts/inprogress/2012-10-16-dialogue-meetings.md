@@ -10,27 +10,26 @@ QUESTIONS
 
 * Formats: can we comission people to think..? 
 
-PEOPLE WITH (POL) CONTACTS
-* Yvonne Roch
-* Jonas Andersson
+PEOPLE WITH (POL) CONTACTS   
+Yvonne Roch & Jonas Andersson
 
 ### Format
 1. Feedback on report for reading
 2. Specify 3-5 questions?
 3. Take notes? record?
 4. Establish a form based on structure of the report?  
-Make a plan with Victor
+*& Make a plan with Victor re documentation/communication*
 
 ### Budget
 Fees for dialogue partners:  
-Total budget 35000 kr 
-2000 kr + moms 
-400 kr/restimme
+Total budget 35000 kr   
+2000 kr + moms  
+400 kr/restimme/travelhour
 
 ### ABOUT People/organisations/groups 
 
 *Politicians:*
-bedöma projektets politiska rimlighet../political feedback
+bedöma projektets politiska rimlighet../political feedback  
 * Stefan Nilsson: 
 Gruppledare för Miljöpartiet de Gröna i Stockholm. Socionom, företagsekonom och dansinstruktör.
 mpstefannilsson.wordpress.com
