@@ -339,8 +339,7 @@ Coffice
 
 ### Email networks and people 
 * Musikerförbundet
-* Journalistförbundet
-* Arkitekturskolan
+* Arkitekturskolan (Anna kommer att sprida ordet)
 * David Karlsson  
 * Personer som vi träffade under delmoment ett:
 	Martin Sundin och Matilda Berggren, Kulturdepartementet
@@ -349,7 +348,8 @@ Coffice
 	Patrick Liljegren, Monica Christensen
 
 Skickat:  
-* KulturDirekt  
+* KulturDirekt 
+* Journalistförbundet
 * Konstfack  
 * KRO  
 * DOCH  
