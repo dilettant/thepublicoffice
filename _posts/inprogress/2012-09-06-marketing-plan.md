@@ -349,7 +349,8 @@ Coffice
 	Patrick Liljegren, Monica Christensen
 
 Skickat:  
-* Konstfack 
+* KulturDirekt  
+* Konstfack  
 * KRO  
 * DOCH  
 * Teaterförbundet  
@@ -362,4 +363,8 @@ Skickat:
 * SITE-stipendiater   
 * Prekariatet  
 * Staffan Hjalmarsson  
-* The Good Tribe   
+* The Good Tribe  
+
+Skippat:
+* KLYS
+* Kulturkraft Sthlm
