@@ -52,7 +52,7 @@ mpstefannilsson.wordpress.com
 
 * Patrik Liljegren, Kulturstrategiska avd. (vägen in till Medeleine Sjöstedt?)
 
-* Stadsutvecklare? 
+* Niklas Svensson: stadsbygnadsstrateg sthlm stad
 
 * Regionplanekontoret  
 Detta svarade Tillväxt, miljö och regionplanering (f.d. Regionplanekontoret Sthlm) vid en tidigare förfrågan om Mohamed, projektledare för projektet Mötesplatser:
