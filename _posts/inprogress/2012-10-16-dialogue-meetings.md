@@ -65,6 +65,9 @@ SLL Tillväxt, miljö och regionplanering
 Tel: 08-737 44 42
 Mobil: 070-737 44 42
 
+* Johanna Skantze, dir Generator: strategies for dvlpt and growth of creative industries  
+johanna@generatorsverige.se ; Telefon: +46 (0) 706 924 542
+
 
 *Sustainable development:*
 
