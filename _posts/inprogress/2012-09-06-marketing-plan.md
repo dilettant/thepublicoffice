@@ -290,7 +290,7 @@ published: false
 
 *To Do*  
 Start-up Sthlm  
-Sicial entrepreneu something
+Sicial entrepreneur something
 
 *Done*  
 Teaterförbundet  
@@ -343,8 +343,8 @@ String
 Il Café  
 Drop Coffee  
 Chutney  
-Cafér bredvid Chutney  
-Vurma  
+Cafét bredvid Chutney  
+Vurma Hornstull  
 Coffice  
 Biblioteket Medborgarplatsen  
 Biblioteket Hornstull
