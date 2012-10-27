@@ -289,6 +289,8 @@ published: false
 ##Posts on Facebook Pages:
 
 *To Do*  
+Start-up Sthlm  
+Sicial entrepreneu something
 
 *Done*  
 Teaterförbundet  
@@ -312,18 +314,9 @@ Kulturnyheterna
 Bagisbloggen  
 
 **Places for distribution:**  
-Café LouieLouie  
-Hängmattan  
-Copacabana och BioRio  
-String  
-Il Café  
-Drop Coffee  
-Chutney  
-Vurma  
 Lilla Bagis  
 Studentpalatset  
 Stadsbibliteket   
-Biblioteket Medborgarplatsen  
 Div Bibliotek: Bagis, Aspudden, osv  
 Stockholms Universitet  
 Södertörns högskola  
@@ -335,9 +328,34 @@ Dans och Cirkushögskolan
 Hemliga trädgården  
 SITE  
 Transit kulturinkubator  
+
+*Done*  
+Strand  
+Morsans  
+Cinnamon  
+Seyhmus  
+Sodom  
+Café LouieLouie  
+Hängmattan  
+Copacabana och BioRio  
+Hallongrottan  
+String  
+Il Café  
+Drop Coffee  
+Chutney  
+Cafér bredvid Chutney  
+Vurma  
 Coffice  
+Biblioteket Medborgarplatsen  
+Biblioteket Hornstull
+
+*Har inte plats för affischer:*  
+Blå Lotus  
+Wayne's Slussen  
+Kaffebaren St Paulsgatan
 
 ### Email networks and people 
+* Start-up Stockholm  
 * Musikerförbundet
 * Arkitekturskolan (Anna kommer att sprida ordet)
 * David Karlsson  
