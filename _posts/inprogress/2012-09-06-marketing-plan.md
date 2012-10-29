@@ -289,10 +289,11 @@ published: false
 ##Posts on Facebook Pages:
 
 *To Do*  
-Sicial entrepreneur something
+
 
 *Done*  
-Start-up Sthlm  
+Start-up Sthlm 
+Social Entrepreneurship Forum
 Teaterförbundet  
 KRO/KIF  
 Tomma Rum  
@@ -305,7 +306,6 @@ Södertörns högskola
 Stockholms Universitet  
 Skapa Allmänningar!
 
-## Notes to Dilettant
 
 **Special focus journalists (call):**    
 Fria Tidningen: Kristian Borg  
@@ -356,7 +356,8 @@ Kaffebaren St Paulsgatan
 
 ### Email networks and people 
 * Start-up Stockholm  
-* Musikerförbundet
+* Social Entrepreneurship Forum  
+* Musikerförbundet  
 * Arkitekturskolan (Anna kommer att sprida ordet)
 * David Karlsson  
 * Personer som vi träffade under delmoment ett:
