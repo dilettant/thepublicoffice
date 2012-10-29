@@ -46,6 +46,11 @@ Checklist event
 
 - Snacks + drinks
 	* budget 1500 kr, what do we opt for?
+    * Hot stuff: coffee, tea, nyponsoppa
+    * cold stuff: water with cucumber, lemon, blue berry, rasberry 
+    * nice bread, real cheese, vegan alternatives and fruits
+    * milk/vegan
+    
 - PR
 	* Invitation: 
 	* Email
