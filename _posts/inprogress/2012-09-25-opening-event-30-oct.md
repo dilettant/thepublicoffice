@@ -32,22 +32,22 @@ published: false
 
 ## TO DO
 
-Checklist Museum:
-
-- Marketing (FB + email)
 - Equipment 
 	* projector
 	* screen 
-	* sound
-- Technician?
-- Set time for presenters (Monica + Karin)
-
+	* portable sound system
+- Set time for presenters 17.30 we all meet outside
+* Intro: hi and welcome (who?Monica or dilettant?) 
+* Karin: presentation
+* Monica:
+* presentation PO (what, concept, people involved)
+* talk
 Checklist event
 
 - Snacks + drinks
 	* budget 1500 kr, what do we opt for?
 - PR
-	* Invitation text
+	* Invitation: 
 	* Email
 	* FB-event
 - Info material
@@ -55,10 +55,7 @@ Checklist event
 	* printed info sheets
 - POMA ready
 	* Signs up
-	* Space ready
+	* Space fix (seating, tables etc)
 - Dilettant presentation of PO
 	* who says what
 	* ready presentation
-
-
-
