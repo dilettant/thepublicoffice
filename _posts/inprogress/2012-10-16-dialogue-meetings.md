@@ -119,7 +119,7 @@ progressive property management where the inhabitants are in the board
 *Bibliotek*
 
 * Emelie Wieslander, Verksamhetssamordnare för Garaget i Malmö, emelie.wieslander@malmo.se, Tel. 040-34 02 03
-Möte 09 på garaget
+Möte 09 på garaget - kan ej!
 
 * Inga Lundén, Stadsbibliotikare Sthlm: om utvecklingsarbete och roll som allmän mötesplats
 
