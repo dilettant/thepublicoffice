@@ -76,7 +76,7 @@ johanna@generatorsverige.se ; Telefon: +46 (0) 706 924 542
 
 * Peter Örn: ordförande, Delegationen för hållbara städer 
 
-* Mistra Urban Futures
+* Ulrika Johnsson, Mistra Urban Futures
 http://www.mistraurbanfutures.se/
 http://www.facebook.com/CitiesAsValueNetworks
 
