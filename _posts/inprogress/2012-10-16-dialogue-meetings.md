@@ -101,7 +101,7 @@ http://cultura21.dk/projekter-2/ark-nord-network-development-project/ )
 * Roland Paulsen, sociologist, "Arbetsamhället"; contemporary reflection on what work is or isn't anymore.. (PDF in Dropbox) 
 
 * Arbetsförmedlingen? Huvudkontoret Sthlm: 0771-60 00 00 
-AJ har t.ex. kontakt med Roine Wig, som nog kan tipsa 
+AJ kollar Lokal Kultur 
 
 (Lisa Rosendahl, IASPIS (har genomfört en mängd arbete om arbete och conditions of production, superskarp och bra))
 
@@ -110,48 +110,46 @@ AJ har t.ex. kontakt med Roine Wig, som nog kan tipsa
 * Katarina Ahlqvist: vd, Gårdstensbostäder
 progressive property management where the inhabitants are in the board
 
+* Dag Levander, fastighetschef Vasakronan  
+
 * Stockholmshem
 
-* Dag Levander, fastighetschef Vasakronan
+(* HSB)
 
-* HSB
-
-* SBK
+(* SBK)
 
 
 *Bibliotek*
 
-* Emelie Wieslander, Verksamhetssamordnare för Garaget i Malmö
+* Emelie Wieslander, Verksamhetssamordnare för Garaget i Malmö, emelie.wieslander@malmo.se, Tel. 040-34 02 03
 
-* Inga Lundén, Stadsbibliotikare Sthlm
+* Inga Lundén, Stadsbibliotikare Sthlm: om utvecklingsarbete och roll som allmän mötesplats
 
 * Någon ur personalen på Dieselverkstadens bibliotek (personalägt AB på uppdrag av Nacka kommun)
 
-* Bibliotikarien i Fisksätra
+(* Bibliotikarien i Fisksätra)
+
 
 *Studentgrupper:*  
 * Sara Vall, Critical Design Studies på Arkitekturskolan (vi har varit i kontakt och hon är intresserad av samverkan på nåt sätt: smr.vall@gmail.com
 
-* Tor Lindstrand (har 24 arkitektstudenter, har visat intresse för att t.ex. organisera föreläsning eller nåt sånt: <tor@llp.se>
+* Tor Lindstrand (har 24 arkitektstudenter, har visat intresse för att t.ex.
+organisera föreläsning eller nåt sånt: <tor@llp.se>
 
-* Subtopia: about local partipation and development?
+*Misc*
+* Subtopia/Klump: Anders Lindgren, about local partipation and development?
 
-* Ev. någon från nätverket Skapa Allmänningar! (en något annorlunda syn dock i och med sitt fokus på självorganisering) http://skapaallmanningar.se/
+* Fredrik Ganslandt, Hey it's enrico palazzo, work, combination of professions competency dvlpt and soc interaction
 
-* Performing the Common – Föreställningar om det gemensamma – http://www.performingthecommon.se/   
-* Karin Hansson som är doktorand vid Stockholms Universitet i Kista/Kungl. Konsthögskolan, och utställningen är en del av en del av forskningen om e-demokrati vid institutionen för data- och systemvetenskap vid Stockholms Universitet och Skolan för arkitektur och samhällsbyggnad vid Kungliga Tekniska högskolan*
 
-* Alternativ Stad, http://www.alternativstad.nu/  
+(Alternativ Stad, http://www.alternativstad.nu )
 
-* City Mine(d), http://www.citymined.org/
+(Performing the Common – Föreställningar om det gemensamma – http://www.performingthecommon.se/   
+* Karin Hansson som är doktorand vid Stockholms Universitet i Kista/Kungl. Konsthögskolan, och utställningen är en del av en del av forskningen om e-demokrati vid institutionen för data- och systemvetenskap vid Stockholms Universitet och Skolan för arkitektur och samhällsbyggnad vid Kungliga Tekniska högskolan*)
 
-* Tomma Rum, http://www.tommarum.se/
 
-* Kulturkampanjen/Cyklopen (?)
+(Prekariatet) 
 
-* Prekariatet  
-
-* Co-working Umeå: Albin Davidsson http://www.umea2014.se/arkivnyheter/enarbetsplatsdarkreativapersonermots.5.7053ae821362a1b437c3629.html 
 
 
 ### INFO to have on all dialogue partners:
