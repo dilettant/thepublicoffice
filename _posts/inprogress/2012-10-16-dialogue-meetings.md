@@ -43,9 +43,6 @@ mpstefannilsson.wordpress.com
 
 * Olov Lavesson (M) – näringsutskottet
 
-* Centerpartist?
-* Stockholm Business Region
-
 
 *Tjänstehen/civilservants*
 
@@ -53,21 +50,19 @@ mpstefannilsson.wordpress.com
 
 * Niklas Svensson: stadsbygnadsstrateg sthlm stad; niklas.svensson@stockholm.se 08 - 508 27 247.
 
-* Regionplanekontoret  
+(Qaisar Mahmood, Riksantikvarieämbetet/Samhällsavdelningen/kulturarvsenheten,  08-5191 8173)
+
+(Johanna Skantze, dir Generator: strategies for dvlpt and growth of creative industries, johanna@generatorsverige.se ; Telefon: +46 (0) 706 924 542)
+
+(Regionplanekontoret  
 Detta svarade Tillväxt, miljö och regionplanering (f.d. Regionplanekontoret Sthlm) vid en tidigare förfrågan om Mohamed, projektledare för projektet Mötesplatser:
 "SLL Tillväxt, miljö och regionplanering jobbar vidare med det arbete som Mohamed gjorde som rörde mötesplatser och sammanhållning i regionen. Hör av dig om du vill ha kontakt med någon av oss. 
 Vänliga hälsningar
 Pia Eliasson, Informationschef SLL Tillväxt, miljö och regionplanering
-Tel: 08-737 44 42 :Mobil: 070-737 44 42
+Tel: 08-737 44 42 :Mobil: 070-737 44 42) 
 
-* Johanna Skantze, dir Generator: strategies for dvlpt and growth of creative industries  
-johanna@generatorsverige.se ; Telefon: +46 (0) 706 924 542
-
-* Qaisar Mahmood, Riksantikvarieämbetet/Samhällsavdelningen/kulturarvsenheten,  08-5191 8173
 
 *Sustainable development:*
-
-* Micael Nilsson, fil.dr.och	expert,	Boverket 
 
 * Ulrika Johnsson, Mistra Urban Futures
 http://www.mistraurbanfutures.se/
@@ -78,6 +73,8 @@ http://www.facebook.com/CitiesAsValueNetworks
 * Ester Barinaga, Department of Management, Politics and Philosophy, Copenhagen Business School; Integration/segregation/gentrification
 
 * Någon från museet? Sandra(hållbar stad)?
+
+(Micael Nilsson, fil.dr.och	expert,	Boverket) 
 
 (Moa Thunström: KTH, Urbana och regionala studier: http://www.kth.se/abe/om-skolan/organisation/inst/som/avdelningar/urbana-studier/2.14279/moa-tunstrom-1.58806 commons, history of commons, (urban) sustainable development)
 
@@ -136,12 +133,12 @@ progressive property management where the inhabitants are in the board
 * Tor Lindstrand (har 24 arkitektstudenter, har visat intresse för att t.ex.
 organisera föreläsning eller nåt sånt: <tor@llp.se>
 
-*Misc*
+*Local participation*
 * Subtopia/Klump: Anders Lindgren, about local partipation and development?
 
-* Fredrik Ganslandt, Hey it's enrico palazzo, work, combination of professions competency dvlpt and soc interaction
-
 * Faid Issa, Forix- Förorternas riksdag
+
+( Fredrik Ganslandt, Hey it's enrico palazzo, work, combination of professions competency dvlpt and soc interaction)
 
 (Alternativ Stad, http://www.alternativstad.nu )
 
