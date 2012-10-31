@@ -57,12 +57,8 @@ mpstefannilsson.wordpress.com
 Detta svarade Tillväxt, miljö och regionplanering (f.d. Regionplanekontoret Sthlm) vid en tidigare förfrågan om Mohamed, projektledare för projektet Mötesplatser:
 "SLL Tillväxt, miljö och regionplanering jobbar vidare med det arbete som Mohamed gjorde som rörde mötesplatser och sammanhållning i regionen. Hör av dig om du vill ha kontakt med någon av oss. 
 Vänliga hälsningar
-Pia Eliasson
-Informationschef
-SLL Tillväxt, miljö och regionplanering
- 
-Tel: 08-737 44 42
-Mobil: 070-737 44 42
+Pia Eliasson, Informationschef SLL Tillväxt, miljö och regionplanering
+Tel: 08-737 44 42 :Mobil: 070-737 44 42
 
 * Johanna Skantze, dir Generator: strategies for dvlpt and growth of creative industries  
 johanna@generatorsverige.se ; Telefon: +46 (0) 706 924 542
@@ -81,16 +77,15 @@ http://www.facebook.com/CitiesAsValueNetworks
 
 * Ester Barinaga, Department of Management, Politics and Philosophy, Copenhagen Business School; Integration/segregation/gentrification
 
+* Någon från museet? Sandra(hållbar stad)?
+
 (Moa Thunström: KTH, Urbana och regionala studier: http://www.kth.se/abe/om-skolan/organisation/inst/som/avdelningar/urbana-studier/2.14279/moa-tunstrom-1.58806 commons, history of commons, (urban) sustainable development)
 
 (Peter Örn: ordförande, Delegationen för hållbara städer )
 
-* Henrietta Palmer, KKH/Mejan Arc.
-
-* Någon från museet? Sandra? (hållbar stad)?
+(Henrietta Palmer, KKH/Mejan Arc)
 
 (Peter Elmlund, KTH (tips från Max Valentin) om urbanitet)
-
 
 (Cultura21: vi har blivit tillfrågade av projektledare Daniel Tjäder om att vara med i deras nätverk ARK NORD. Anders har sagt att vi kan stå med i deras ansökan till KKNord, men att vi borde ses för att sätta oss in mer i vad det innebär. Daniel, och förhoppningsvis kollegorna Oleg och Kajsa (som bor i Köpenhamn) vill gärna komma förbi POMA för ett möte. Han funderade även på om dom kunde göra nån typ av workshop hos oss för att det då skulle bli lättare att få dom från Kph till Sthlm. 
 http://cultura21.dk/projekter-2/ark-nord-network-development-project/ )
@@ -98,21 +93,17 @@ http://cultura21.dk/projekter-2/ark-nord-network-development-project/ )
 (Hood Arkitektur (Petter Jacobson & Miguel Lara) – arkitektkontor under uppstart med fokus på förortsfrågor bl.a. )
 
 
-
-
-*Work/sustainable development:*
+*Work*  
 
 * Charlotta Mellander: docent i nationalekonomi vid Handelshögskolan i Jönköping och medarbetare till Richard Florida som grundat The Creative Class Group. Hon håller föreläsningar om hur viktig platsen blivit för den ekonomiska utvecklingen. Charlotta pratar om huruvida det verkligen är arbetsmöjligheter i andra områden som lockar människor eller om det egentligen är arbetskraften som lockar till sig jobben.   
 *Will be presenting at Arena Hållbar stad 6-8 nov, maybe we can catch her after* 
 
-*Work*
-
 * Roland Paulsen, sociologist, "Arbetsamhället"; contemporary reflection on what work is or isn't anymore.. (PDF in Dropbox) 
 
-* Lisa Rosendahl, IASPIS (har genomfört en mängd arbete om arbete och conditions of production, superskarp och bra)
+* Arbetsförmedlingen? Huvudkontoret Sthlm: 0771-60 00 00 
+AJ har t.ex. kontakt med Roine Wig, som nog kan tipsa 
 
-* Arbetsförmedlingen? AJ har t.ex. kontakt med Roine Wig, som nog kan tipsa
-
+(Lisa Rosendahl, IASPIS (har genomfört en mängd arbete om arbete och conditions of production, superskarp och bra))
 
 *Fastighetsförvaltare / 'Real estate managers':*
 
