@@ -52,7 +52,7 @@ mpstefannilsson.wordpress.com
 
 * Patrik Liljegren, Kulturstrategiska avd. (vägen in till Medeleine Sjöstedt?)
 
-* Niklas Svensson: stadsbygnadsstrateg sthlm stad
+* Niklas Svensson: stadsbygnadsstrateg sthlm stad; niklas.svensson@stockholm.se 08 - 508 27 247.
 
 * Regionplanekontoret  
 Detta svarade Tillväxt, miljö och regionplanering (f.d. Regionplanekontoret Sthlm) vid en tidigare förfrågan om Mohamed, projektledare för projektet Mötesplatser:
