@@ -41,7 +41,7 @@ mpstefannilsson.wordpress.com
 
 * Madeleine Sjöstedt (FP) – kultur- och fastighetsborgarråd 
 
-* Olov Lavesson (M) – näringsutskottet
+* Olov Lavesson (M) – näringsutskottet: JT+AJ har träffats på ett dialogmöte med Framtidens kultur
 
 
 *Tjänstehen/civilservants*
@@ -119,6 +119,7 @@ progressive property management where the inhabitants are in the board
 *Bibliotek*
 
 * Emelie Wieslander, Verksamhetssamordnare för Garaget i Malmö, emelie.wieslander@malmo.se, Tel. 040-34 02 03
+Möte 09 på garaget
 
 * Inga Lundén, Stadsbibliotikare Sthlm: om utvecklingsarbete och roll som allmän mötesplats
 
