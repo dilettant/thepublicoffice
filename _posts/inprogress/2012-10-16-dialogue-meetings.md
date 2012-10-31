@@ -33,12 +33,11 @@ bedöma projektets politiska rimlighet../political feedback
 * Stefan Nilsson: 
 Gruppledare för Miljöpartiet de Gröna i Stockholm. Socionom, företagsekonom och dansinstruktör.
 mpstefannilsson.wordpress.com
+(Mehmet Kaplan (MP) – arbetsmarknadsutskottet)
 
 * Ann-Margarethe Livh (V), gruppledare Vänsterpartiet och vice ordförande i Familjebostäder + stockholmsblogg
 
-* Berit Högman (S) – kulturutskottet (har bl.a. drivit frågor i Riksdagen om mötesplatser)
-
-* Mehmet Kaplan (MP) – arbetsmarknadsutskottet
+* Berit Högman (S) – kulturutskottet (har bl.a. drivit frågor i Riksdagen om mötesplatser) 
 
 * Madeleine Sjöstedt (FP) – kultur- och fastighetsborgarråd 
 
@@ -74,28 +73,31 @@ johanna@generatorsverige.se ; Telefon: +46 (0) 706 924 542
 
 * Micael Nilsson, fil.dr.och	expert,	Boverket 
 
-* Peter Örn: ordförande, Delegationen för hållbara städer 
-
 * Ulrika Johnsson, Mistra Urban Futures
 http://www.mistraurbanfutures.se/
-http://www.facebook.com/CitiesAsValueNetworks
-
-* Moa Thunström: KTH, Urbana och regionala studier: http://www.kth.se/abe/om-skolan/organisation/inst/som/avdelningar/urbana-studier/2.14279/moa-tunstrom-1.58806 commons, history of commons, (urban) sustainable development
+http://www.facebook.com/CitiesAsValueNetworks  
 
 * Karin Bradley, KTH
 
-* Henrietta Palmer, KKH/Mejan Arc.
-
-* Peter Elmlund, KTH (tips från Max Valentin) om urbanitet
-
 * Ester Barinaga, Department of Management, Politics and Philosophy, Copenhagen Business School; Integration/segregation/gentrification
 
-* Cultura21: vi har blivit tillfrågade av projektledare Daniel Tjäder om att vara med i deras nätverk ARK NORD. Anders har sagt att vi kan stå med i deras ansökan till KKNord, men att vi borde ses för att sätta oss in mer i vad det innebär. Daniel, och förhoppningsvis kollegorna Oleg och Kajsa (som bor i Köpenhamn) vill gärna komma förbi POMA för ett möte. Han funderade även på om dom kunde göra nån typ av workshop hos oss för att det då skulle bli lättare att få dom från Kph till Sthlm. 
-http://cultura21.dk/projekter-2/ark-nord-network-development-project/
+(Moa Thunström: KTH, Urbana och regionala studier: http://www.kth.se/abe/om-skolan/organisation/inst/som/avdelningar/urbana-studier/2.14279/moa-tunstrom-1.58806 commons, history of commons, (urban) sustainable development)
 
-* Hood Arkitektur (Petter Jacobson & Miguel Lara) – arkitektkontor under uppstart med fokus på förortsfrågor bl.a. 
+(Peter Örn: ordförande, Delegationen för hållbara städer )
 
-* Någon från museet?
+* Henrietta Palmer, KKH/Mejan Arc.
+
+* Någon från museet? Sandra? (hållbar stad)?
+
+(Peter Elmlund, KTH (tips från Max Valentin) om urbanitet)
+
+
+(Cultura21: vi har blivit tillfrågade av projektledare Daniel Tjäder om att vara med i deras nätverk ARK NORD. Anders har sagt att vi kan stå med i deras ansökan till KKNord, men att vi borde ses för att sätta oss in mer i vad det innebär. Daniel, och förhoppningsvis kollegorna Oleg och Kajsa (som bor i Köpenhamn) vill gärna komma förbi POMA för ett möte. Han funderade även på om dom kunde göra nån typ av workshop hos oss för att det då skulle bli lättare att få dom från Kph till Sthlm. 
+http://cultura21.dk/projekter-2/ark-nord-network-development-project/ )
+
+(Hood Arkitektur (Petter Jacobson & Miguel Lara) – arkitektkontor under uppstart med fokus på förortsfrågor bl.a. )
+
+
 
 
 *Work/sustainable development:*
