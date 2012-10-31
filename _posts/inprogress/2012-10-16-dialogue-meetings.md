@@ -141,6 +141,7 @@ organisera föreläsning eller nåt sånt: <tor@llp.se>
 
 * Fredrik Ganslandt, Hey it's enrico palazzo, work, combination of professions competency dvlpt and soc interaction
 
+* Faid Issa, Forix- Förorternas riksdag
 
 (Alternativ Stad, http://www.alternativstad.nu )
 
