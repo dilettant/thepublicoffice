@@ -94,6 +94,7 @@ http://cultura21.dk/projekter-2/ark-nord-network-development-project/ )
 
 * Charlotta Mellander: docent i nationalekonomi vid Handelshögskolan i Jönköping och medarbetare till Richard Florida som grundat The Creative Class Group. Hon håller föreläsningar om hur viktig platsen blivit för den ekonomiska utvecklingen. Charlotta pratar om huruvida det verkligen är arbetsmöjligheter i andra områden som lockar människor eller om det egentligen är arbetskraften som lockar till sig jobben.   
 *Will be presenting at Arena Hållbar stad 6-8 nov, maybe we can catch her after* 
+charlotta.mellander@jibs.hj.se, 036-101757
 
 * Roland Paulsen, sociologist, "Arbetsamhället"; contemporary reflection on what work is or isn't anymore.. (PDF in Dropbox) 
 
