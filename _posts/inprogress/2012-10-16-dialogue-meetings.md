@@ -17,8 +17,17 @@ Yvonne Roch & Jonas Andersson
 1. Feedback on report for reading
 2. Specify 3-5 questions?
 3. Take notes? record?
-4. Establish a form based on structure of the report?  
-*& Make a plan with Victor re documentation/communication*
+4. Meeting protocol
+Who
+When
+Starting points
+Questions that arrises
+Themes 
+Reflections 
+Conclusions for the report
+Tips
+5. Establish a form based on structure of the report?  
+
 
 ### Budget
 Fees for dialogue partners:  
