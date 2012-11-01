@@ -10,7 +10,7 @@ QUESTIONS
 
 * Formats: can we comission people to think..? 
 
-PEOPLE WITH (POL) CONTACTS   
+CONTACTED FOR MORE TIPS ON PEOPLE   
 Yvonne Roch & Jonas Andersson
 
 ### Format
