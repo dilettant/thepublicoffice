@@ -107,6 +107,7 @@ AJ kollar Lokal Kultur
 
 * Katarina Ahlqvist: vd, Gårdstensbostäder
 progressive property management where the inhabitants are in the board
+katarina.ahlqvist@gardstensbostader.se, 031-332 60 05
 
 * Dag Levander, fastighetschef Vasakronan  
 
@@ -120,9 +121,15 @@ progressive property management where the inhabitants are in the board
 *Bibliotek*
 
 * Emelie Wieslander, Verksamhetssamordnare för Garaget i Malmö, emelie.wieslander@malmo.se, Tel. 040-34 02 03
-Möte 09 på garaget - kan ej!
+Status:
 
 * Inga Lundén, Stadsbibliotikare Sthlm: om utvecklingsarbete och roll som allmän mötesplats
+* Elisabeth Aldstad, ansvarig för Stadsdelsbiblioteken i sthlm stad, 80 st; håller på med just dessa frågor!
+Biblans nya roll, böcker lätttillgängliga, vad blir då bibliotekens funktion? 
+Behovet av att mötas blir ännu större när man bara kan ladda ner info
+staden satsar på upprutsning av lokaler, som blir allt viktigare
+elisabeth.aldstedt@stockholm.se, 08-508 31 113
+Status:
 
 * Någon ur personalen på Dieselverkstadens bibliotek (personalägt AB på uppdrag av Nacka kommun)
 
