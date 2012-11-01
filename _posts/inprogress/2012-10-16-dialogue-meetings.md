@@ -58,6 +58,7 @@ mpstefannilsson.wordpress.com
 * Patrik Liljegren, Kulturstrategiska avd. (vägen in till Medeleine Sjöstedt?)
 
 * Niklas Svensson: stadsbygnadsstrateg sthlm stad; niklas.svensson@stockholm.se 08 - 508 27 247.
+Status: decide date
 
 (Qaisar Mahmood, Riksantikvarieämbetet/Samhällsavdelningen/kulturarvsenheten,  08-5191 8173)
 
