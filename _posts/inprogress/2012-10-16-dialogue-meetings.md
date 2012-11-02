@@ -102,7 +102,6 @@ http://cultura21.dk/projekter-2/ark-nord-network-development-project/ )
 
 (Hood Arkitektur (Petter Jacobson & Miguel Lara) – arkitektkontor under uppstart med fokus på förortsfrågor bl.a. )
 
-
 *Work*  
 
 * Charlotta Mellander: docent i nationalekonomi vid Handelshögskolan i Jönköping och medarbetare till Richard Florida som grundat The Creative Class Group. Hon håller föreläsningar om hur viktig platsen blivit för den ekonomiska utvecklingen. Charlotta pratar om huruvida det verkligen är arbetsmöjligheter i andra områden som lockar människor eller om det egentligen är arbetskraften som lockar till sig jobben.   
