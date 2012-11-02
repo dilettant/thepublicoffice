@@ -109,7 +109,7 @@ Tel: 08-737 44 42 :Mobil: 070-737 44 42)
 	5. Week:
 	6. Format: Dialogue meeting 
 	7. Agreement/Fee: 
-    8. Status: contact after 8th of nov 
+    8. Status: contact after 8th of nov + does she have direct contact to charlotta mellander?
 
 * Karin Bradley, KTH 
 Status: english?
