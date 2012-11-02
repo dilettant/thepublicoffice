@@ -40,24 +40,25 @@ Total budget 35000 kr
 *Politicians:*
 bedöma projektets politiska rimlighet../political feedback  
 * Stefan Nilsson: 
-Gruppledare för Miljöpartiet de Gröna i Stockholm. Socionom, företagsekonom och dansinstruktör.
+Gruppledare för Miljöpartiet de Gröna i Stockholm. Socionom, företagsekonom och dansinstruktör. (social dimensions of sustainable development)
 mpstefannilsson.wordpress.com
 (Mehmet Kaplan (MP) – arbetsmarknadsutskottet)
 
-* Ann-Margarethe Livh (V), gruppledare Vänsterpartiet och vice ordförande i Familjebostäder + stockholmsblogg
+* Ann-Margarethe Livh (V), gruppledare Vänsterpartiet och vice ordförande i Familjebostäder + stockholmsblogg (urban and housing development)
 
-* Berit Högman (S) – kulturutskottet (har bl.a. drivit frågor i Riksdagen om mötesplatser) 
+* Berit Högman (S) – kulturutskottet (har bl.a. drivit frågor i Riksdagen om mötesplatser) (public spaces and meeting places)
 
-* Madeleine Sjöstedt (FP) – kultur- och fastighetsborgarråd 
+* Madeleine Sjöstedt (FP) – kultur- och fastighetsborgarråd (culture and real estate)
 
-* Olov Lavesson (M) – näringsutskottet: JT+AJ har träffats på ett dialogmöte med Framtidens kultur
+* Olov Lavesson (M) – näringsutskottet: JT+AJ har träffats på ett dialogmöte med Framtidens kultur (business development)
 
 
-*Tjänstehen/civilservants*
+*Tjänstehen/civil servants*
 
-* Patrik Liljegren, Kulturstrategiska avd. (vägen in till Medeleine Sjöstedt?)
+* Patrik Liljegren, Kulturstrategiska avd. (culture strategist)
 
-* Niklas Svensson: stadsbygnadsstrateg sthlm stad; niklas.svensson@stockholm.se 08 - 508 27 247.
+* Niklas Svensson: stadsbyggnadsstrateg sthlm stad; (urban development)
+niklas.svensson@stockholm.se 08 - 508 27 247. 
 Status: decide date
 
 (Qaisar Mahmood, Riksantikvarieämbetet/Samhällsavdelningen/kulturarvsenheten,  08-5191 8173)
@@ -78,11 +79,13 @@ Tel: 08-737 44 42 :Mobil: 070-737 44 42)
 http://www.mistraurbanfutures.se/
 http://www.facebook.com/CitiesAsValueNetworks  
 
-* Karin Bradley, KTH
+* Karin Bradley, KTH 
+Status: english?
 
 * Ester Barinaga, Department of Management, Politics and Philosophy, Copenhagen Business School; Integration/segregation/gentrification
+Status: English?
 
-* Någon från museet? Sandra(hållbar stad)?
+* Sandra, Hållbar stad/Arkitekturmuseet
 
 (Micael Nilsson, fil.dr.och	expert,	Boverket) 
 
@@ -105,19 +108,22 @@ http://cultura21.dk/projekter-2/ark-nord-network-development-project/ )
 * Charlotta Mellander: docent i nationalekonomi vid Handelshögskolan i Jönköping och medarbetare till Richard Florida som grundat The Creative Class Group. Hon håller föreläsningar om hur viktig platsen blivit för den ekonomiska utvecklingen. Charlotta pratar om huruvida det verkligen är arbetsmöjligheter i andra områden som lockar människor eller om det egentligen är arbetskraften som lockar till sig jobben.   
 *Will be presenting at Arena Hållbar stad 6-8 nov, maybe we can catch her after* 
 charlotta.mellander@jibs.hj.se, 036-101757
+Status: English?
 
 * Roland Paulsen, sociologist, "Arbetsamhället"; contemporary reflection on what work is or isn't anymore.. (PDF in Dropbox) 
+Status: english?
 
 * Arbetsförmedlingen? Huvudkontoret Sthlm: 0771-60 00 00 
 AJ kollar Lokal Kultur 
 
 (Lisa Rosendahl, IASPIS (har genomfört en mängd arbete om arbete och conditions of production, superskarp och bra))
 
-*Fastighetsförvaltare / 'Real estate managers':*
+*Fastighetsförvaltare / 'Real estate /Housing managers':*
 
 * Katarina Ahlqvist: vd, Gårdstensbostäder
 progressive property management where the inhabitants are in the board
 katarina.ahlqvist@gardstensbostader.se, 031-332 60 05
+Status: english?
 
 * Dag Levander, fastighetschef Vasakronan  
 
@@ -133,16 +139,15 @@ katarina.ahlqvist@gardstensbostader.se, 031-332 60 05
 * Emelie Wieslander, Verksamhetssamordnare för Garaget i Malmö, emelie.wieslander@malmo.se, Tel. 040-34 02 03
 Status:
 
-* Inga Lundén, Stadsbibliotikare Sthlm: om utvecklingsarbete och roll som allmän mötesplats
 * Elisabeth Aldstad, ansvarig för Stadsdelsbiblioteken i sthlm stad, 80 st; håller på med just dessa frågor!
 Biblans nya roll, böcker lätttillgängliga, vad blir då bibliotekens funktion? 
 Behovet av att mötas blir ännu större när man bara kan ladda ner info
 staden satsar på upprutsning av lokaler, som blir allt viktigare
 elisabeth.aldstedt@stockholm.se, 08-508 31 113
 Status:
+(Inga Lundén, Stadsbibliotikare Sthlm: om utvecklingsarbete och roll som allmän mötesplats)
 
-* Någon ur personalen på Dieselverkstadens bibliotek (personalägt AB på uppdrag av Nacka kommun)
-
+(* Någon ur personalen på Dieselverkstadens bibliotek (personalägt AB på uppdrag av Nacka kommun))
 (* Bibliotikarien i Fisksätra)
 
 
