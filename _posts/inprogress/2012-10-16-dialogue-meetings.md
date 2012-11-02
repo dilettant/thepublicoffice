@@ -102,7 +102,7 @@ Tel: 08-737 44 42 :Mobil: 070-737 44 42)
 * Ulrika Johnsson
 	1. Contact: 
 	2. Org: Mistra Urban Futures  
-		http://www.mistraurbanfutures.se
+		http://www.mistraurbanfutures.se  
 		http://www.facebook.com/CitiesAsValueNetworks   
 	3. Focus: 
 	4. Questions:
