@@ -42,6 +42,16 @@ bedöma projektets politiska rimlighet../political feedback
 * Stefan Nilsson: 
 Gruppledare för Miljöpartiet de Gröna i Stockholm. Socionom, företagsekonom och dansinstruktör. (social dimensions of sustainable development)
 mpstefannilsson.wordpress.com
+
+1. Name:
+2. Contact:
+3. Org:
+4. Focus: 
+5. Questions
+6. Week
+7. Format
+8. Agreement/Fee
+
 (Mehmet Kaplan (MP) – arbetsmarknadsutskottet)
 
 * Ann-Margarethe Livh (V), gruppledare Vänsterpartiet och vice ordförande i Familjebostäder + stockholmsblogg (urban and housing development)
@@ -55,12 +65,26 @@ mpstefannilsson.wordpress.com
 
 *Tjänstehen/civil servants*
 
-* Patrik Liljegren, Kulturstrategiska avd. (culture strategist)
+*  Patrik Liljegren
+	1. Contact:
+	2. Org: Kulturstrategiska avd. Sthlm stad (culture strategist)
+	3. Focus: 
+	4. Questions:
+	5. Week:
+	6. Format: Dialogue meeting with Madeleine Sjöstedt
+	7. Agreement/Fee: none
+    8. Status: fix date
 
-* Niklas Svensson: stadsbyggnadsstrateg sthlm stad; (urban development)
-niklas.svensson@stockholm.se 08 - 508 27 247. 
-Status: decide date
-
+* Niklas Svensson: 
+ 	1. Contact: niklas.svensson@stockholm.se;08 - 508 27 247.
+	2. Org: stadsbyggnadsstrateg sthlm stad; (strategist urban development)
+	3. Focus: 
+	4. Questions:
+	5. Week:
+	6. Format: Dialogue meeting 
+	7. Agreement/Fee: none
+    8. Status: fix date
+    
 (Qaisar Mahmood, Riksantikvarieämbetet/Samhällsavdelningen/kulturarvsenheten,  08-5191 8173)
 
 (Johanna Skantze, dir Generator: strategies for dvlpt and growth of creative industries, johanna@generatorsverige.se ; Telefon: +46 (0) 706 924 542)
@@ -75,12 +99,21 @@ Tel: 08-737 44 42 :Mobil: 070-737 44 42)
 
 *Sustainable development:*
 
-* Ulrika Johnsson, Mistra Urban Futures
-http://www.mistraurbanfutures.se/
-http://www.facebook.com/CitiesAsValueNetworks  
+* Ulrika Johnsson
+	1. Contact: 
+	2. Org: Mistra Urban Futures  
+		http://www.mistraurbanfutures.se
+		http://www.facebook.com/CitiesAsValueNetworks   
+	3. Focus: 
+	4. Questions:
+	5. Week:
+	6. Format: Dialogue meeting 
+	7. Agreement/Fee: 
+    8. Status: contact after 8th of nov 
 
 * Karin Bradley, KTH 
 Status: english?
+
 
 * Ester Barinaga, Department of Management, Politics and Philosophy, Copenhagen Business School; Integration/segregation/gentrification
 Status: English?
