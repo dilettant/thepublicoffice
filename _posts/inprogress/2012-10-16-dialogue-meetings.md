@@ -13,22 +13,50 @@ QUESTIONS
 CONTACTED FOR MORE TIPS ON PEOPLE   
 Yvonne Rock & Jonas Anderson
 
-### Format
-*Preparations*
-1. Send report
-2. Specify 3-5 questions related to field
-*
-3. Take notes? record?
-4. Meeting protocol
-	* Who
-	* When
-	* Starting points
-	* Questions that arise
-	* Themes 
-	* Reflections 
-	* Possible conclusions for the report
-	* Possible references
-5. Establish a form based on structure of the report?  
+### Format  
+*Preparations*  
+1. Send report  
+2. Read material
+3. Specify 3-5 questions related to field  
+  
+
+*Dialogue meeting set up* 
+
+* 1 person take notes, 1 focuses on the conversation  
+* introduce agenda (=protocol from section 1) for the meeting
+ 
+*Meeting agenda*  
+   * When – time of the meeting
+    
+ * Section 1 – Who?
+    * Names of persons in the meeting
+    * Short description of their work/field
+    
+* Section  2 – Your research/field/experiences
+    * Our questions 
+    
+* Section 3 – Report
+    * Initial brief reflections from reading the report and hearing about the project – Questions that arise? Things the guest would like to focus on? 
+    * Talk through the report, parts that the guest has focused on/thought about/reacted upon
+
+* Section 4 - the end
+    * summary for the report/of the meeting 
+    * Thank you and we will... + make sure that details around payment are set
+    
+*After meeting*
+    
+* Protocol
+    * When – time of the meeting  
+    * Names of persons in the meeting
+    * Summary description of the guest
+    * Summary of discussions based on our questions 
+    * Summary of the guests initial reflections around the project
+    * Summary of guests reflections of specific sections in the report 
+    * Possible conclusions for the report frrom the meeting
+    * Possible references  
+    
+* Post protocol on github  
+* Send thank you and protocol to guest?
 
 
 ### Budget
