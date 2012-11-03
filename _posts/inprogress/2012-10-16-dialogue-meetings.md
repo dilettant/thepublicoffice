@@ -58,6 +58,7 @@ Yvonne Rock & Jonas Anderson
 * Send thank you and protocol to guest?
 
 
+
 ### Budget
 Fees for dialogue partners:  
 Total budget 35000 kr   
