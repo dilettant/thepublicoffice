@@ -15,8 +15,8 @@ Yvonne Rock & Jonas Anderson
 
 ### Format  
 *Preparations*  
-1. Send report  
-2. Read material
+1. Send report + link  
+2. Read material  
 3. Specify 3-5 questions related to field  
   
 
