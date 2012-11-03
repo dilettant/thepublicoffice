@@ -6,12 +6,6 @@ published: false
 
 # DIALOGUE MEETINGS
 
-QUESTIONS
-
-* Formats: can we comission people to think..? 
-
-CONTACTED FOR MORE TIPS ON PEOPLE   
-Yvonne Rock & Jonas Anderson
 
 ### Format  
 *Preparations*  
