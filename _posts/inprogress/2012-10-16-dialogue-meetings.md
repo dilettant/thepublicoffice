@@ -11,7 +11,7 @@ QUESTIONS
 * Formats: can we comission people to think..? 
 
 CONTACTED FOR MORE TIPS ON PEOPLE   
-Yvonne Roch & Jonas Andersson
+Yvonne Rock & Jonas Anderson
 
 ### Format
 1. Feedback on report for reading
@@ -21,7 +21,7 @@ Yvonne Roch & Jonas Andersson
 	* Who
 	* When
 	* Starting points
-	* Questions that arrises
+	* Questions that arise
 	* Themes 
 	* Reflections 
 	* Possible conclusions for the report
