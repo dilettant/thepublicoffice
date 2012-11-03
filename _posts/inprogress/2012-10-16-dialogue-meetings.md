@@ -14,8 +14,10 @@ CONTACTED FOR MORE TIPS ON PEOPLE
 Yvonne Rock & Jonas Anderson
 
 ### Format
-1. Feedback on report for reading
-2. Specify 3-5 questions?
+*Preparations*
+1. Send report
+2. Specify 3-5 questions related to field
+*
 3. Take notes? record?
 4. Meeting protocol
 	* Who
