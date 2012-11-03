@@ -23,12 +23,10 @@ Yvonne Rock & Jonas Anderson
 *Dialogue meeting set up* 
 
 * 1 person take notes, 1 focuses on the conversation  
-* introduce agenda (=protocol from section 1) for the meeting
+* introduce agenda for the meeting
  
-*Meeting agenda*  
-   * When – time of the meeting
-    
- * Section 1 – Who?
+*Meeting agenda*    
+* Section 1 – Who?
     * Names of persons in the meeting
     * Short description of their work/field
     
@@ -41,6 +39,7 @@ Yvonne Rock & Jonas Anderson
 
 * Section 4 - the end
     * summary for the report/of the meeting 
+    * tips on references or other?
     * Thank you and we will... + make sure that details around payment are set
     
 *After meeting*
