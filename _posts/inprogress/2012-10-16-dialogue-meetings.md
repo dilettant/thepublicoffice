@@ -108,17 +108,43 @@ Tel: 08-737 44 42 :Mobil: 070-737 44 42)
 	4. Questions:
 	5. Week:
 	6. Format: Dialogue meeting 
-	7. Agreement/Fee: 
+	7. Agreement/Fee: Travel expenses?
     8. Status: contact after 8th of nov + does she have direct contact to charlotta mellander?
 
-* Karin Bradley, KTH 
-Status: english?
+* Karin Bradley 
+	1. Contact: +46 (0)709 18 60 88 ; karin.bradley@abe.kth.se
+	2. Org: Urban and Regional Studies/Dep of Urban Planning and Environment/KTH
+	3. Focus: 
+	4. Questions:
+	5. Week: 2 (45)
+	6. Format: Dialogue meeting 
+	7. Agreement/Fee: standard
+    8. Status: send report + questions english?
 
 
-* Ester Barinaga, Department of Management, Politics and Philosophy, Copenhagen Business School; Integration/segregation/gentrification
-Status: English?
+* Ester Barinaga
+	1. Contact: 
+	2. Org: Dep of Management, Politics and Philosophy/Copenhagen Business School
+	3. Focus: Integration/segregation/gentrification
+	4. Questions:
+	5. Week: 
+	6. Format: Dialogue meeting 
+	7. Agreement/Fee: standard + travel expenses?
+    8. Status:  english?
 
-* Sandra, Hållbar stad/Arkitekturmuseet
+
+
+* Sandra H Bernstone 
+	1. Contact: 08-587 270 20; sofia.bernstone@arkitekturmuseet.se
+	2. Org: proj Hållbar stad/Arkitekturmuseet
+	3. Focus: Sustainable urban development
+	4. Questions:
+	5. Week: 2 (45)
+	6. Format:  dialogue meeting
+	7. Agreement/Fee: none
+    8. Status: send report + questions
+
+
 
 (Micael Nilsson, fil.dr.och	expert,	Boverket) 
 
@@ -142,8 +168,16 @@ http://cultura21.dk/projekter-2/ark-nord-network-development-project/ )
 charlotta.mellander@jibs.hj.se, 036-101757
 Status: English?
 
-* Roland Paulsen, sociologist, "Arbetsamhället"; contemporary reflection on what work is or isn't anymore.. (PDF in Dropbox) 
-Status: english?
+* Roland Paulsen
+	1. Contact: +46 73 783 93 37
+	2. Org: Dep of Sociology / Uppsala University  
+	http://www.soc.uu.se/sv/personal/roland-paulsen/
+	3. Focus: sociologist, "Arbetsamhället"/work society; contemporary reflection on what work is or isn't anymore..
+	4. Questions:
+	5. Week: 2 (45)
+	6. Format:  dialogue meeting
+	7. Agreement/Fee: standard
+    8. Status: english?
 
 * Arbetsförmedlingen? Huvudkontoret Sthlm: 0771-60 00 00 
 AJ kollar Lokal Kultur 
@@ -152,10 +186,15 @@ AJ kollar Lokal Kultur
 
 *Fastighetsförvaltare / 'Real estate /Housing managers':*
 
-* Katarina Ahlqvist: vd, Gårdstensbostäder
-progressive property management where the inhabitants are in the board
-katarina.ahlqvist@gardstensbostader.se, 031-332 60 05
-Status: english?
+* Katarina Ahlqvist: 
+	1. Contact: katarina.ahlqvist@gardstensbostader.se, 031-332 60 05
+	2. Org: Gårdstensbostäder (CEO)
+	3. Focus: progressive property management where the inhabitants are in the board
+	4. Questions:
+	5. Week:
+	6. Format: Dialogue meeting 
+	7. Agreement/Fee: travel expenses?
+    8. Status: english?
 
 * Dag Levander, fastighetschef Vasakronan  
 
@@ -168,15 +207,27 @@ Status: english?
 
 *Bibliotek*
 
-* Emelie Wieslander, Verksamhetssamordnare för Garaget i Malmö, emelie.wieslander@malmo.se, Tel. 040-34 02 03
-Status:
+* Emelie Wieslander, Verksamhetssamordnare för Garaget i Malmö, 
+	1. Contact: emelie.wieslander@malmo.se, Tel. 040-34 02 03
+	2. Org: 
+	3. Focus: local participation
+	4. Questions:
+	5. Week:
+	6. Format: Dialogue meeting 
+	7. Agreement/Fee: travel expenses?
+    8. Status: waiting for reply, english? 
 
 * Elisabeth Aldstad, ansvarig för Stadsdelsbiblioteken i sthlm stad, 80 st; håller på med just dessa frågor!
-Biblans nya roll, böcker lätttillgängliga, vad blir då bibliotekens funktion? 
-Behovet av att mötas blir ännu större när man bara kan ladda ner info
-staden satsar på upprutsning av lokaler, som blir allt viktigare
-elisabeth.aldstedt@stockholm.se, 08-508 31 113
-Status:
+	1. Contact: elisabeth.aldstedt@stockholm.se, 08-508 31 113
+	2. Org: 
+	3. Focus: Biblans nya roll, böcker lätttillgängliga, vad blir då bibliotekens 	funktion? Behovet av att mötas blir ännu större när man bara kan ladda ner info
+staden satsar på upprutsning av lokaler, som blir allt viktigare.
+	4. Questions:
+	5. Week:
+	6. Format: Dialogue meeting 
+	7. Agreement/Fee: travel expenses?
+	8. Status: date to be confirmed, english?  
+    
 (Inga Lundén, Stadsbibliotikare Sthlm: om utvecklingsarbete och roll som allmän mötesplats)
 
 (* Någon ur personalen på Dieselverkstadens bibliotek (personalägt AB på uppdrag av Nacka kommun))
