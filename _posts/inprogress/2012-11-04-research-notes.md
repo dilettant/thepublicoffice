@@ -35,4 +35,31 @@ published: false
 * visualizing the use of existing resources, sharing flow etc, to show the scale of "scattered" work  
 * possibly highlight the temporary use of unused spaces  
 * starting from the political dimensions: invite the parties to discuss the report  
-* example of features/services (book keeping)  
+* example of features/services (book keeping)   
+
+#Political dimensions
+
+###Labour market
+* the project can challenge the conventional picture of what work is and where it happens, in order to find/instigate more relevant initiatives  
+* further articulate how PO relates to the new labour markets  
+* PO can visualize/show how the individuals and circulating units work and interact  
+* PO as meeting place has the potential to create new connections and jobs, show how energy, time and knowledge is otherwise wasted   
+* check research + examples of offices/designs/methods to know more about how/what could promote "job creation"  
+* address the entrepreneur  
+
+###Business
+* Look into the concept of co-working (previously bypass: cluster, synergy, incubators, creative working spaces etc) – how is it positive for the development of companies and businesses?   
+* how can POs facilitate a development in methods and organization within freelance companies? (because people will get exposed to new/other ways of working, tools, knowledges etc)  
+* democratization of business development  
+* remember to frame and narrow these requests according to our ideological interests, there is TONS of bullcrap out there  
+
+###Culture
+* culture/arts as example of expanded/flexible notions of work, freelancers and workplacelessness  
+* OBS opportunistic!!! artists in touch with entrepreneurs + companies in touch with creativity = core of contemporary capitalism  
+* is it interesting to look at which user groups are using the public library – what in the library structure/space makes it used by so many different people?  
+
+###Education
+* Learning in a working environment, how does it work? (LIA = Lärande i arbete)   
+
+*To discuss:*
+* What need to happen for this to end up on the political table?
