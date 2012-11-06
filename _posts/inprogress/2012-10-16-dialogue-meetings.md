@@ -45,7 +45,7 @@ published: false
     * Summary of discussions based on our questions 
     * Summary of the guests initial reflections around the project
     * Summary of guests reflections of specific sections in the report 
-    * Possible conclusions for the report frrom the meeting
+    * Possible conclusions for the report from the meeting
     * Possible references  
     
 * Post protocol on github  
