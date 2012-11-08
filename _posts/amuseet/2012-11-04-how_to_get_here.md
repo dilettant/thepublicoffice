@@ -4,7 +4,7 @@ category: amuseet
 
 title: How to get here
 ref: how_to_get_here
-permalink: /museumofarchitecture/how_to_get_here.html
+permalink: http://thepublicoffice.se/museumofarchitecture/how_to_get_here.html
 ---
 
 ### Address  

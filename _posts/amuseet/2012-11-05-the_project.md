@@ -4,7 +4,7 @@ category: amuseet
 
 title: The Project
 ref: the_project
-permalink: /museumofarchitecture/the_project.html
+permalink: http://thepublicoffice.se/museumofarchitecture/the_project.html
 ---
 
 The Public Office at The Swedish Museum of Architecture in Stockholm, 30 Oct-30 Nov 2012, is part of a long term development project, that aims to articulate an idea of open and rent-free work and meeting places, where the public is given the opportunity to engage in work and further education.  
