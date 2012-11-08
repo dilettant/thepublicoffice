@@ -5,7 +5,6 @@ layout: default
 category: documents  
 author: myriam
 
-published: false
 ---
 
 # Special Issue
@@ -55,10 +54,10 @@ Guest apartment in Tanto (via AJ), staying with husband and child.
 
 
 * Budget frame
-	* how much for travels? 1500 kr/person = 9000
+	* how much for travels? 1400 kr/night/person
     * how much for accomodation? 1000 kr/night/person
-    	* How many nights does the project cover? 5 = 30 000
-    * Per diems à 300/day/pers (max 5 days) needs to be invoiced = 9000
+    	* How many nights does the project cover? 5
+    * Per diems à 300/day/pers (max 5 days) needs to be invoiced
 		* Blanca, Marijana, Eylül, Nilo, Aranxa, Alice
     
 * Accomodation Suggestion: Hostel af Chapman, since based on Skeppsholmen.

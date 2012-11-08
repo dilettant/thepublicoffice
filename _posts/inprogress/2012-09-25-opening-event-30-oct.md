@@ -32,34 +32,22 @@ published: false
 
 ## TO DO
 
+Checklist Museum:
+
+- Marketing (FB + email)
 - Equipment 
 	* projector
 	* screen 
-	* portable sound system
-- Call Karin: does she need projector? USB or send file?
-
-- Set time for presenters 17.30 (we all meet in the Office)
-* Intro: hi and welcome (who? Monica or dilettant?) 
-* Karin: presentation
-* Monica:
-* presentation PO (what, concept, people involved)
-* talk?
-* sum up, tack! + mingel
-* 19.40 Ending
-* 20.00 Hej då!
-
+	* sound
+- Technician?
+- Set time for presenters (Monica + Karin)
 
 Checklist event
 
 - Snacks + drinks
-	* budget 1500 kr
-    * Hot stuff: coffee, tea, nyponsoppa (+ almond thinigies..)
-    * cold stuff: water with cucumber, lemon, blue berry, rasberry 
-    * eat stuff: nice bread (gluten), good cheese, vegan alternatives and fruits
-    * milk/vegan
-    
+	* budget 1500 kr, what do we opt for?
 - PR
-	* Invitation: 
+	* Invitation text
 	* Email
 	* FB-event
 - Info material
@@ -67,7 +55,10 @@ Checklist event
 	* printed info sheets
 - POMA ready
 	* Signs up
-	* Space fix (seating, tables etc)
+	* Space ready
 - Dilettant presentation of PO
 	* who says what
 	* ready presentation
+
+
+

@@ -290,10 +290,7 @@ published: false
 
 *To Do*  
 
-
 *Done*  
-Start-up Sthlm 
-Social Entrepreneurship Forum
 Teaterförbundet  
 KRO/KIF  
 Tomma Rum  
@@ -304,8 +301,8 @@ Jornalistförbundet
 Studentpalatset  
 Södertörns högskola  
 Stockholms Universitet  
-Skapa Allmänningar!
 
+## Notes to Dilettant
 
 **Special focus journalists (call):**    
 Fria Tidningen: Kristian Borg  
@@ -314,76 +311,52 @@ Kulturnyheterna
 Bagisbloggen  
 
 **Places for distribution:**  
+Café LouieLouie  
+Hängmattan  
+Copacabana och BioRio  
+String  
+Il Café  
+Drop Coffee  
+Chutney  
+Vurma  
 Lilla Bagis  
 Studentpalatset  
 Stadsbibliteket   
+Biblioteket Medborgarplatsen  
 Div Bibliotek: Bagis, Aspudden, osv  
 Stockholms Universitet  
 Södertörns högskola  
 Konstfack  
 Mejan  
-Arkitekturskolan (Anna I)   
+Arkitekturskolan  
 Journalisthögskolan  
 Dans och Cirkushögskolan  
 Hemliga trädgården  
 SITE  
 Transit kulturinkubator  
-
-*Done*  
-Strand  
-Morsans  
-Cinnamon  
-Seyhmus  
-Sodom  
-Café LouieLouie  
-Hängmattan  
-Copacabana och BioRio  
-Hallongrottan  
-String  
-Il Café  
-Drop Coffee  
-Chutney  
-Cafét bredvid Chutney  
-Vurma Hornstull  
 Coffice  
-Biblioteket Medborgarplatsen  
-Biblioteket Hornstull
 
-*Har inte plats för affischer:*  
-Blå Lotus  
-Wayne's Slussen  
-Kaffebaren St Paulsgatan
-
-### Email networks and people 
-* Start-up Stockholm  
-* Social Entrepreneurship Forum  
-* Musikerförbundet  
-* Arkitekturskolan (Anna kommer att sprida ordet)
-* David Karlsson  
+### Email networks and people (just briefly mention in the plan)
+* Jenni Sundin (Anders)
+* Teresa Kristoffersson
+* Teaterförbundet
+* Musikerförbundet
+* Journalistförbundet
+* KRO
+* Dramatikerförbundet
+* Arkitekturskolan
+* Konstfack
 * Personer som vi träffade under delmoment ett:
 	Martin Sundin och Matilda Berggren, Kulturdepartementet
 * Kulturbryggan (Johan kan skicka till referensgruppen)
 * Sthlm Stad
 	Patrick Liljegren, Monica Christensen
+    
 
 Skickat:  
-* KulturDirekt 
-* Journalistförbundet
-* Konstfack  
-* KRO  
-* DOCH  
-* Teaterförbundet  
-* Danscentrum
-* Jobbscen
-* Dramatikerförbundet 
-* Teresa Kristoffersson (Journalisthögskolan)  
-* TYP   
-* Enlightement Hearts   
-* SITE-stipendiater   
-* Prekariatet  
-* Staffan Hjalmarsson  
-* The Good Tribe  
-
-Skippat:
-* KLYS
-* Kulturkraft Sthlm
+* TYP (Anders)  
+* Enlightement Hearts (Anders)  
+* SITE-stipendiater (Anders)  
+* Prekariatet (Anders)
+* Staffan Hjalmarsson (Anders)  
+* The Good Tribe (Anders)
