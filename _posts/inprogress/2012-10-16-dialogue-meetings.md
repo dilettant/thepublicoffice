@@ -71,7 +71,7 @@ bedöma projektets politiska rimlighet../political feedback
 	5. Week:
 	6. Format: Dialogue meeting 
 	7. Agreement/Fee: none
-    8. Status: 
+    8. Status: send email!
 
 (Mehmet Kaplan (MP) – arbetsmarknadsutskottet)
 
@@ -95,11 +95,9 @@ bedöma projektets politiska rimlighet../political feedback
 	7. Agreement/Fee: none
     8. Status: 
 
-
-
 * Madeleine Sjöstedt (FP) – kultur- och fastighetsborgarråd (culture and real estate)
 
-* Olov Lavesson (M) – näringsutskottet: JT+AJ har träffats på ett dialogmöte med Framtidens kultur (business development)
+* Olov Lavesson (M) – näringsutskottet: JT+AJ har träffats på ett dialogmöte med Framtidens kultur (business development)
 
 
 *Tjänstehen/civil servants*
@@ -124,11 +122,12 @@ bedöma projektets politiska rimlighet../political feedback
 	7. Agreement/Fee: none
     8. Status: Send report + Questions 20/11 @14.30
     
-(Qaisar Mahmood, Riksantikvarieämbetet/Samhällsavdelningen/kulturarvsenheten,  08-5191 8173)
+    
+* Qaisar Mahmood, Riksantikvarieämbetet/Samhällsavdelningen/kulturarvsenheten,  08-5191 8173
 
 (Johanna Skantze, dir Generator: strategies for dvlpt and growth of creative industries, johanna@generatorsverige.se ; Telefon: +46 (0) 706 924 542)
 
-(Regionplanekontoret  
+(Regionplanekontoret. 
 Detta svarade Tillväxt, miljö och regionplanering (f.d. Regionplanekontoret Sthlm) vid en tidigare förfrågan om Mohamed, projektledare för projektet Mötesplatser:
 "SLL Tillväxt, miljö och regionplanering jobbar vidare med det arbete som Mohamed gjorde som rörde mötesplatser och sammanhållning i regionen. Hör av dig om du vill ha kontakt med någon av oss. 
 Vänliga hälsningar
@@ -198,7 +197,7 @@ Tel: 08-737 44 42 :Mobil: 070-737 44 42)
 (Cultura21: vi har blivit tillfrågade av projektledare Daniel Tjäder om att vara med i deras nätverk ARK NORD. Anders har sagt att vi kan stå med i deras ansökan till KKNord, men att vi borde ses för att sätta oss in mer i vad det innebär. Daniel, och förhoppningsvis kollegorna Oleg och Kajsa (som bor i Köpenhamn) vill gärna komma förbi POMA för ett möte. Han funderade även på om dom kunde göra nån typ av workshop hos oss för att det då skulle bli lättare att få dom från Kph till Sthlm. 
 http://cultura21.dk/projekter-2/ark-nord-network-development-project/ )
 
-(Hood Arkitektur (Petter Jacobson & Miguel Lara) – arkitektkontor under uppstart med fokus på förortsfrågor bl.a. )
+(Hood Arkitektur (Petter Jacobson & Miguel Lara) – arkitektkontor under uppstart med fokus på förortsfrågor bl.a. )
 
 *Work*  
 
@@ -225,7 +224,7 @@ AJ kollar Lokal Kultur
 
 *Fastighetsförvaltare / 'Real estate /Housing managers':*
 
-* Katarina Ahlqvist: 
+*Katarina Ahlqvist: Anki Kasperson, informatör 60 32
 	1. Contact: katarina.ahlqvist@gardstensbostader.se, 031-332 60 05
 	2. Org: Gårdstensbostäder (CEO)
 	3. Focus: progressive property management where the inhabitants are in the board
@@ -233,9 +232,17 @@ AJ kollar Lokal Kultur
 	5. Week:
 	6. Format: Dialogue meeting 
 	7. Agreement/Fee: travel expenses?
-    8. Status: english?
+    8. Status: NOT WORKING THERE ANYMORE*   
 
-* Dag Levander, fastighetschef Vasakronan  
+* Dag Levander
+	1. Contact: dag.levander@vasakronan.se ; 0703-07 20 22. 
+	2. Org: fastighetschef Vasakronan 
+	3. Focus:  
+	4. Questions:
+	5. Week:
+	6. Format: Dialogue meeting 
+	7. Agreement/Fee: 
+    8. Status: english?
 
 * Stockholmshem
 
