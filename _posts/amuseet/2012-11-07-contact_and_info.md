@@ -4,6 +4,7 @@ category: amuseet
 
 title: Contact and info
 ref: contact_and_info
+num: 07
 permalink: /museumofarchitecture/contact_and_info.html
 ---
 

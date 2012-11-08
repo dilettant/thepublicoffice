@@ -4,6 +4,7 @@ category: amuseet
 
 title: Partners & funders
 ref: partners_and_funders
+num: 08
 permalink: /museumofarchitecture/partners_and_funders.html
 ---
 

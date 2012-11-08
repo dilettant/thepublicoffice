@@ -4,6 +4,7 @@ category: amuseet
 
 title: The Project
 ref: the_project
+num: 05
 permalink: /museumofarchitecture/the_project.html
 ---
 

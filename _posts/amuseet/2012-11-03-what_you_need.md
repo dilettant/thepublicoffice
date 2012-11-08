@@ -4,6 +4,7 @@ category: amuseet
 
 title: What you need
 ref: what_you_need
+num: 03
 permalink: /museumofarchitecture/what_you_need.html
 ---
 

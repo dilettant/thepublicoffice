@@ -4,6 +4,7 @@ category: amuseet
 
 title: What we have
 ref: what_we_have
+num: 02
 permalink: /museumofarchitecture/what_we_have.html
 ---
 
