@@ -31,25 +31,31 @@
         //  });
         var user = '_dilettant';
         var hashtag = 'thepublicoffice';
-        $.ajax({
-          url: "http://search.twitter.com/search.json?jsoncallback=?",
-          dataType: 'json',
-          data: {"q": "%23" + hashtag, "from" : "@" + user, "result_type":"mixed"},
-          success: function(data){
-            var lastTweet = data.results[0];
-            var dateString = lastTweet['created_at'];
-            var date = new Date(dateString);
-            var text = lastTweet['text'];
-            var url = 'https://twitter.com/' + user + '/status/' + lastTweet['id_str'];
-            var hour = date.getHours() -1;
-            var minutes = date.getMinutes();
-            var day = date.getDay();
-            var month = date.getMonth();
+        
+        $.getJSON("http://search.twitter.com/search.json", {"q": "%23" + hashtag, "from" : "@" + user, "result_type":"mixed"}, function(data) {
+          var lastTweet = data.results[0];
+          var dateString = lastTweet['created_at'];
+          var date = new Date(dateString);
+          var text = lastTweet['text'];
+          var url = 'https://twitter.com/' + user + '/status/' + lastTweet['id_str'];
+          var hour = date.getHours() -1;
+          var minutes = date.getMinutes();
+          var day = date.getDay();
+          var month = date.getMonth();
 
-            $('.content').html(linkify(text));
-            // console.log('lastTweet', lastTweet);
-          }
+          $('.content').html(linkify(text));
+
         });
+
+        // $.ajax({
+        //   url: "http://search.twitter.com/search.json?jsoncallback=?",
+        //   dataType: 'json',
+        //   data: {"q": "%23" + hashtag, "from" : "@" + user, "result_type":"mixed"},
+        //   success: function(data){
+            
+        //     // console.log('lastTweet', lastTweet);
+        //   }
+        // });
         
      });
   </script>
