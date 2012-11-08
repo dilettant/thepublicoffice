@@ -21,8 +21,8 @@
             });
             return '<a class="rrt-link" href="'+b+'">'+((b.length>25)?b.substr(0,24)+'...':b)+'</a>'+c;
           })
-          .replace(/\B\@([A-Z0-9_]{1,15})/gi,'@<a class="rrt-at" href="http://twitter.com/$1">$1</a>')
-          .replace(/\B\#([A-Z0-9_]+)/gi,'<a class="rrt-hashtag" href="http://search.twitter.com/search?q=%23$1">#$1</a>')
+          .replace(/\B\@([A-Z0-9_]{1,15})/gi,'@<a href="http://twitter.com/$1">$1</a>')
+          .replace(/\B\#([A-Z0-9_]+)/gi,'<a href="http://search.twitter.com/search?q=%23$1">#$1</a>')
         };
 
         var user = '_dilettant';
