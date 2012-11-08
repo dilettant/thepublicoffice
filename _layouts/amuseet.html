@@ -56,7 +56,7 @@
       <nav>
         <ul>
             <li>
-              <a {% if page.url == "/museumofarchitecture/index.html" %} href="{{site.baseurl}}/{{site.bannername}}">Welcome</a>
+              <a {% if page.url == "/museumofarchitecture/index.html" %}{% endif %} href="{{site.baseurl}}/{{site.bannername}}">Welcome</a>
             </li>
           {% for p in site.categories.amuseet reversed %}
             <li>
