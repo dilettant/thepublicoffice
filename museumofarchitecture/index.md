@@ -2,6 +2,7 @@
 layout: article
 category: amuseet
 
+ishome: true
 title: Welcome
 ref: welcome
 permalink: index.html
