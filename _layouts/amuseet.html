@@ -10,19 +10,47 @@
   <script type="text/javascript" src="{{site.assetsurl}}/assets/scripts/html5shiv.js"></script>
   <script type="text/javascript">   
      $(document).ready(function(){
-      $('#tuit').relatedTweets({
-         debug:false
-         ,from_users:'_dilettant'
-         ,show_date: true
-         ,show_source: false
-         ,status:0
-         ,realtime:0
-         ,or_tags: 'thepublicoffice'
-         ,n:1
-         ,show_avatar:0
-         ,show_author:0
-         ,stay_time: 100000
-      });
+
+        //parse links, user id's, hashtags
+        var linkify= function(d){
+          return d.replace(/\bhttps?\:\/\/\S+/gi, function(b){
+            var c='';
+            b= b.replace(/(\.*|\?*|\!*)$/,function(m,a){
+              c=a;
+              return ''
+            });
+            return '<a class="rrt-link" href="'+b+'">'+((b.length>25)?b.substr(0,24)+'...':b)+'</a>'+c;
+          })
+          .replace(/\B\@([A-Z0-9_]{1,15})/gi,'@<a class="rrt-at" href="http://twitter.com/$1">$1</a>')
+          .replace(/\B\#([A-Z0-9_]+)/gi,'<a class="rrt-hashtag" href="http://search.twitter.com/search?q=%23$1">#$1</a>')
+        };
+
+        // $.get("http://search.twitter.com/search.json?q=", { q: "%23thepublicoffice&@_dilettant&result_type=json"},
+        //  function(data){
+        //    console.log("Data Loaded: " + data);
+        //  });
+        var user = '_dilettant';
+        var hashtag = 'thepublicoffice';
+        $.ajax({
+          url: "http://search.twitter.com/search.json",
+          dataType: 'json',
+          data: {"q": "%23" + hashtag, "from" : "@" + user, "result_type":"mixed"},
+          success: function(data){
+            var lastTweet = data.results[0];
+            var dateString = lastTweet['created_at'];
+            var date = new Date(dateString);
+            var text = lastTweet['text'];
+            var url = 'https://twitter.com/' + user + '/status/' + lastTweet['id_str'];
+            var hour = date.getHours() -1;
+            var minutes = date.getMinutes();
+            var day = date.getDay();
+            var month = date.getMonth();
+
+            $('.content').html(linkify(text));
+            // console.log('lastTweet', lastTweet);
+          }
+        });
+        
      });
   </script>
 
@@ -36,20 +64,15 @@
     <header class="head">
       <h1>THE PUBLIC OFFICE</h1>
       <h2>At the swedish museum of architecture<br>30 oct - 30 nov, 2012</h2>
-      <section class="twitter" id="heading">
-      <div class="bg">
-        <div id="tuit">
-          <div class="rrt-inner">
-            <ul>
-              <li>
-                <span class="rrt-body">
-                  <span class="rrt-content">Loading<br></span>
-              </li>
-            </ul>
-          </div>
+      
+      <section class="twitter">
+        <div class="bg">
+          <h1><a href="http://dilettant.se">Dilettant</a></h1>
+          <p class="content">22h of working time spent in the office yesterday @Arkitekturmusee!! #thepublicoffice</p>
+          <h2 class="date">15:29 8 Nov</h2>
         </div>
-      </div>
-    </section>
+      </section>
+
     </header>
     <aside>
       <nav>

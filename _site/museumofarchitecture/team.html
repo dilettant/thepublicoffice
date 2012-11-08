@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset=utf-8>
-  <title>POMA 2.0</title>
+  <title>The public office at the swedish museum of architecture</title>
   <link href="http://fonts.googleapis.com/css?family=Josefin+Slab:400,700" rel="stylesheet" type="text/css">  
   <link href="http://fonts.googleapis.com/css?family=Lora:700,400italic,700italic" rel="stylesheet" type="text/css">  <link href="http://allmannakontoret.se/assets/styles/style.css" media="screen" rel="stylesheet" type="text/css">
   <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
@@ -10,19 +10,47 @@
   <script type="text/javascript" src="http://allmannakontoret.se/assets/scripts/html5shiv.js"></script>
   <script type="text/javascript">   
      $(document).ready(function(){
-      $('#tuit').relatedTweets({
-         debug:false
-         ,from_users:'_dilettant'
-         ,show_date: true
-         ,show_source: false
-         ,status:1
-         ,realtime:0
-         ,or_tags: 'thepublicoffice'
-         ,n:1
-         ,show_avatar:0
-         ,show_author:0
-         ,stay_time: 100000
-      });
+
+        //parse links, user id's, hashtags
+        var linkify= function(d){
+          return d.replace(/\bhttps?\:\/\/\S+/gi, function(b){
+            var c='';
+            b= b.replace(/(\.*|\?*|\!*)$/,function(m,a){
+              c=a;
+              return ''
+            });
+            return '<a class="rrt-link" href="'+b+'">'+((b.length>25)?b.substr(0,24)+'...':b)+'</a>'+c;
+          })
+          .replace(/\B\@([A-Z0-9_]{1,15})/gi,'@<a class="rrt-at" href="http://twitter.com/$1">$1</a>')
+          .replace(/\B\#([A-Z0-9_]+)/gi,'<a class="rrt-hashtag" href="http://search.twitter.com/search?q=%23$1">#$1</a>')
+        };
+
+        // $.get("http://search.twitter.com/search.json?q=", { q: "%23thepublicoffice&@_dilettant&result_type=json"},
+        //  function(data){
+        //    console.log("Data Loaded: " + data);
+        //  });
+        var user = '_dilettant';
+        var hashtag = 'thepublicoffice';
+        $.ajax({
+          url: "http://search.twitter.com/search.json",
+          dataType: 'json',
+          data: {"q": "%23" + hashtag, "from" : "@" + user, "result_type":"mixed"},
+          success: function(data){
+            var lastTweet = data.results[0];
+            var dateString = lastTweet['created_at'];
+            var date = new Date(dateString);
+            var text = lastTweet['text'];
+            var url = 'https://twitter.com/' + user + '/status/' + lastTweet['id_str'];
+            var hour = date.getHours() -1;
+            var minutes = date.getMinutes();
+            var day = date.getDay();
+            var month = date.getMonth();
+
+            $('.content').html(linkify(text));
+            // console.log('lastTweet', lastTweet);
+          }
+        });
+        
      });
   </script>
 
@@ -36,55 +64,49 @@
     <header class="head">
       <h1>THE PUBLIC OFFICE</h1>
       <h2>At the swedish museum of architecture<br>30 oct - 30 nov, 2012</h2>
+      
       <section class="twitter">
-      <div class="bg">
-        <div id="tuit">
-          <div class="rrt-inner">
-            <ul>
-              <li>
-                <span class="rrt-body">
-                  <span class="rrt-content">Loading<br></span>
-              </li>
-            </ul>
-          </div>
+        <div class="bg">
+          <h1><a href="http://dilettant.se">Dilettant</a></h1>
+          <p class="content">22h of working time spent in the office yesterday @Arkitekturmusee!! #thepublicoffice</p>
+          <h2 class="date">15:29 8 Nov</h2>
         </div>
-      </div>
-    </section>
-    </header>
+      </section>
 
+    </header>
     <aside>
       <nav>
         <ul>
             <li>
-              <a class="active" href="http://thepublicoffice.se/museumofarchitecture">Welcome</a>
+              <a  href="http://thepublicoffice.se/museumofarchitecture/#heading">Welcome</a>
             </li>
           
             <li>
-              <a class="active" href="http://thepublicoffice.se/museumofarchitecture/what_we_have.html">What we have</a>
+              <a  href="/museumofarchitecture/what_we_have.html#heading">What we have</a>
             </li>
           
             <li>
-              <a  href="http://thepublicoffice.se/museumofarchitecture/what_you_need.html">What you need</a>
+              <a  href="/museumofarchitecture/what_you_need.html#heading">What you need</a>
             </li>
           
             <li>
-              <a  href="http://thepublicoffice.se/museumofarchitecture/how_to_get_here.html">How to get here</a>
+              <a  href="/museumofarchitecture/how_to_get_here.html#heading">How to get here</a>
             </li>
           
             <li>
-              <a  href="http://thepublicoffice.se/museumofarchitecture/the_project.html">The Project</a>
+              <a  href="/museumofarchitecture/the_project.html#heading">The Project</a>
             </li>
           
             <li>
-              <a  href="http://thepublicoffice.se/museumofarchitecture/team.html">Team</a>
+              <a class="active" href="/museumofarchitecture/team.html#heading">Team</a>
             </li>
           
             <li>
-              <a  href="http://thepublicoffice.se/museumofarchitecture/contact_and_info.html">Contact and info</a>
+              <a  href="/museumofarchitecture/contact_and_info.html#heading">Contact and info</a>
             </li>
           
             <li>
-              <a  href="http://thepublicoffice.se/museumofarchitecture/partners_and_funders.html">Partners & funders</a>
+              <a  href="/museumofarchitecture/partners_and_funders.html#heading">Partners & funders</a>
             </li>
           
         </ul>
@@ -92,18 +114,26 @@
     </aside>
     <section class="main">
       <article>
-  <header id="home">
-    <h1>What we have</h1>
+  <header>
+    <h1>Team</h1>
     <h2></h2>
   </header>
   <ul class="tools edit-read">
-    <li class="edit" title="Edit in prose"><a href="#/edit/gh-pages/_site/posts/what_we_have.md">Edit in prose</a></li>
+    <li class="edit" title="Edit in prose"><a href="http://prose.io/#dilettant/thepublicoffice/edit/gh-pages/_posts/amuseet/2012-11-06-team.md">Edit in prose</a></li>
     <li class="read" title="Read"><a id="read" href="http://readablily.com">Readablily</a></li>
   </ul>
   <h4></h4>
-  <p>The Public Office at the Museum of Architecture is open Tuesday-Saturday at 10.00-18.00, 30 October-30 November. The office has space for 20-30 people to work, and basic office equipment such as wireless internet, printer, scanner and copier. The project team is here to introduce you to the space and its functions.</p>
+  <h3 id='project_team'>Project Team</h3>
 
-<p>There are additional nearby spaces for meetings and lectures that can be booked, so let us know if you would like to organize something that might not fit in the office space. Next to the office there is also a nice café.</p>
+<p>Johan Thelander (Project manager, economy &amp; research), Myriam Mazzoni (Production &amp; research), Victor Saiz (Web &amp; research), Anders Jacobson ( Production &amp; research) .</p>
+
+<h3 id='office_space_design'>Office Space Design</h3>
+
+<p>Marie de France, Anna Ingebrigtsen, Sam Kennedy</p>
+
+<h3 id='graphic_design'>Graphic Design</h3>
+
+<p>Art direction <a href='http://estudiovixen.es'>Alba Plaza</a>, design and coding <a href='https://githib.com/vectorsize'>Victor saiz</a></p>
 </article>
     </section>
     <footer>
