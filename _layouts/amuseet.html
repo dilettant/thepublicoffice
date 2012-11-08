@@ -44,7 +44,7 @@
             var hour = date.getHours() -1;
             var minutes = date.getMinutes();
             var day = date.getDay();
-            var month = date.getMonth();
+            var month = date.getMonth() +1;
             var tweetDate =  hour + ':' + minutes + ' ' + day + ' ' + months[month];
 
             $('.content').html(linkify(text));
