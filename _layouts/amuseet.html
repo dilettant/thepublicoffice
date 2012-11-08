@@ -32,7 +32,7 @@
         var user = '_dilettant';
         var hashtag = 'thepublicoffice';
         $.ajax({
-          url: "http://search.twitter.com/search.json",
+          url: "http://search.twitter.com/search.json?jsoncallback=?",
           dataType: 'json',
           data: {"q": "%23" + hashtag, "from" : "@" + user, "result_type":"mixed"},
           success: function(data){
