@@ -60,7 +60,7 @@
             </li>
           {% for p in site.categories.amuseet reversed %}
             <li>
-              <a {% if p.permalink == page.url %}class="active"{% endif %} href="{{site.baseurl}}/{{site.bannername}}/{{ p.permalink }}">{{ p.title }}</a>
+              <a {% if p.permalink == page.url %}class="active"{% endif %} href="{{ p.permalink }}">{{ p.title }}</a>
             </li>
           {% endfor %}
         </ul>
