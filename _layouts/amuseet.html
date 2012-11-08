@@ -27,6 +27,10 @@
 
         var user = '_dilettant';
         var hashtag = 'thepublicoffice';
+        var months = new Array("Jan", "Feb", "Mar", 
+"Apr", "May", "Jun", "Jul", "Aug", "Sep", 
+"Oct", "Nov", "Dec");
+
         $.ajax({
           url: "http://search.twitter.com/search.json",
           dataType: 'jsonp',
@@ -41,7 +45,7 @@
             var minutes = date.getMinutes();
             var day = date.getDay();
             var month = date.getMonth();
-            var tweetDate =  hour + ':' + minutes + ' ' + day + ' ' + month;
+            var tweetDate =  hour + ':' + minutes + ' ' + day + ' ' + months[month];
 
             $('.content').html(linkify(text));
             $('.date').html(tweetDate);
