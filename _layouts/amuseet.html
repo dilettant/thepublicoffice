@@ -12,7 +12,7 @@
      $(document).ready(function(){
 
         //parse links, user id's, hashtags
-        var linkify= function(d){
+        function linkify(d){
           return d.replace(/\bhttps?\:\/\/\S+/gi, function(b){
             var c='';
             b= b.replace(/(\.*|\?*|\!*)$/,function(m,a){
@@ -25,10 +25,6 @@
           .replace(/\B\#([A-Z0-9_]+)/gi,'<a class="rrt-hashtag" href="http://search.twitter.com/search?q=%23$1">#$1</a>')
         };
 
-        // $.get("http://search.twitter.com/search.json?q=", { q: "%23thepublicoffice&@_dilettant&result_type=json"},
-        //  function(data){
-        //    console.log("Data Loaded: " + data);
-        //  });
         var user = '_dilettant';
         var hashtag = 'thepublicoffice';
         $.ajax({
@@ -45,9 +41,10 @@
             var minutes = date.getMinutes();
             var day = date.getDay();
             var month = date.getMonth();
+            var tweetDate =  hour + ':' + minutes + ' ' + day ' ' + month;
 
             $('.content').html(linkify(text));
-            // console.log('lastTweet', lastTweet);
+            $('.date').html(tweetDate);
           }
         });
         
