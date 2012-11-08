@@ -14,6 +14,8 @@ title: The public office
 baseurl:    http://thepublicoffice.se
 assetsurl : http://allmannakontoret.se
 bannername: museumofarchitecture
+prose: "http://prose.io"
+repo: dilettant/thepublicoffice
 
 lang: en
 gravasize: 142
