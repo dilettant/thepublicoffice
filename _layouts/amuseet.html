@@ -11,6 +11,8 @@
   <script type="text/javascript" src="{{site.assetsurl}}/assets/scripts/html5shiv.js"></script>
   <script type="text/javascript">   
      $(document).ready(function(){
+      $("html, body").animate({ scrollTop: $('#heading').offset().top }, 1000);
+
       $('#tuit').relatedTweets({
          debug:false
          ,from_users:'_dilettant'
