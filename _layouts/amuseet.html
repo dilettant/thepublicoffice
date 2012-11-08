@@ -59,8 +59,8 @@
               <a {% if page.ishome %}class="active"{% endif %} href="{{site.baseurl}}/{{site.bannername}}">Welcome</a>
             </li>
           {% for p in site.categories.amuseet reversed %}
-            <li>
-              <a {% if p.permalink == page.url %}class="active"{% endif %} href="{{ p.permalink }}">{{ p.title }}</a>
+            <li id="page.ref">
+              <a {% if p.permalink == page.url %}class="active"{% endif %} href="{{ p.permalink }}#{{page.ref}}">{{ p.title }}</a>
             </li>
           {% endfor %}
         </ul>
