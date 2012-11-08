@@ -4,7 +4,7 @@ category: amuseet
 
 title: Contact and info
 ref: contact_and_info
-permalink: contact_and_info.html
+permalink: /museumofarchitecture/contact_and_info.html
 ---
 
 You can find us at The Museum of Architecture from Tuesday-Saturday 10.00-18.00, and reach us by phone during open hours: +46(0)702 97 79 70. You can also send an email to <dilettant@riseup.net>. 
