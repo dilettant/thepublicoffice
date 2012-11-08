@@ -11,8 +11,6 @@
   <script type="text/javascript" src="{{site.assetsurl}}/assets/scripts/html5shiv.js"></script>
   <script type="text/javascript">   
      $(document).ready(function(){
-      $("html, body").animate({ scrollTop: $('#heading').offset().top }, 500);
-
       $('#tuit').relatedTweets({
          debug:false
          ,from_users:'_dilettant'
@@ -58,11 +56,11 @@
       <nav>
         <ul>
             <li>
-              <a {% if page.ishome %}class="active"{% endif %} href="{{site.baseurl}}/{{site.bannername}}">Welcome</a>
+              <a {% if page.ishome %}class="active"{% endif %} href="{{site.baseurl}}/{{site.bannername}}/#heading">Welcome</a>
             </li>
           {% for p in site.categories.amuseet reversed %}
             <li>
-              <a {% if p.permalink == page.url %}class="active"{% endif %} href="{{ p.permalink }}">{{ p.title }}</a>
+              <a {% if p.permalink == page.url %}class="active"{% endif %} href="{{ p.permalink }}#heading">{{ p.title }}</a>
             </li>
           {% endfor %}
         </ul>
