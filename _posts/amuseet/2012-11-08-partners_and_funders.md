@@ -3,8 +3,9 @@ layout: article
 category: amuseet
 
 title: Partners & funders
+filedate: 2012-11-08-
 ref: partners_and_funders
-prose: http://prose.io/#dilettant/thepublicoffice/edit/gh-pages/_posts/amuseet/2012-11-08-partners_and_funders.md
+repo: _posts/amuseet/
 permalink: /museumofarchitecture/partners_and_funders.html
 ---
 

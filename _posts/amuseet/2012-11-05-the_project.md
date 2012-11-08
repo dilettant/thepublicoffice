@@ -4,7 +4,8 @@ category: amuseet
 
 title: The Project
 ref: the_project
-prose: http://prose.io/#dilettant/thepublicoffice/edit/gh-pages/_posts/amuseet/2012-11-05-the_project.md
+filedate: 2012-11-05-
+repo: _posts/amuseet/
 permalink: /museumofarchitecture/the_project.html
 ---
 
