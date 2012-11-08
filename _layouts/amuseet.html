@@ -32,7 +32,7 @@
         var user = '_dilettant';
         var hashtag = 'thepublicoffice';
         
-        $.getJSON("http://search.twitter.com/search.json", {"q": "%23" + hashtag, "from" : "@" + user, "result_type":"mixed"}, function(data) {
+        $.getJSON("http://search.twitter.com/search.json?jsoncallback=?", {"q": "%23" + hashtag, "from" : "@" + user, "result_type":"mixed"}, function(data) {
           var lastTweet = data.results[0];
           var dateString = lastTweet['created_at'];
           var date = new Date(dateString);
