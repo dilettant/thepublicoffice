@@ -1,0 +1,442 @@
+---
+---
+/* @override 
+	file:///Users/vectorsize/Dropbox/Public/poma20/_site/assets/styles/style.css
+	https://dl.dropbox.com/u/606131/poma20/_site/assets/styles/style.css
+*/
+
+/* BLOCKS */
+
+html{
+  background-image: url({{site.assetsurl}}/assets/img/grid.png);
+  -webkit-font-smoothing: subpixel-antialiased;
+}
+header, nav, article, footer, address, section {
+  display: block;
+  float:left;
+  width: 620px;
+  clear:both;
+}
+body{
+  font: 400 20px 'Josefin Slab', serif;
+  letter-spacing: 1.5px;
+  margin: 0;
+  border-top: 4px solid #999;
+}
+.container{
+  margin: 0 auto;
+  width: 800px;
+}
+
+a:link,
+a:visited{
+  font: italic 700 16px 'Lora';
+  text-decoration: none;
+  color: #a9a9a9;
+}
+
+a:hover,
+a:active,
+a.active{
+  color: #1a85ba;
+  text-decoration: underline;
+}
+
+ul,
+ul li{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+header.head{
+	padding-left: 330px;
+  background: url(http://allmannakontoret.se/assets/img/am_logo_en.png) no-repeat 0 0;
+  float: left;
+  margin-top: 50px;
+}
+
+header.head h1{
+  font-size: 48px;
+  color: #C10032;
+  width: 460px;
+  margin: 0 0 10px;
+}
+
+header.head h2,
+section.main h2{
+  font-size: 24px;
+  font-style: italic;
+  font-family: 'Lora';
+  font-weight: 700;
+  color: #999;
+  margin-top: 0;
+}
+
+h3{
+  font-size: 24px;
+  font-style: italic;
+  font-family: 'Lora';
+  font-weight: 700;
+  margin-top: 10px;
+  color: #c10032;
+  float: left;
+  clear: left;
+  margin-bottom: 10px;
+}
+
+ul.tools{
+  float: right;
+  padding: 0;
+  margin: 10px 0 0;
+}
+
+ul.tools.edit-read {
+  float: left;
+}
+
+ul.tools li{
+  float: left;
+  padding: 0 10px 0 0;
+  margin-right: 10px;
+  border-right: 1px solid #dad8d8;
+  position: relative;
+}
+
+ul.tools li:last-child{
+  padding: 0;
+  border-right-style: none;
+}
+
+section.twitter{
+  clear: none;
+  float: left;
+  width: 460px;
+  margin-bottom: 60px;
+  font-size: 18px;
+  letter-spacing: 0;
+}
+
+section.twitter .bg{
+  background-color: #fffeff;
+  float: left;
+  padding: 15px;
+  border: 1px dashed #1a85ba;
+  height: 80px;
+  width: 430px;
+}
+
+section.twitter h1{
+  background: url({{site.assetsurl}}/assets/img/twitty.png) no-repeat 90px;
+  font-size: 18px;
+  padding-left: 170px;
+  padding-top: 10px;
+  padding-bottom: 12px;
+  color: #02a16b;
+  text-transform: uppercase;
+  margin: 0;
+}
+
+section.twitter h2{
+  width: 140px;
+  font: italic 700 18px 'Lora';
+  color: #999;
+  float: left;
+  margin-right: 30px;
+}
+
+section.twitter p{
+  float: left;
+  width: 460px;
+}
+
+section.twitter .rrt-content{
+  padding-left: 65px;
+  background: url(../img/twitty.png) no-repeat scroll 14px 0;
+  height: 78px;
+  float: left;
+  padding-top: 2px;
+}
+
+section.twitter .rrt-meta a.rrt-date
+{
+  color: #999;
+  text-align: right;
+  font-size: 14px;
+  width: 45px;
+  float: left;
+  margin-top: -40px;
+}
+
+a.rrt-hashtag{
+  color: #029d68;
+  font-size: 16px; 
+}
+
+aside{
+  margin-left: 60px;
+}
+
+aside nav{
+  margin-right: 20px;
+  width: 240px;  
+  text-align: right;
+  text-transform: uppercase;
+}
+
+aside nav li{
+  padding-bottom: 5px;
+  margin-bottom: 5px;
+  padding-top: 5px;
+  border-bottom: 1px solid #d5d5d5;
+}
+
+aside nav li:last-child{
+  border-bottom-style: none;
+}
+aside nav li a:link,
+aside nav li a:visited{
+  font:  700 20px 'Josefin Slab', serif;
+  color: #999;
+}
+
+aside nav li a:hover,
+aside nav li a:active,
+aside nav li a.active{
+  text-decoration: none;
+  color: #1a85ba;
+}
+
+section.main{
+  clear: none;
+  margin-left: 10px;
+  padding-bottom: 70px;
+  width: 460px;
+}
+
+section.main h1{
+  margin-top: 0;
+  font-size: 36px;
+  color: #1a85ba;
+  margin-bottom: 0;
+}
+
+article header {
+  padding: 0;
+  margin: 0;
+  height: 40px;
+  width: 460px;
+}
+
+section.main h1,
+header.head h1{
+    line-height: 120%;
+  text-transform: uppercase;
+}
+
+section.main h2{
+  float: left;
+  width: 460px;
+}
+
+.edit a,
+.read a{
+  text-indent: -9999px;
+  display:block;
+  width: 20px;
+  height: 20px;
+}
+
+.edit a:link,
+.edit a:visited {
+  background: url(../img/tools.png) no-repeat 0 3px;
+}
+
+.edit a:hover,
+.edit a:active {
+  background: url(../img/tools.png) no-repeat 0 -23px;}
+
+.read a:link,
+.read a:visited{
+    background: url(../img/tools.png) no-repeat -38px -23px;
+}
+.read a:hover,
+.read a:active {
+    background: url(../img/tools.png) no-repeat -38px 3px;
+}
+
+section.main h4{
+  text-transform: uppercase;
+  font-weight: normal;
+  font-style: normal;
+  color: #999;
+  font-size: 20px;
+}
+
+section.main h4{
+  line-height: 140%;
+}
+section.main p,
+p
+ {
+   line-height: 120%;
+  width: 460px;
+  float: left;
+  margin-bottom: 0;
+}
+
+section.main article{
+  width: 460px;
+}
+
+footer{
+  font-size: 12px;
+  float: left;
+  padding: 10px 0 30px;
+  margin: 0;
+  border-top: 1px dashed #d5d5d5;
+  width: 790px;
+  color: #a9a9a9;
+}
+
+footer p{
+  margin: 0 0 3px;
+  float: left;
+  text-align: left;
+}
+
+footer a:link,
+footer a:visited{
+  font-size: 12px;
+  color: #029d68;
+}
+
+footer section{
+  width: 150px;
+  float: left;
+  clear: none;
+  margin-left: 20px;
+  margin-top: 20px;
+  margin-right: 1px;
+}
+
+footer section.first{
+  float: left;
+  width: 340px;
+  padding: 0;
+  margin-left: 50px;
+}
+
+footer section.separator{
+
+  width: 1px;
+  height: 100px;
+  background-color: #d5d5d5;
+  margin: 64px 25px 0 15px;
+}
+
+footer section h1{
+   font: italic 700 16px 'Lora';
+  color: #a9a9a9;
+}
+
+footer section.third h1,
+footer section.second h1
+{
+  margin-bottom: 30px;
+  margin-top: 12px;
+}
+
+footer section.second li a,
+footer section.third li a{
+  background: url(../img/tools.png) no-repeat;
+  padding-left: 46px;
+  height: 30px;
+  display: block;
+  padding-top: 8px;
+  color: #CACACA;
+  width: 60px;
+  margin-bottom: 15px;
+  margin-top: 15px;
+}
+
+footer section.second li a.github:link,
+footer section.second li a.github:visited{
+  background-position: 0 -125px;
+}
+
+footer section.second li a.github:hover,
+footer section.second li a.github:active{
+   background-position: 0 -165px;
+}
+
+footer section.second li a.flattr:link,
+footer section.second li a.flattr:visited{
+  background-position: -147px -125px;
+}
+
+footer section.second li a.flattr:active,
+footer section.second li a.flattr:hover{
+  background-position: -147px -165px;
+}
+
+footer section.third li a.twitter:link,
+footer section.third li a.twitter:visited{
+  background-position: -146px -213px;
+}
+
+footer section.third li a.twitter:hover,
+footer section.third li a.twitter:active{
+  background-position: -146px -253px;
+}
+
+footer section.third li a.facebook:link,
+footer section.third li a.facebook:visited{
+  background-position: 0 -213px;
+}
+
+footer section.third li a.facebook:hover,
+footer section.third li a.facebook:active{
+  background-position: 0 -253px;
+}
+
+
+footer section.third{
+  margin-left: 0;
+}
+
+footer section.first p.first{
+  width: 240px;
+}
+
+footer h1 a{
+  text-indent: -9999px;
+  display: block;
+  height: 50px;
+  width: 75px;
+  float: left;
+  margin-top: 13px;
+}
+
+footer h1 a:link,
+footer h1 a:active
+{
+  background: url(../img/tools.png) no-repeat 0 -63px;
+}
+
+footer h1 a:hover,
+footer h1 a:visited
+{
+  background: url(../img/tools.png) no-repeat -105px -63px;
+}
+
+footer section.first p.first{
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+footer section.first p.last{
+  clear: left;
+  margin-top: 10px;
+  width: 300px;
+}

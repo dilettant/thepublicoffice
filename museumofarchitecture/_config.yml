@@ -1,0 +1,19 @@
+# DEFAULTS
+# ========
+
+safe:        false
+auto:        true
+server:      false
+
+# SITE VARS
+# =========
+
+title: The public office
+# amuseettitle: The public office at the swedish museum of architecture
+# baseurl:    file:///Users/vectorsize/Dropbox/www/dilettant/thepublicoffice/_site
+baseurl:    https://dl.dropbox.com/u/606131/poma20/_site
+assetsurl : https://dl.dropbox.com/u/606131/poma20/_site
+prose: "http://prose.io"
+repo: dilettant/thepublicoffice
+bannername: museumofarchitecture
+lang: en
