@@ -4,6 +4,7 @@ category: amuseet
 
 ishome: true
 title: Welcome
+prose: http://prose.io/#dilettant/thepublicoffice/edit/gh-pages/index.md
 ref: welcome
 permalink: index.html
 ---

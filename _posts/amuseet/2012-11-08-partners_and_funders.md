@@ -4,7 +4,7 @@ category: amuseet
 
 title: Partners & funders
 ref: partners_and_funders
-num: 08
+prose: http://prose.io/#dilettant/thepublicoffice/edit/gh-pages/_posts/amuseet/2012-11-08-partners_and_funders.md
 permalink: /museumofarchitecture/partners_and_funders.html
 ---
 

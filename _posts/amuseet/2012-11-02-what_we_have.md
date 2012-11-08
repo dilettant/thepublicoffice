@@ -4,7 +4,7 @@ category: amuseet
 
 title: What we have
 ref: what_we_have
-num: 02
+prose: http://prose.io/#dilettant/thepublicoffice/edit/gh-pages/_posts/amuseet/2012-11-02-what_we_have.md
 permalink: /museumofarchitecture/what_we_have.html
 ---
 

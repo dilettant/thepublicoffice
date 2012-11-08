@@ -4,7 +4,7 @@ category: amuseet
 
 title: What you need
 ref: what_you_need
-num: 03
+prose: http://prose.io/#dilettant/thepublicoffice/edit/gh-pages/_posts/amuseet/2012-11-03-what_you_need.md
 permalink: /museumofarchitecture/what_you_need.html
 ---
 

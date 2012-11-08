@@ -4,7 +4,7 @@ category: amuseet
 
 title: Contact and info
 ref: contact_and_info
-num: 07
+prose: http://prose.io/#dilettant/thepublicoffice/edit/gh-pages/_posts/amuseet/2012-11-07-contact_and_info.md
 permalink: /museumofarchitecture/contact_and_info.html
 ---
 

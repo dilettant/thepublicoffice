@@ -4,7 +4,7 @@ category: amuseet
 
 title: How to get here
 ref: how_to_get_here
-num: 04
+prose: http://prose.io/#dilettant/thepublicoffice/edit/gh-pages/_posts/amuseet/2012-11-04-how_to_get_here.md
 permalink: /museumofarchitecture/how_to_get_here.html
 ---
 
