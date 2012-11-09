@@ -8,7 +8,7 @@ layout: amuseet
   </header>
   <ul class="tools edit-read">
     {% if page.ishome %}
-      <li class="edit" title="Edit in prose"><a href="{{site.prose}}/{{page.ref}}.md">Edit in prose</a></li>
+      <li class="edit" title="Edit in prose"><a href="{{site.prose}}/{{site.bannername}}/{{page.ref}}.md">Edit in prose</a></li>
     {% else %}
       <li class="edit" title="Edit in prose"><a href="{{site.prose}}/{{site.repo}}{{page.filedate}}{{page.ref}}.md">Edit in prose</a></li>
     {% endif %}
