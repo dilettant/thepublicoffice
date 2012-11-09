@@ -51,8 +51,8 @@
     <footer>
       <section class="first">
         <h1><a href="http://dilettant.se">Dilettant</a></h1>
-          {% for p in site.categories.footer reversed %}
-            {{p.content}}
+          {% for f in site.categories.footer reversed %}
+            {{f.content | markdownify}}
           {% endfor %}
         </section>
         <section class="separator"></section>
