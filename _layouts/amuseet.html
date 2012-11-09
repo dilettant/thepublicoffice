@@ -45,10 +45,8 @@
         </ul>
       </nav>
     </aside>
-    <section class="main">
-      {{content}}
-    </section>
-    <footer>
+    <section class="main">{{content}}</section>
+      <footer>
       <section class="first">
         <h1><a href="http://dilettant.se">Dilettant</a></h1>
           {% for f in site.categories.footer reversed %}
@@ -57,14 +55,14 @@
         </section>
         <section class="separator"></section>
         <section class="second">
-          <h1>Support</h1>
+          <h1>{{site.support}}</h1>
           <ul>
             <li><a class="github" href="{{site.githubrepourl}}">Github</a></li>
             <li><a class="flattr" href="{{site.flattrurl}}">Flattr</a></li>
           </ul>
         </section>
         <section class="third">
-          <h1>Connect</h1>
+          <h1>{{site.connect}}</h1>
           <ul>
             <li><a class="twitter" href="https://twitter.com/_dilettant">Twitter</a></li>
             <li><a class="facebook" href="https://www.facebook.com/pages/Dilettant/348667654399">Facebook</a></li>
