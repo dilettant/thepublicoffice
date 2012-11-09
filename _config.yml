@@ -9,6 +9,8 @@ server:      false
 # =========
 
 title: The public office
+subtitle: "At the swedish museum of architecture<br>30 oct - 30 nov, 2012"
+times: "10h to 18h"
 amuseettitle: The public office at the swedish museum of architecture
 # baseurl:    file:///Users/vectorsize/Dropbox/www/dilettant/thepublicoffice/_site
 baseurl:    http://thepublicoffice.se

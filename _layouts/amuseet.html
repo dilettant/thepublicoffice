@@ -17,9 +17,9 @@
         <li><a class="active" href="http://thepublicoffice.se/museumofarchitecture">English</a></li>
       </ul>
     <header class="head">
-      <h1>THE PUBLIC OFFICE</h1>
-      <h2>At the swedish museum of architecture<br>30 oct - 30 nov, 2012</h2>
-      <h3>10h to 18h</h3>
+      <h1>{{site.title}}</h1>
+      <h2>{{site.subtitle}}</h2>
+      <h3>{{site.times}}</h3>
       
       <section class="twitter" id="heading">
         <div class="bg">
@@ -50,8 +50,9 @@
     <footer>
       <section class="first">
         <h1><a href="http://dilettant.se">Dilettant</a></h1>
-            <p class="first">This is a <a href="http://dilettant.se">Dilettant</a> initiative. We develop research projects addressing organizational, cooperative and political strategies aimed at a broad social context.</p>
-            <p class="last">The Public Office at the Swedish Museum of Architecture is a phase of the long-term development project The Public Office. You can <a href="http://thepublicoffice.se">read more about it here</a>.</p>
+          {% for p in site.categories.footer reversed %}
+            {{p.content}}
+          {% endfor %}
         </section>
         <section class="separator"></section>
         <section class="second">
