@@ -110,7 +110,7 @@ bedöma projektets politiska rimlighet../political feedback
 	5. Week:
 	6. Format: Dialogue meeting with Madeleine Sjöstedt
 	7. Agreement/Fee: none
-    8. Status: fix date
+    8. Status: 17.00 21/11
 
 * Niklas Svensson: 
  	1. Contact: niklas.svensson@stockholm.se;08 - 508 27 247.
@@ -147,7 +147,7 @@ Tel: 08-737 44 42 :Mobil: 070-737 44 42)
 	5. Week:
 	6. Format: Dialogue meeting 
 	7. Agreement/Fee: Travel expenses?
-    8. Status: contact after 8th of nov + does she have direct contact to charlotta mellander?
+    8. Status: 
 
 * Karin Bradley 
 	1. Contact: +46 (0)709 18 60 88 ; karin.bradley@abe.kth.se
@@ -160,19 +160,7 @@ Tel: 08-737 44 42 :Mobil: 070-737 44 42)
     8. Status: 
 
 
-* Ester Barinaga
-	1. Contact: 
-	2. Org: Dep of Management, Politics and Philosophy/Copenhagen Business School
-	3. Focus: Integration/segregation/gentrification
-	4. Questions:
-	5. Week: 
-	6. Format: Dialogue meeting 
-	7. Agreement/Fee: standard + travel expenses?
-    8. Status:  No
-
-
-
-* Sandra H Bernstone 
+* Sofia H Bernstone 
 	1. Contact: 08-587 270 20; sofia.bernstone@arkitekturmuseet.se
 	2. Org: proj Hållbar stad/Arkitekturmuseet
 	3. Focus: Sustainable urban development
