@@ -5,7 +5,6 @@ category: amuseet
 title: How to get here
 ref: how_to_get_here
 filedate: 2012-11-04-
-repo: _posts/amuseet/
 permalink: /museumofarchitecture/how_to_get_here.html
 ---
 

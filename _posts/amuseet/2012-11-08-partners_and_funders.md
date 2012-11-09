@@ -5,7 +5,6 @@ category: amuseet
 title: Partners & funders
 filedate: 2012-11-08-
 ref: partners_and_funders
-repo: _posts/amuseet/
 permalink: /museumofarchitecture/partners_and_funders.html
 ---
 

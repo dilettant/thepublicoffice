@@ -5,7 +5,6 @@ category: amuseet
 title: What you need
 ref: what_you_need
 filedate: 2012-11-03-
-repo: _posts/amuseet/
 permalink: /museumofarchitecture/what_you_need.html
 ---
 

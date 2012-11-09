@@ -5,7 +5,6 @@ category: amuseet
 title: Contact and info
 ref: contact_and_info
 filedate: 2012-11-07-
-repo: _posts/amuseet/
 permalink: /museumofarchitecture/contact_and_info.html
 ---
 

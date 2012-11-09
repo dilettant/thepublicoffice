@@ -5,7 +5,6 @@ category: amuseet
 title: The Project
 ref: the_project
 filedate: 2012-11-05-
-repo: _posts/amuseet/
 permalink: /museumofarchitecture/the_project.html
 ---
 

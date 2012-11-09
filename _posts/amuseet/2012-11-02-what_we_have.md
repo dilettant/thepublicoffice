@@ -5,7 +5,6 @@ category: amuseet
 title: What we have
 ref: what_we_have
 filedate: 2012-11-02-
-repo: _posts/amuseet/
 permalink: /museumofarchitecture/what_we_have.html
 ---
 
