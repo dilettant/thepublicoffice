@@ -137,7 +137,7 @@ Tel: 08-737 44 42 :Mobil: 070-737 44 42)
 
 *Sustainable development:*
 
-* Ulrika Johnsson
+* Ulrika Gustafsson
 	1. Contact: 
 	2. Org: Mistra Urban Futures  
 		http://www.mistraurbanfutures.se  
@@ -246,7 +246,10 @@ AJ kollar Lokal Kultur
 
 * Stockholmshem
 
-(* HSB)
+* HSB
+08-785 32 94
+Miljöchef mia.torpe@hsb.se
+
 
 (* SBK)
 
