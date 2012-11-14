@@ -234,6 +234,11 @@ AJ kollar Lokal Kultur
 
 * Stockholmshem
 
+
+* Michael Averborg  
+affärsområdeschef, Atrium Ljungberg  
+0730-26 19 07; micael.averborg@atriumljungberg.se
+
 * HSB
 010 442 03 33
 Miljöchef mia.torpe@hsb.se
