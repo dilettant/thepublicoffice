@@ -235,7 +235,7 @@ AJ kollar Lokal Kultur
 * Stockholmshem
 
 * HSB
-08-785 32 94
+010 442 03 33
 Miljöchef mia.torpe@hsb.se
 
 
