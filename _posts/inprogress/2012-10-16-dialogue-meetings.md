@@ -76,7 +76,7 @@ bedöma projektets politiska rimlighet../political feedback
 (Mehmet Kaplan (MP) – arbetsmarknadsutskottet)
 
 * Ann-Margarethe Livh 
-	1. Contact: 076-122 91 03
+	1. Contact: 076-122 91 03, ann-margarethe.livh@stadshuset.stockholm.se
     2. Org: Gruppledare Vänsterpartiet (left party) och v.ordf /v.pres Familjebostäder
 	3. Focus: social dimensions of sustainable development
 	4. Questions: urban and housing development
