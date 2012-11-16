@@ -71,7 +71,7 @@ bedöma projektets politiska rimlighet../political feedback
 	5. Week:
 	6. Format: Dialogue meeting 
 	7. Agreement/Fee: none
-    8. Status: send email!
+    8. Status: follow up
 
 (Mehmet Kaplan (MP) – arbetsmarknadsutskottet)
 
@@ -83,7 +83,7 @@ bedöma projektets politiska rimlighet../political feedback
 	5. Week:
 	6. Format: Dialogue meeting 
 	7. Agreement/Fee: none
-    8. Status: 
+    8. Status: follow up for date
 
 * Berit Högman 
 	1. Contact: 08-7865216, berit.hogman@riksdagen.se 0706574820
@@ -93,7 +93,7 @@ bedöma projektets politiska rimlighet../political feedback
 	5. Week:
 	6. Format: Dialogue meeting 
 	7. Agreement/Fee: none
-    8. Status: 
+    8. Status: confirm date
 
 * Madeleine Sjöstedt (FP) – kultur- och fastighetsborgarråd (culture and real estate)
 
