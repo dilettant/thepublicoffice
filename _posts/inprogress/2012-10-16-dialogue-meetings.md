@@ -86,7 +86,7 @@ bedöma projektets politiska rimlighet../political feedback
     8. Status: 
 
 * Berit Högman 
-	1. Contact: 08-7865216, berit.hogman@riksdagen.se
+	1. Contact: 08-7865216, berit.hogman@riksdagen.se 0706574820
     2. Org: Socialdemokrat riksdagsledamot / kulturutskottet 
 	3. Focus: public spaces and meeting places
 	4. Questions: urban and housing development
