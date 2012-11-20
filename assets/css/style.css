@@ -324,6 +324,9 @@ nav.submenu > ul > li.active > a:active{
 .content .tools{
 	margin-left: -28px;
 }
+.content .tools li{
+	list-style: none;
+}
 .team h3.name{
 	margin: 0 0 5px;
 }
