@@ -324,14 +324,18 @@ nav.submenu > ul > li.active > a:active{
 .content .tools{
 	margin-left: -28px;
 }
-.team li{
-	float: left;
-	clear: left;
+.team h3.name{
+	margin: 0 0 5px;
 }
-.team .description{
-	float: left;
+.team .role{
+  font: italic 700 15px 'Lora';
+	color: #d0cece;
+	margin-bottom: 5px;
 }
-
+.team .description p{
+	font-size: 17px;
+	line-height: 1.2em;
+}
 
 /* FOOTER
    ------ */ 
