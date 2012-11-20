@@ -10,12 +10,12 @@ category: about
     <li class="person">
       <h3 class="name">{{item.name}}</h3>
       <h4 class="role">{{item.role}}</h4>
-      <img
+      <img class="grid_2"
       {% if item.gravatar %} src="{{item.gravatar}}?s={{site.gravasize}}"
       {% else %} width="{{site.gravasize}}" src="{{site.baseurl}}/assets/img/{{item.picture}}"
       {% endif %}
       alt="{{item.name}}">
-      <div class="description grid_4"><p>{{item.content}}</p></div>
+      <div class="description grid_6"><p>{{item.content}}</p></div>
     </li>
   {% endfor %}
 </ul>
