@@ -2,4 +2,4 @@
 categories: [footer, footermain]
 ---
 
-This is a [Dilettant](http://dilettant.se) initiative. We develop research projects addressing organizational, cooperative and political strategies aimed at a broad social context.
+The Public Office is a [Dilettant](http://dilettant.se) initiative. We develop projects addressing organizational, cooperative and political strategies aimed at a broad social context.
