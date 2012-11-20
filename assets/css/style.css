@@ -342,6 +342,9 @@ nav.submenu > ul > li.active > a:active{
 	border-bottom: 1px dashed #d0cece;
 	margin-bottom: 20px;
 }
+.content article ul.team li:last-child{
+	border-bottom-style: none;
+}
 
 /* FOOTER
    ------ */ 
