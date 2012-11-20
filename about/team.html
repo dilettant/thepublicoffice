@@ -8,7 +8,7 @@ category: about
 <ul class="team">
   {% for item in site.categories.team reversed %}
     <li class="person">
-      <img
+      <img class="grid_1 alpha"
       {% if item.gravatar %} src="{{item.gravatar}}?s={{site.gravasize}}"
       {% else %} width="{{site.gravasize}}" src="{{site.baseurl}}/assets/img/{{item.picture}}"
       {% endif %}
