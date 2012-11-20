@@ -3,6 +3,6 @@
   {% if page.ishome %}
     <li class="edit" title="Edit in prose"><a href="{{site.prose}}/{{page.ref}}.md">Edit in prose</a></li>
   {% else %}
-    <li class="edit" title="Edit in prose"><a href="{{site.prose}}/{{site.repo}}/{{page.ref}}.md">Edit in prose</a></li>
+    <li class="edit" title="Edit in prose"><a href="{{site.prose}}/{{site.mainrepo}}/{{page.ref}}.md">Edit in prose</a></li>
   {% endif %}
 </ul>

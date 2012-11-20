@@ -20,6 +20,7 @@ assetsurl:    http://thepublicoffice.se
 bannername: museumofarchitecture
 
 prose: "http://prose.io/#dilettant/thepublicoffice/edit/gh-pages"
+mainrepo : "_posts"
 repo : "_posts/amuseet"
 githubrepourl: "https://github.com/dilettant/thepublicoffice" 
 flattrurl: "https://flattr.com/thing/945788/The-Public-Office"
