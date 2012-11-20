@@ -1,6 +1,7 @@
 ---
 layout: global
 ishome: true
+noMenu: true
 main: true
 title: the public office
 intro: The Public Office is a vision of open and rent-free work and meeting places
