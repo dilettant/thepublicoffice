@@ -327,10 +327,14 @@ nav.submenu > ul > li.active > a:active{
 .team h3.name{
 	margin: 0 0 5px;
 }
+.team img{
+	margin-bottom: 10px;
+}
 .team .role{
   font: italic 700 15px 'Lora';
 	color: #d0cece;
 	margin-bottom: 5px;
+	margin-left: 0;
 }
 .team .description p{
 	font-size: 17px;
