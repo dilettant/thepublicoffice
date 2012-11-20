@@ -1,4 +1,8 @@
 <ul class="tools grid_2 omega">
   <li class="read" title="Read"><a id="read" href="http://readablily.com">Readablily</a></li>
-  <li class="edit" title="Edit in prose"><a href="{{site.prose}}/{{page.ref}}.md">Edit in prose</a></li>
+  {% if page.category %}
+    <li class="edit" title="Edit in prose"><a href="{{site.prose}}/{{page.category}}/{{page.ref}}.md">Edit in prose</a></li>
+  {% else %}
+    <li class="edit" title="Edit in prose"><a href="{{site.prose}}/{{page.ref}}.md">Edit in prose</a></li>
+  {% endif %}
 </ul>
