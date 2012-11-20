@@ -323,6 +323,14 @@ nav.submenu > ul > li.active > a:active{
 .content .tools{
 	margin-left: -28px;
 }
+.team img,
+.team h3.name,
+.team h4.role
+{
+	float: left;
+	
+}
+
 /* FOOTER
    ------ */ 
  footer{
