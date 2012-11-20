@@ -1,0 +1,4 @@
+<ul class="sidebarpics grid_3 alpha">
+  <li><img src="file:///Users/vectorsize/Dropbox/www/dilettant/thepublicoffice/_site/assets/img/{{page.ref}}1.png"/></li>
+  <li><img src="file:///Users/vectorsize/Dropbox/www/dilettant/thepublicoffice/_site/assets/img/{{page.ref}}2.png"/></li>
+</ul>

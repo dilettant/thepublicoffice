@@ -78,7 +78,10 @@
     <li><a class="active" href="http://thepublicoffice.se/museumofarchitecture">English</a></li>
   </ul>
   {% if page.noMenu %}
-    <div class="grid_10 prefix_3 nomenu alpha omega content">
+  <div class="grid_3 alpha content">
+    {% include partials/sidebarpics.part %}
+    </div>
+    <div class="grid_8 omega content">
   {% else %}
     <div class="grid_3 alpha content">
     {% include partials/submenu.part %}
