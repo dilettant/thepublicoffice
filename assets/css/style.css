@@ -126,6 +126,9 @@ nav.main ul li a{
 
 /* SUBMENU
    ------- */
+nav.submenu ul{
+	margin-top: 10px;
+}
 nav.submenu ul li{
   border-top-width: 1px;
   border-top-style: solid;
@@ -142,7 +145,7 @@ nav.submenu > ul > li:first-child{
   padding-bottom: 10px;
 }
 nav.submenu > ul > li.active{
-  padding-bottom: 0;
+
 }
 nav.submenu ul li a:link,
 nav.submenu ul li a:visited{
@@ -155,7 +158,6 @@ nav.submenu ul li{
 nav.submenu > ul > li.active + li{
   border-top-style: none;
 }
-
 nav.submenu > ul > li.active a:link,
 nav.submenu > ul > li.active a:visited{
     color: #fff;
@@ -195,6 +197,10 @@ nav.submenu > ul > li.active > a:hover,
 nav.submenu > ul > li.active > a:active{
   color: #fff;
 }
+nav.submenu > ul > li > ul {
+	margin-bottom: -10px;
+}
+
 /* ABOUT */
 .about{
   border-top-color: #fdd950;
