@@ -1,5 +1,5 @@
 /* @override 
-	file:///Users/vectorsize/Dropbox/www/dilettant/newpublicoffice/_site/assets/css/style.css */
+	http://thepublicoffice.se//assets/css/style.css */
 
 /* GLOBAL
    ------ */
@@ -236,6 +236,10 @@ nav.submenu > ul > li.active > a:active{
 .content article ul li{
 	list-style-type:disc;
 	margin-left: 10px;
+}
+.content article ul.team li{
+	list-style-type:none;
+	margin-left: 0px;
 }
 .content article h3 {
 	text-transform: uppercase;
