@@ -118,6 +118,17 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>
 <script>window.jQuery || document.write("<script src='assets/js/jquery-1.5.1.min.js'>\x3C/script>")</script>
 <script src="assets/js/app.js"></script>
-  
+<!-- Piwik --> 
+<script type="text/javascript">
+var pkBaseURL = (("https:" == document.location.protocol) ? "https://hybriskonst.org/piwik/" : "http://hybriskonst.org/piwik/");
+document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script type="text/javascript">
+try {
+var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 1);
+piwikTracker.trackPageView();
+piwikTracker.enableLinkTracking();
+} catch( err ) {}
+</script>
+<noscript><img src="http://hybriskonst.org/piwik/piwik.php?idsite=1" style="border:0" alt="" /></noscript>  
 </body>
 </html>
