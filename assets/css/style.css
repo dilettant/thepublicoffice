@@ -12,6 +12,9 @@ body{
   -webkit-font-smoothing: subpixel-antialiased;
   background-image: url(http://allmannakontoret.se/assets/img/grid.png);
 }
+a{
+  outline: 0;
+}
 a:link,
 a:visited{
   font: italic 700 13px 'Lora';
