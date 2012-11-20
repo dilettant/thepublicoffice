@@ -2,6 +2,7 @@
 layout: global
 main: true
 title: about
+ref: about
 category: about
 intro: The Public Office is a long-term development project initiated by Dilettant AB
 ---
