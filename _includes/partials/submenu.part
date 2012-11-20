@@ -1,43 +1,34 @@
-<nav>
+<nav class="submenu">
   <ul class="primary">
     {% assign current = page.category%}
     {% capture current_menu %}{{current | prepend:'menu_'}}{% endcapture %}
 
     {% for cat in site[current_menu] %}
-
       {% for sec in cat %}
         {% assign sections = sec[forloop.index] %}
         {% assign item = sec[0]%}
         {% assign len = item.size %}
-
         {% if len %}
           {% capture text %}{% if site[item] %}{{site[item]}}{% else %}{{item | replace:'_',' '}}{% endif %}{% endcapture %}
-          <li{% if page.ref == item %} class="active"{% endif %}><a href="{{site.baseurl}}/{{current}}/{{item}}.html#top">{{text | capitalize}}</a></li>
-
+          <li{% if page.ref == item or page.parent == item %} class="active"{% endif %}><div><a href="{{site.baseurl}}/{{current}}/{{item}}.html#top">{{text | capitalize}}</a></div>
           {% assign nsec = sections | size %}
-          
           {% if nsec != 0%}
           {% capture curr %}{{ page.title | replace: ' ','_' }}{% endcapture %}
-
-
-            <ul class="secondary{% if page.ref == item %} active{% elsif page.parent == item %} active{% endif %}">
+            <ul class="secondary{% if page.ref == item or page.parent == item %} active{% endif %}">
             {% for i in nsec %}
-          
               {% assign item = sections[forloop.index0]] %}
               {% capture text %}{% if site[item] %}{{site[item]}}{% else %}{{item | replace:'_',' '}}{% endif %}{% endcapture %}
-              <li{% if page.ref == item %} class="active"{% endif %}><a href="{{site.baseurl}}/{{current}}/{{item}}.html#top">{{text | capitalize}}</a></li>
-          
+              <li{% if page.ref == item %} class="active"{% endif %}><div><a {% if page.ref == item %} class="active"{% endif %}href="{{site.baseurl}}/{{current}}/{{item}}.html#top">{{text | capitalize}}</a></div></li>
             {% endfor %}
             </ul>
           {% endif %}
+          </li>
         {% else %}
           {% assign item = cat%}
           {% capture text %}{% if site[item] %}{{site[item]}}{% else %}{{item | replace:'_',' '}}{% endif %}{% endcapture %}
-          <li{% if page.ref == item %} class="active"{% endif %}><a href="{{site.baseurl}}/{{current}}/{{item}}.html#top">{{text | capitalize}}</a></li>
+          <li{% if page.ref == item %} class="active"{% endif %}><div><a href="{{site.baseurl}}/{{current}}/{{item}}.html#top">{{text | capitalize}}</a></div></li>
         {% endif %}
-
       {% endfor %}
-
     {% endfor %}
   </ul>
 </nav>

@@ -1,5 +1,6 @@
 ---
 layout: global
+noMenu: true
 main: true
 title: contact
 category: contact

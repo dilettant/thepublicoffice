@@ -12,7 +12,8 @@ This means that the proposal, to achieve a broad impact, requires a political co
 	
 Reasonably, the primary financial responsibility should be placed on local/municipal authorities, with support from the state policy level. It is also possible to envisage that the project is initiated from the state level, in the form of a governmental investigation or an official commission of cooperation between relevant authorities and agencies.
 
-*The issue of competition with existing businesses*
+###The issue of competition with existing businesses
+
 The idea of The Public Office has been met with questions regarding competition problems. A criticism sometimes brought forward, is that The Public Office would make it difficult for existing players who lease workspaces on a commercial basis.
 	
 The conclusion of this report, regarding the question of possible distortions of competition, is that all types of public investment affects, facilitates and interacts with different markets. In the end, these are political decisions concerning which infrastructure the community should provide all citizens.

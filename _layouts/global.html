@@ -1,22 +1,21 @@
 ---
 layout: default
 ---
-<article class="hentry">
-  <header>
-    {% capture title %}{% if site[page.category] %}{{site[page.category]}}{% else %}{{page.category}}{% endif %}{% endcapture %}
-    {% capture subtitle %}{% if site[page.parent] %}{{site[page.parent]}}{% else %}{{page.parent | replace:'_', ''}}{% endif %}{% endcapture %}
-    <h1 id="top" class="entry-title">
-      {% if page.main %}{{page.title}}{% else %}{{title}}{% endif%}
-    </h1>
-    {% unless page.main%}
-      {% if page.parent %}
-      <h2 class="entry-section">{{subtitle | capitalize}}</h2>
-      <h3 class="entry-summary">{{page.title | capitalize}}</h3>
-      {% else %}
-      <h2 class="entry-summary">{{page.title | capitalize}}</h2>
-      {% endif %}
+<article class="grid_9 alpha omega">
+    <h1 class="grid_7 alpha">{{page.title}}</h1>
+    {% assign piage = page%}
+    {% include partials/tools.part %}
+    {% assign piage = null%}
 
-    {% endunless %}
-  </header>
-  <div class="hentry-content">{{ content }}</div>
+    {% if page.subtitle %}
+    <h2 class="grid_7 alpha">{{page.subtitle}}</h2>
+      {% if page.intro %}
+      <h3 class="grid_7 alpha intro">{{page.intro | capitalize}}</h3>
+      {% endif %}
+    {% elsif page.intro %}
+      <h2 class="grid_7 alpha intro">{{page.intro | capitalize}}</h2>
+    {% endif %}
+  <section class="grid_7 alpha">
+    {{ content }}
+  </section>
 </article>
