@@ -7,10 +7,10 @@ category: about
 
 <ul class="team">
   {% for item in site.categories.team reversed %}
-    <li class="">
-      <h3 class="">{{item.name}}</h3>
-      <h4 class="">{{item.role}}</h4>
-      <img class=" alpha" 
+    <li class="person">
+      <h3 class="name">{{item.name}}</h3>
+      <h4 class="role">{{item.role}}</h4>
+      <img
       {% if item.gravatar %} src="{{item.gravatar}}?s={{site.gravasize}}"
       {% else %} width="{{site.gravasize}}" src="{{site.baseurl}}/assets/img/{{item.picture}}"
       {% endif %}
