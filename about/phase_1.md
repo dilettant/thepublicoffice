@@ -11,4 +11,4 @@ The Public Office, Phase I, was initiated and managed by Anders Jacobson and Joh
 Project duration: 1 November 2011 – 1 June 2012    
 
 Supported by   
-![Kulturbryggan]({{site.assetsurl}}/assets/img/kb.png)
+![Kulturbryggan](http://allmannakontoret.se/assets/img/kb.png)
