@@ -5,6 +5,7 @@ main: true
 ref: contact
 title: contact
 category: contact
+pics: [contact1.png, contact2.png]
 ---
 
 Phone +46 (0) 702 97 79 70  

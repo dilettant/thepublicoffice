@@ -6,6 +6,7 @@ title: the public office
 intro: The Public Office is a vision of open and rent-free work and meeting places
 ref: index
 category: index
+pics: [index1.png, index2.png]
 ---
 
 The Public Office is a long-term development project that seeks to articulate an idea of open and rent-free work and meeting places, where the public is given the opportunity to engage in work and further education. During several project phases, we explore the concept's possibilities and potential functions in an increasingly mobile labor market, as well as in urban planning and local community development, business development and integration.
