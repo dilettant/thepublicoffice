@@ -238,10 +238,6 @@ nav.submenu > ul > li.active > a:active{
 	list-style-type:disc;
 	margin-left: 10px;
 }
-.content article ul.team li{
-	list-style-type:none;
-	margin-left: 0px;
-}
 .content article h3 {
 	text-transform: uppercase;
 	font-weight: normal;
@@ -339,6 +335,12 @@ nav.submenu > ul > li.active > a:active{
 .team .description p{
 	font-size: 17px;
 	line-height: 1.2em;
+}
+.content article ul.team li{
+	list-style-type:none;
+	margin-left: 0px;
+	border-bottom: 1px dashed #d0cece;
+	margin-bottom: 20px;
 }
 
 /* FOOTER
