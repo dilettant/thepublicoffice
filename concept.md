@@ -2,6 +2,7 @@
 layout: global
 main: true
 title: concept
+ref: concept
 category: concept
 intro: This section is where we continuously develop the concept of The Public Office
 ---
