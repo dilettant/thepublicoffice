@@ -2,6 +2,7 @@
 layout: global
 noMenu: true
 main: true
+ref: contact
 title: contact
 category: contact
 ---
