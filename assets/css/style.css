@@ -1,5 +1,6 @@
 /* @override 
-	http://thepublicoffice.se//assets/css/style.css */
+	http://thepublicoffice.se//assets/css/style.css
+	http://thepublicoffice.se/assets/css/style.css */
 
 /* GLOBAL
    ------ */
@@ -323,13 +324,14 @@ nav.submenu > ul > li.active > a:active{
 .content .tools{
 	margin-left: -28px;
 }
-.team img,
-.team h3.name,
-.team h4.role
-{
+.team li{
 	float: left;
-	
+	clear: left;
 }
+.team .description{
+	float: left;
+}
+
 
 /* FOOTER
    ------ */ 
