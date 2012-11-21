@@ -14,4 +14,4 @@ The Public Office, Phase II, is run by Dilettant AB in collaboration with The Sw
 
 The project is part of the EU project [Special Issue](http://specialissue.eu), with partners in France, Serbia, Spain and Turkey. Special Issue focuses on the publication of discursive practices in the arts sector, and is coordinated by Les Laboratoires d'Aubervillier, Paris.  
 
-![samarbete](/assets/img/logos.png)
+![samarbete](http://allmannakontoret/assets/img/logos.png)
