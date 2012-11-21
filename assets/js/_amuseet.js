@@ -39,15 +39,14 @@ function readability() {
             var date = new Date(dateString);
             var text = lastTweet['text'];
             var url = 'https://twitter.com/' + user + '/status/' + lastTweet['id_str'];
-            var hour = date.getHours();
+            var hour = date.getHours() -1;
             var minutes = date.getMinutes();
-            var day = date.getDate();
+            var day = date.getDay();
             var month = date.getMonth();
-            var tweetDate =  hour + ':' + minutes + '<br>' + day + ' ' + months[month];
+            var tweetDate =  hour + ':' + minutes + '<br />' + day + ' ' + months[month];
 
             $('.content').html(linkify(text));
             $('.date').html(tweetDate);
-            $('.twitter h1 a').attr({'href':url});
           }
         });
         
