@@ -8,7 +8,7 @@ category: contact
 pics: [contact1.png, contact2.png]
 ---
 
-Phone: +46 (0) 702 97 79 70   
+Phone +46 (0) 702 97 79 70   
 Email: dilettant@riseup.net  
 
 Postal address:   
