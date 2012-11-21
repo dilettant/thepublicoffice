@@ -43,7 +43,7 @@ function readability() {
             var minutes = date.getMinutes();
             var day = date.getDay();
             var month = date.getMonth();
-            var tweetDate =  hour + ':' + minutes + ' ' + day + ' ' + months[month];
+            var tweetDate =  hour + ':' + minutes + '<br />' + day + ' ' + months[month];
 
             $('.content').html(linkify(text));
             $('.date').html(tweetDate);
