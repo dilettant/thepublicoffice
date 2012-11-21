@@ -2,5 +2,5 @@
 {% for cat in site.menu_main %}
       {% if cat == 'hem' %}{% assign item = 'index' %}{% else %}{% assign item = cat%}{% endif %}
       {% capture text %}{% if site[item] %}{{site[item]}}{% else %}{{item | replace:'_',' '}}{% endif %}{% endcapture %}
-      <li class="{{item}}{% if page.category == item} %} active{% endif %}"><a href="{{site.baseurl}}/{{item}}.html#top">{{text | capitalize}}</a></li>
+      <li class="{{item}}{% if page.category == item} %} active{% endif %}"><a href="{{site.baseurl}}/{{item}}.html">{{text | capitalize}}</a></li>
 {% endfor %}
