@@ -4,21 +4,21 @@
 <!--[if IE 7 ]>    <html class="ie ie7 no-js" lang="en"> <![endif]-->
 <!--[if IE 8 ]>    <html class="ie ie8 no-js" lang="en"> <![endif]-->
 <!--[if IE 9 ]>    <html class="ie ie9 no-js" lang="en"> <![endif]-->
-<!--[if gt IE 9]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<!--[if gt IE 9]><!--><html class="no-js" lang="{{site.lang}}"><!--<![endif]-->
 <!-- the "no-js" class is for Modernizr. -->
 <head>
-  <title>The public office • Home • The public office</title>
+  <title>{{site.title}}</title>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <meta name="title" content="The public office • Home • The public office">
-  <meta name="description" content="The Public Office is a long-term development project that seeks to articulate an idea of open and rent-free work and meeting places, where the public is given the opportunity to engage in work and further education. During several project phases, we explore the concept’s possibilities and potential functions in an increasingly mobile labor market, as well as in urban planning and local community development, business development and integration.">   
-  <meta name="author" content="dilettant.se">
-  <meta name="Copyright" content="This site is open source and is proudly hosted on GitHub.">
+  <meta name="title" content="{{site.title}}">
+  <meta name="description" content="{{site.description}}">   
+  <meta name="author" content="{{site.author}}">
+  <meta name="Copyright" content="{{site.copyright}}">
 
   <!-- Dublin Core Metadata : http://dublincore.org/ -->
-  <meta name="DC.title" content="The Public Office">
-  <meta name="DC.subject" content="The Public Office is a long-term development project that seeks to articulate an idea of open and rent-free work and meeting places, where the public is given the opportunity to engage in work and further education. During several project phases, we explore the concept’s possibilities and potential functions in an increasingly mobile labor market, as well as in urban planning and local community development, business development and integration.">
-  <meta name="DC.creator" content="dilettant.se">
+  <meta name="DC.title" content="{{site.title}}">
+  <meta name="DC.subject" content="{{site.description}}">
+  <meta name="DC.creator" content="{{site.author}}">
 
   <link rel="shortcut icon" href="{{site.assetsurl}}/assets/img/favicon.ico">     
   <link rel="apple-touch-icon" href="{{site.assetsurl}}/assets/img/touch-icon.png">
@@ -26,46 +26,21 @@
   <link rel="stylesheet" href="{{site.assetsurl}}/assets/css/reset.css" />
   <link href="http://fonts.googleapis.com/css?family=Josefin+Slab:400,700" rel="stylesheet" type="text/css">
   <link href="http://fonts.googleapis.com/css?family=Lora:700,400italic,700italic" rel="stylesheet" type="text/css">
-
-  <noscript>
-    <link rel="stylesheet" href="{{site.assetsurl}}/assets/css/mobile.min.css" />
-  </noscript>
-  <script>
-  var range= [
-      '0px    to 760px  = mobile.min.css',
-      '760px  to 980px  = 720.min.css',
-      '980px  to 1280px = 960.min.css',
-      '1280px to 1600px = 1560.min.css',
-      '1600px to 1940px = 1920.min.css',
-      '1940px to 2540px = 2050.min.css',
-      '2540px           = 2050.min.css'
-    ]
-  function callMe(e){
-    console.log('viewport-' + e);
-  }
-  var ADAPT_CONFIG = {
-    path: 'assets/css/',
-    dynamic: true,
-    callback: callMe,
-    range: range
-  };
-  </script>
   <script src="{{site.assetsurl}}/assets/js/modernizr-1.7.min.js"></script>
-    <!-- <script src="assets/js/adapt.min.js"></script> -->
   <link rel="stylesheet" href="{{site.assetsurl}}/assets/css/960.min.css" />
   <link rel="stylesheet" href="{{site.assetsurl}}/assets/css/style.css" />
 </head>
 <body class="{{page.category}}">
 <div class="container_12">
   <div class="grid_8 alpha">
-    <h1 class="logo"><a href="http://thepublicoffice.se">The Public Office</a></h1>
+    <h1 class="logo"><a href="{{site.baseurl}}">{{site.title}}</a></h1>
   </div>
   <div class="grid_4 omega postit">
     <section>
-        <h1>30 OCT - 30 NOV 2012</h1>
-        <h2>Tuesday-Saturday at 10.00-18.00</h2>
-        <p>Join The public office at The swedish museum of architecture</p>
-        <a id="top" href="{{site.baseurl}}/{{site.bannername}}/">Read more</a>
+        <h1>{{site.dates}}</h1>
+        <h2>{{site.times}}</h2>
+        <p>{{site.join}}</p>
+        <a id="top" href="{{site.baseurl}}/{{site.bannername}}/">{{site.more}}</a>
     </section>
   </div>
   <nav class="main grid_10 alpha">
@@ -74,8 +49,8 @@
     </ul>
   </nav>
   <ul class="grid_2 tools omega lang">
-    <li><a href="http://allmannakontoret.se/">Swedish</a></li>
-    <li><a class="active" href="http://thepublicoffice.se/">English</a></li>
+    <li><a class="active" href="http://allmannakontoret.se/">{{site.swedish}}</a></li>
+    <li><a href="http://thepublicoffice.se/">{{site.english}}</a></li>
   </ul>
   {% if page.noMenu %}
   <div class="grid_3 alpha content">
@@ -99,14 +74,14 @@
           {% endfor %}
         </section>
         <section class="grid_2 second">
-          <h1>Support</h1>
+          <h1>{{site.support}}</h1>
           <ul>
-            <li><a class="github" href="https://github.com/dilettant/thepublicoffice">Github</a></li>
-            <li><a class="flattr" href="https://flattr.com/thing/945788/The-Public-Office">Flattr</a></li>
+            <li><a class="github" href="{{site.githubrepourl}}">Github</a></li>
+            <li><a class="flattr" href="{{site.flattrurl}}">Flattr</a></li>
           </ul>
         </section>
         <section class="grid_2 alpha omega third">
-          <h1>Connect</h1>
+          <h1>{{site.connect}}</h1>
           <ul>
             <li><a class="twitter" href="https://twitter.com/_dilettant">Twitter</a></li>
             <li><a class="facebook" href="https://www.facebook.com/pages/Dilettant/348667654399">Facebook</a></li>
@@ -115,9 +90,8 @@
       </footer>
   </div>
 </div>
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>
-<script>window.jQuery || document.write("<script src='assets/js/jquery-1.5.1.min.js'>\x3C/script>")</script>
-<script src="assets/js/app.js"></script>
+<script src='{{site.assetsurl}}/assets/js/jquery-1.5.1.min.js'></script>
+<script src="{{site.assetsurl}}/assets/js/app.js"></script>
 <!-- Piwik --> 
 <script type="text/javascript">
 var pkBaseURL = (("https:" == document.location.protocol) ? "https://hybriskonst.org/piwik/" : "http://hybriskonst.org/piwik/");
@@ -127,8 +101,7 @@ try {
 var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 1);
 piwikTracker.trackPageView();
 piwikTracker.enableLinkTracking();
-} catch( err ) {}
-</script>
+} catch( err ) {}</script>
 <noscript><img src="http://hybriskonst.org/piwik/piwik.php?idsite=1" style="border:0" alt="" /></noscript>  
 </body>
 </html>

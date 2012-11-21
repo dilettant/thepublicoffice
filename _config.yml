@@ -7,17 +7,22 @@ server:      false
 
 # SITE VARS
 # =========
-
 title: The public office
 subtitle: "At the swedish museum of architecture<br>30 oct - 30 nov, 2012"
-times: "Tuesday-Saturday between 10.00-18.00"
+description: "The Public Office is a long-term development project that seeks to articulate an idea of open and rent-free work and meeting places, where the public is given the opportunity to engage in work and further education. During several project phases, we explore the concept’s possibilities and potential functions in an increasingly mobile labor market, as well as in urban planning and local community development, business development and integration."
+author: "http://dilettant.se"
+copyright: "This site is open source and is proudly hosted on GitHub."
+
 amuseettitle: The public office at the swedish museum of architecture
-# baseurl:    http://thepublicoffice.se
+dates: "30 OCT - 30 NOV 2012"
+times: "Tuesday-Saturday between 10.00-18.00"
+join: "Join The public office at The swedish museum of architecture"
+more: "Read more"
 baseurl:    http://thepublicoffice.se
-assetsurl : http://allmannakontoret.se
+assetsurl: http://allmannakontoret.se
 bannername: museumofarchitecture
 
-prose: "http://prose.io/#dilettant/thepublicoffice/edit/gh-pages"
+prose: "http://prose.io/#dilettant/allmannakontoret/edit/gh-pages"
 mainrepo : "_posts"
 repo : "_posts/amuseet"
 githubrepourl: "https://github.com/dilettant/thepublicoffice" 
@@ -77,7 +82,10 @@ menu_concept:
 
 # DICTIONARY
 # ==========
-
+support: Support us
+connect: Follow us
+swedish: Swedish
+english: English
 index: Home
 welcome: Welcome
 support: Support
