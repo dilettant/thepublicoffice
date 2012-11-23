@@ -193,6 +193,8 @@ http://cultura21.dk/projekter-2/ark-nord-network-development-project/ )
 *Will be presenting at Arena Hållbar stad 6-8 nov, maybe we can catch her after* 
 charlotta.mellander@jibs.hj.se, 036-101757
 Status: English?
+7. Agreement/Fee: 1000 kr + moms
+
 
 * Roland Paulsen
 	1. Contact: +46 73 783 93 37
