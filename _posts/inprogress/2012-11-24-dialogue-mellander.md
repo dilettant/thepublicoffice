@@ -10,7 +10,7 @@ published: false
 Guest: Charlotta Mellander  
 From PO: Myriam Mazzoni  
 
-## Charlotta Mellander's short description of her work/field  
+### Charlotta Mellander's short description of her work/field  
 
 En viktig del av hennes forskning driver att det är viktigt att utvecklingen sker genom att vara inkluderande o öppna för nya idéer - om ingen lyssnar kommer inga förändringar heller att ske.  
 
@@ -62,9 +62,6 @@ tryggeht o säkerhet i staden
 dåliga på samarbeten i Sverige eftersom vi lutar oss mycket på det offentliga  
 till skillnad från nord amerika- ta till vara eldsjälar o hålla borta bromsklossar    
 
-## tips on references or other?  
+### tips on references or other?  
 
-Peab / Skanska (mötesplatser)  
-
-
-
+Peab / Skanska (mötesplatser)
