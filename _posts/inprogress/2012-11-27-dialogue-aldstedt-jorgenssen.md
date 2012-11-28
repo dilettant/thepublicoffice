@@ -10,6 +10,7 @@ published: false
 From The Public Office: Anders Jacobson & Myriam Mazzoni    
   
 ### The current situation for the public city libraries
+
 There are today 40 city neigborhood libraries (stadsdelsbibliotek) in Stockholm, and they all have different age and standard. There is currently a strong political engagement for the libraries – new money is granted for building new libraries and to renovate old ones, and guidelines are given to expand the library concept. The libraries are very well used and visited, which also means that a lot of them are quite run down. The amount of visitors is stable, but the user groups are getting more narrow. The library as an institution are in a time of transition, in reaction to the increasing availibility of information online, as well as cheap books for sale – both on and offline.
 
 The organization is looking for new concepts and contexts. They need to become even more availible and relevant, and they need to find ways to give people reasons to visit the library beyond the traditional function of giving information. In this process the organization wants to collaborate with other partners – it is claimed to be a rather introvert organization with weak potential for development.

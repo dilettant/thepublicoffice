@@ -65,9 +65,9 @@
   {% endif %}
     {{content}}
   </div>
-  <div class="grid_9 prefix_3">
+  <div class="grid_12">
     <footer>
-      <section class="grid_4 alpha first">
+      <section class="grid_5 alpha first">
         <h1><a href="http://dilettant.se">Dilettant</a></h1>
           {% for f in site.categories.footermain reversed %}
             {{f.content | markdownify}}
@@ -80,12 +80,29 @@
             <li><a class="flattr" href="{{site.flattrurl}}">Flattr</a></li>
           </ul>
         </section>
-        <section class="grid_2 alpha omega third">
+        <section class="grid_2 alpha third">
           <h1>{{site.connect}}</h1>
           <ul>
             <li><a class="twitter" href="https://twitter.com/_dilettant">Twitter</a></li>
             <li><a class="facebook" href="https://www.facebook.com/pages/Dilettant/348667654399">Facebook</a></li>
           </ul>
+        </section>
+        <section class="grid_3 fourth omega">
+          <h1>{{site.newsletter}}</h1>
+          <form id="subs" action="http://newsletter.thepublicoffice.se/subscribe.php" method="post">
+            <p>If you want to be kept in the loop, you can subscribe to Dilettant's newsletter where we will notify you about the status of the project.</p>
+            <input class="email" name="email" size="30">
+            <input type="hidden" name="return" value="izikc" />
+            <input name="lbqod" class="lbqod grid_2 alpha" placeholder="Please">
+            <input type="submit" class="submit grid_1 alpha omega" value="Do!">
+          </form>
+          <form id="unsubs" action="http://newsletter.thepublicoffice.se/unsubscribe.php" method="post">
+            <p>You are currently subscribed to Dilletant's newsletter. If you wish to unsubscribe just submit your email below.</p>
+            <input class="email" name="email" size="30">
+            <input type="hidden" name="return" value="izikc" />
+            <input id="lbqod" name="lbqod" class="lbqod grid_2 alpha" value="">
+            <input type="submit" class="submit grid_1 alpha omega" value="Thanks!">
+          </form>
         </section>
       </footer>
   </div>
