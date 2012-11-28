@@ -10,12 +10,14 @@ published: false
 Guest: Charlotta Mellander  
 From PO: Myriam Mazzoni  
 
-### Charlotta Mellander's short description of her work/field  
+### Charlotta Mellander's short description of her field of research 
 
-CM has her background in the field of national (and regional) economy. Her researched is based on how people play in the knowledge economy. In spite of all the technical equipment and logistics, we still gather up in fewer geographic places while the other places/locations shrink. What happens to the places that are left and to the people that leave for a new place? What happens to society as a whole?
+CM has her background in the field of national (and regional) economy. Her researche is based on how people play in the knowledge economy. In spite of all the technical equipment and logistics, we still gather up in fewer geographic places allthewhile the other places/locations shrink. What happens to the places that are left and to the people that leave for a new place? What happens to society as a whole?
+
 What is it that draws people to cities? What are drives that development and how are we equipped to deal with consequences, like income inequalities? Is it the knowledge society that pushes this development?
-Take a closer look at what actually happens inside the cities, that are dealing with the question of where to put all these people. Revealing tendancies like reverse communiting. Whereas tradtional commuting has been about living in the outskirts or outside of a larger city aand commute to the city center- there are now tendancies of a reverse commuting pattern, where you live a more expensive life in the center city and commute to a work place in the outskirts or outside of the city.
 
+Take a closer look at what actually happens inside the cities, that are dealing with the question of where to put all these people. Revealing tendancies like reverse communiting. Whereas tradtional commuting has been about living in the outskirts or outside of a larger city and commute to the city center- there are now tendancies of a reverse commuting pattern, where you live (an expensive life) in the center city and commute to a work place in the outskirts or outside of the city.
+A pattern that shows 
 
 
 En viktig del av hennes forskning driver att det är viktigt att utvecklingen sker genom att vara inkluderande o öppna för nya idéer - om ingen lyssnar kommer inga förändringar heller att ske.  
@@ -71,4 +73,4 @@ till skillnad från nord amerika- ta till vara eldsjälar o hålla borta bromskl
 ### tips on references or other?  
 
 Peab / Skanska (mötesplatser)
-Tara vinodrai; case studie Ontario, Canada, with designers paying an expensive life in the city and paying the communiting out of the city
+Tara vinodrai; case studie Ontario, Canada, with designers paying an expensive life in the city and paying the c
