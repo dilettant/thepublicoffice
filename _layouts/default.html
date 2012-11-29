@@ -89,12 +89,18 @@
         </section>
         <section class="grid_3 newsletter fourth omega">
           <h1>{{site.newsletter}}</h1>
-          <form id="subs" action="http://newsletter.thepublicoffice.se/subscribe.php" method="post">
+          <!-- <form id="subs" action="http://newsletter.thepublicoffice.se/subscribe.php" method="post"> -->
+          <form action="http://hybriskonst.org/statistics/" method="post" accept-charset="UTF-8">
             <p>If you want to be kept in the loop, you can subscribe to Dilettant's newsletter where we will notify you about the status of the project.</p>
             <input class="email" name="email" size="30">
             <input type="hidden" name="return" value="izikc" />
-            <input name="lbqod" class="lbqod grid_2 alpha" placeholder="Please">
-            <input type="submit" class="submit grid_1 alpha omega" value="Do!">
+            
+            <input type="hidden" name="form_build_id" value="form-5eKBnBA58-Z36q4qfkPyyQyhwOF_CoD56xwiH4wgehs">
+            <input type="hidden" name="form_id" value="simplenews_block_form_1">            
+            <input type="text" id="edit-mail--2" name="mail" value="" size="20" maxlength="128" class="form-text required">
+
+            <!-- <input name="lbqod" class="lbqod grid_2 alpha" placeholder="Please"> -->
+            <input type="submit" id="edit-submit" name="op" class="submit grid_1 alpha omega" value="Do!">
           </form>
           <form id="unsubs" action="http://newsletter.thepublicoffice.se/unsubscribe.php" method="post">
             <p>You are currently subscribed to Dilletant's newsletter. If you wish to unsubscribe just submit your email below.</p>
