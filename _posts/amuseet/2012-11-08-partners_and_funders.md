@@ -12,4 +12,4 @@ The Public Office at the Museum of Architecture is run by Dilettant AB in collab
 
 The project is part of the EU project [Special Issue](http://specialissue.eu), with partners in France, Serbia, Spain and Turkey. Special Issue focuses on the publication of discursive practices in the arts sector, and is coordinated by Les Laboratoires d'Aubervillier, Paris.
 
-<img src="/assets/img/logos.png" alt="partners_and_funders" class="logos"> 
+<img src="http://allmannakontoret.se/assets/img/logos.png" alt="partners_and_funders" class="logos">
