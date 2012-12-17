@@ -28,7 +28,8 @@
   <link href="http://fonts.googleapis.com/css?family=Lora:700,400italic,700italic" rel="stylesheet" type="text/css">
   <script src="{{site.assetsurl}}/assets/js/modernizr-1.7.min.js"></script>
   <link rel="stylesheet" href="{{site.assetsurl}}/assets/css/960.min.css" />
-  <link rel="stylesheet" href="{{site.assetsurl}}/assets/css/style.css" />
+  <!-- <link rel="stylesheet" href="{{site.assetsurl}}/assets/css/style.css" /> -->
+  <link rel="stylesheet" href="https://dl.dropbox.com/u/606131/style.css" />
 </head>
 <body class="{{page.category}}">
 <div class="container_12">
@@ -89,25 +90,13 @@
         </section>
         <section class="grid_3 newsletter fourth omega">
           <h1>{{site.newsletter}}</h1>
-          <!-- <form id="subs" action="http://newsletter.thepublicoffice.se/subscribe.php" method="post"> -->
-          <form action="http://hybriskonst.org/statistics/" method="post" accept-charset="UTF-8">
+          <form id="subs" action="http://news.dilettant.se/" method="post">
             <p>If you want to be kept in the loop, you can subscribe to Dilettant's newsletter where we will notify you about the status of the project.</p>
             <input class="email" name="email" size="30">
             <input type="hidden" name="return" value="izikc" />
-            
-            <!-- <input type="hidden" name="form_build_id" value="form-5eKBnBA58-Z36q4qfkPyyQyhwOF_CoD56xwiH4wgehs"> -->
-            <input type="hidden" name="form_id" value="simplenews_block_form_1">            
-            <input type="text" id="edit-mail--2" name="mail" value="" size="20" maxlength="128" class="form-text required">
-
-            <!-- <input name="lbqod" class="lbqod grid_2 alpha" placeholder="Please"> -->
-            <input type="submit" id="edit-submit" name="op" class="submit grid_1 alpha omega" value="Do!">
-          </form>
-          <form id="unsubs" action="http://newsletter.thepublicoffice.se/unsubscribe.php" method="post">
-            <p>You are currently subscribed to Dilletant's newsletter. If you wish to unsubscribe just submit your email below.</p>
-            <input class="email" name="email" size="30">
-            <input type="hidden" name="return" value="izikc" />
-            <input id="lbqod" name="lbqod" class="lbqod grid_2 alpha" value="">
-            <input type="submit" class="submit grid_1 alpha omega" value="Thanks!">
+            <input name="lbqod" class="lbqod" placeholder="your@email.com">
+            <input type="submit" id="subscribe" name="action" class="subscribe" value="Subscribe">
+            <input type="submit" id="unsubscribe" name="action" class="unsubscribe" value="Unsubscribe">
           </form>
         </section>
       </footer>
