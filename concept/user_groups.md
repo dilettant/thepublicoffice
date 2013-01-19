@@ -14,7 +14,7 @@ Since The Public Offices are proposed to be public places, they are by definitio
 
 * NGO's and non-profit associations are important parts of a local community. Conducting social and non-profit activities involves work requiring professional knowledge and a relevant work situation. Allowing social, non-profit or NGO activities to coexist with other professional and commercial activities should have positive effects on the level of knowledge and exchange of ideas, as well as regarding participation in civil society. The local civil society is also a fundamental factor in developing and spreading a greater local and democratic engagement within a community, and The Public Office would put this commitment into contact with various types of activities.
 
-* People who study can have an enriched experience by coexisting in professional environments. Furthermore, it would be beneficial to students' future establishment – or parallel activities – in the labour market.
+* People who study can have an enriched experience by coexisting in professional environments. Furthermore, it can be beneficial to students' future establishment – or parallel activities – in the labour market.
 
 * Homeless people need to regularly be in contact with authorities, have opportunities for job training, as well as access to meaningful activities and community. In this respect, The Public Office can function as a welcoming place for people who otherwise are excluded from professional environments and social contexts in which they can meet enterprising individuals. The open commons which The Public Office constitutes, proposes that the community needs more places in which people from different community groups can coexist, see each other, and interact.
 
