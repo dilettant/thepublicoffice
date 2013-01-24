@@ -15,7 +15,7 @@
           {% if nsec != 0%}
           {% capture curr %}{{ page.title | replace: ' ','_' }}{% endcapture %}
             <ul class="secondary{% if page.ref == item or page.parent == item %} active{% endif %}">
-            {% for i in nsec %}
+            {% for i in sections %}
               {% assign item = sections[forloop.index0]] %}
               {% capture text %}{% if site[item] %}{{site[item]}}{% else %}{{item | replace:'_',' '}}{% endif %}{% endcapture %}
               <li{% if page.ref == item %} class="active"{% endif %}><div><a {% if page.ref == item %} class="active"{% endif %}href="{{site.baseurl}}/{{current}}/{{item}}.html#top">{{text | capitalize}}</a></div></li>
