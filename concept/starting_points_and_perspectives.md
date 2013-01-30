@@ -32,7 +32,7 @@ In the contemporary welfare state, public spaces are provided, protected or subs
 
 Public places have the potential, through their availability, to create environments where a variety of people can feel welcome. The idea of The Public Office suggests that the opportunities provided to citizens through The Right of Public Access, public schools, libraries, cultural centres etc., should also cover the spatial and physical aspects of people's working lives, given the development of labour markets and changes in the forms of work outlined above. In this situation, it is relevant to apply formulations of equal rights to work and fair working conditions:
 
-> "The right to work is not an unconditional right to a job, but an obligation on states to take measures designed to eliminate unemployment. Everyone has the right to just and favourable conditions of work, including remuneration that is reasonable and sufficient to provide families with an existence worthy of human dignity, and to equal pay for equal work. In addition, everyone should have secure and healthy working conditions and opportunities for promotion."* [(2)](#footnotes){#foot2}
+> "The right to work is not an unconditional right to a job, but an obligation on states to take measures designed to eliminate unemployment. Everyone has the right to just and favourable conditions of work, including remuneration that is reasonable and sufficient to provide families with an existence worthy of human dignity, and to equal pay for equal work. In addition, everyone should have secure and healthy working conditions and opportunities for promotion." [(2)](#footnotes){#foot2}
 
 ## public meeting places in local development {#public_meeting_places_in_local_development}
 
