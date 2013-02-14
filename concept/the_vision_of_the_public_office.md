@@ -7,7 +7,7 @@ category: concept
 
 What is a Public Office in practice, and how can it work? How can it be initiated, financed and operated? According to which guidelines? Who are the expected users? In this section we develop the answers to such questions, and argue for a multiplicity of frames and activities based in a common frame and shared commitment.
 
-## the public office in practice {#the_public_office_in_practice}
+## The public office in practice {#the_public_office_in_practice}
 
 A Public Office is an open and rent-free work and meeting place in which citizens have the opportunity to engage in work and further education.
   
@@ -21,7 +21,7 @@ In direct connection to The Public Office there should be a staffed cafe where t
   
 Opening hours are proposed to be 8:00 to 22:00 on weekdays and 10:00 to 18:00 on weekends.
 
-## user groups {#user_groups}
+## User groups {#user_groups}
 
 Since The Public Offices are proposed to be public places, they are by definition open to all. The analysis underlying this proposal is essentially based on the increased proportion of freelance and precarious work [(1)](#footnotes){#foot1} and a vision of social inclusion through workplace communality. Earlier in the report we have discussed the ways in which The Public Office would constitute support for freelance workers, short-term employees and entrepreneurs. In this section, we will discuss additional user groups that would also benefit from The Public Office. The great potential in terms of users, is precisely the possibility of diversity.  
 
@@ -37,7 +37,7 @@ Since The Public Offices are proposed to be public places, they are by definitio
 
 * In many respects, our contemporary society is suffering from a strong age segregation. People of all ages are engaged in various types of projects, and most often thrive in the company of others. Many pensioners testify to a great shift in self-image when there is suddenly no job to go to, and a sudden lack of context. Similarly, active young people are often directed to exclusively youth-related activities, such as sports or youth centres. The Public Office has the potential to be a place where people of different ages can partake in projects, discussions or daily administration together.
 
-## ownership forms and guidelines {#ownership_forms_and_guidelines}
+## Ownership forms and guidelines {#ownership_forms_and_guidelines}
 
 In order to achieve a variety of environments, activities and approaches, we advocate a mix in terms of forms of organization and modes of operation.
 
@@ -45,7 +45,7 @@ We believe it is important that policy-makers encourage and welcome initiatives 
 
 It should also be possible for a local government and municipal institutions, such as libraries and culture centres, to initiate and run Public Offices, as well as property and housing companies. In most cases it should be possible and beneficial to find forms of cooperation between local actors from civil society, NGO's, businesses, property companies and municipal services.
     
-###Suggested guidelines
+### Suggested guidelines
 
 * the Public Offices shall respect human rights, and strive for equal opportunities for all user groups and individuals
 
@@ -67,7 +67,7 @@ It should also be possible for a local government and municipal institutions, su
 
 * the Public Offices are to facilitate and help all users to meet, support and allow each other to use the site and its functions.
 
-## forms of funding {#forms_of_funding}
+## Forms of funding {#forms_of_funding}
 
 How each individual Public Office is financed will likely take different forms, but the idea is based on the existence of a public commitment that enables the operation. In some places it will be possible to produce revenue, set up local partnerships with businesses, etc.. We also see opportunities for housing companies and property owners to gain interest in leasing premises inexpensively or lending them for free for periods of time, while other situations will require a comprehensive public funding support.
   
@@ -75,14 +75,14 @@ This means that the proposal, to achieve a broad impact, requires a political co
   
 Reasonably, the primary financial responsibility should be placed on local/municipal authorities, with support from the state policy level. It is also possible to envisage that the project is initiated from the state level, in the form of a governmental investigation or an official commission of cooperation between relevant authorities and agencies.
 
-###The issue of competition with existing businesses
+### The issue of competition with existing businesses
 
 The idea of The Public Office has been met with questions regarding competition problems. A criticism sometimes brought forward, is that The Public Office would make it difficult for existing players who lease workspaces on a commercial basis.
   
 The conclusion of this report, regarding the question of possible distortions of competition, is that all types of public investment affects, facilitates and interacts with different markets. In the end, these are political decisions concerning which infrastructure the community should provide all citizens.
 
 
-##form and content of the activities {#form_and_content_of_the_activities}
+## Form and content of the activities {#form_and_content_of_the_activities}
 
 The aim is that the different Public Offices in total can provide a variety of environments that can attract different user groups, and in this regard it is important to grant the offices a significant degree of freedom to develop specificities.
   

@@ -7,7 +7,7 @@ category: concept
 
 The vision of Public Offices is derived from observations and analyses of the contemporary labor market, characterized by increasing flexibility, mobility, and precarity. Starting from the notion of "workplacelessness", it addresses the role of, and right to, workplace communality and democratic access to work and cooperative knowledge production. Further, the idea is situated in issues of local urban development, where we propose that public meeting places for knowledge sharing through work can play a key role in local sustainable development. In this section we address and develop these starting points and perspectives. 
 
-## changes in the labour market {#changes_in_the_labour_market}
+## Changes in the labour market {#changes_in_the_labour_market}
 
 The contemporary labour markets are changing, and today there are obvious trends towards a growing proportion of freelance workers, short-term employees and one-person firms. Individuals and businesses are more geographically mobile than ever before, and with new communication technologies, work can be done at any time and from anywhere.
   
@@ -26,7 +26,7 @@ Belonging to a community could be understood as essential for constructing an im
 Working side by side, without necessarily working on the same project, is a good way to build skills, exchange information and access feedback, advice and support. In a time when most professionals spend much of their time behind a computer and in digital environments, it is important to stress the significance of a spatial community; to take a break together with others, to discuss current issues as well as business and project ideas.
 
 
-## public meeting places and the right to work {#public_meeting_places_and_the_right_to_work}
+## Public meeting places and the right to work {#public_meeting_places_and_the_right_to_work}
 
 In the contemporary welfare state, public spaces are provided, protected or subsidized – spaces where people can meet, sit down, take a walk, engage in educational and cultural activities etc. – without requiring a financial transaction in a direct sense. These spaces and places form an infrastructure that promotes equal opportunities for knowledge, culture, leisure and mobility.
 
@@ -34,7 +34,7 @@ Public places have the potential, through their availability, to create environm
 
 > "The right to work is not an unconditional right to a job, but an obligation on states to take measures designed to eliminate unemployment. Everyone has the right to just and favourable conditions of work, including remuneration that is reasonable and sufficient to provide families with an existence worthy of human dignity, and to equal pay for equal work. In addition, everyone should have secure and healthy working conditions and opportunities for promotion." [(2)](#footnotes){#foot2}
 
-## public meeting places in local development {#public_meeting_places_in_local_development}
+## Public meeting places in local development {#public_meeting_places_in_local_development}
 
 Many cities and municipalities have realized the need for different types of forums and meeting places, a need that is created in part by the increased mobility of people and businesses. Many municipalities are actively working to identify and develop strategies to create different types of contemporary meeting places. These venues are considered by many to be crucial for developing the local environment and make it more attractive. [(3)](#footnotes){#foot3} 
   
