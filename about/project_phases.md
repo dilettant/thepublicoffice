@@ -9,7 +9,7 @@ The idea of The Public Office has developed in different forms and articulations
 
 In this section you can read more about the forms, collaborators and funders of the different project phases.
 
-## Phase I {#phase_1}
+## Phase I {#phase_I}
 
 The Public Office, Phase I, was initiated and managed by Anders Jacobson and Johan Thelander, of Dilettant AB. Meetings were held with a number of actors in the fields of cultural policy, public administration, urban development and architecture. Further discussions with artists, entrepreneurs, academics and students have taken place in open contexts, such as workshops and festivals. The resulting project report constitutes the basis for further work on the concept.  
 
@@ -18,7 +18,7 @@ Project duration: 1 November 2011 – 1 June 2012
 Supported by   
 ![Kulturbryggan](http://allmannakontoret.se/assets/img/kb.png)
 
-## Phase II {#phase_2}
+## Phase II {#phase_II}
 
 The second and current phase aims to open up the research process and to practically try out the concept of a Public Office. Between 30 October–30 November 2012, a temporary Public Office will be open at The Swedish Museum of Architecture in Stockholm. Those who come to use the office are welcome to work independently or in groups, study, organize lectures, conversations, exchange ideas, make contacts and so on.  
 
@@ -30,7 +30,7 @@ The project is part of the EU project [Special Issue](http://specialissue.eu), w
 
 ![samarbete](http://allmannakontoret.se/assets/img/logos.png)
 
-## Phase III {#phase_3}
+## Phase III {#phase_III}
 
 The Public Office is an Open Source initiative, which means that one of the goals is that public offices should be initiated, jointly owned, operated and modified by local actors on their own initiative. To clarify the conditions under which this can be done, we must, like other Open Source initiative clarify this in a kind of "license", where clear guidelines and terms of use are articulated to provide support, experience and framework for initiators.
 
