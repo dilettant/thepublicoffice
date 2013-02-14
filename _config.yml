@@ -45,7 +45,7 @@ menu_main:
 # ABOUT
 # -----
 menu_about:
-  - Team
+  - team
   - philosophy:
     - Cooperation
     - Commons
@@ -59,7 +59,7 @@ menu_about:
 # CONCEPT
 # ------
 menu_concept:
-  - Summary
+  - summary
   - starting_points_and_perspectives:
     - Changes_in_the_labour_market
     - Public_meeting_places_and_the_right_to_work
