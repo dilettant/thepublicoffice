@@ -11,7 +11,7 @@ In this section you can read more about the forms, collaborators and funders of 
 
 ## Phase I {#phase_i}
 
-The Public Office, Phase I, was initiated and managed by Anders Jacobson and Johan Thelander, of Dilettant AB. Meetings were held with a number of key stakeholders in the fields of cultural policy, public administration, urban development and architecture. Further discussions with artists, entrepreneurs, academics and students have taken place in open contexts, such as workshops and festivals. The resulting project report constitutes the basis for further work on the concept.  
+The Public Office, Phase I, was initiated and managed by Anders Jacobson and Johan Thelander, of Dilettant AB. Meetings were held with a number of key stakeholders in the fields of cultural policy, public administration, urban development and architecture. Further discussions with artists, entrepreneurs, academics and students have taken place in open contexts such as workshops and festivals. The resulting project report has constituted the basis for further work on the concept.  
 
 Project duration: 1 November 2011 – 1 June 2012    
 
