@@ -48,4 +48,4 @@ The Public Office is an Open Source initiative, which means that one of the goal
 
 Phase III is currently under development and will result in applicable and evaluable guidelines and terms of use for starting local public offices in different forms, and a plan for collaboration on concrete testing activities in conjunction with the Stockholm City Library.
 
-Module III will primarily be conducted in the form of dialogue meetings, interviews, workshops, lectures (two of which will be public), field trips, literature and text production. The results will be made ​​available in digital and printed form.
+Phase III will primarily be conducted in the form of dialogue meetings, interviews, workshops, lectures (two of which will be public), field trips, literature and text production. The results will be made ​​available in digital and printed form.
