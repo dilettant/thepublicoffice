@@ -44,7 +44,7 @@ Delmoment II was supported by the Culture Programme of the European Union, Kultu
 
 ## Phase III {#phase_iii}
 
-The Public Office is an Open Source initiative, which means that one of the goals is that public offices should be initiated, jointly owned, operated and modified by local actors on their own initiative. To clarify the conditions under which this can be done, we must, like other Open Source initiative clarify this in a kind of "license", where clear guidelines and terms of use are articulated to provide support, experience and framework for initiators.
+The Public Office is an Open Source initiative, which means that one of the goals is that Public Offices should be initiated, jointly owned, operated and modified by local actors on their own initiative. To clarify the conditions under which this can be done, we must, like other Open Source initiative clarify this in a kind of "license", where clear guidelines and terms of use are articulated to provide support, experience and framework for initiators.
 
 Phase III is currently under development and will result in applicable and evaluable guidelines and terms of use for starting local public offices in different forms, and a plan for collaboration on concrete testing activities in conjunction with the Stockholm City Library.
 
