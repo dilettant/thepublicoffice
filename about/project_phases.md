@@ -20,13 +20,25 @@ Supported by
 
 ## Phase II {#phase_ii}
 
-The second and current phase aims to open up the research process and to practically try out the concept of a Public Office. Between 30 October–30 November 2012, a temporary Public Office will be open at The Swedish Museum of Architecture in Stockholm. Those who come to use the office are welcome to work independently or in groups, study, organize lectures, conversations, exchange ideas, make contacts and so on.  
+Phase II took place in autumn 2012 in collaboration with The Swedish Museum of Architecture, the EU project Special Issue, Offecct AB and Fabel Kommunikation AB. The project team consisted of Anders Jacobson, Myriam Mazzoni, Victor Saiz & Johan Thelander. The office was designed by Marie de France, Anna Ingebrigtsen and Sam Kennedy, and the project graphic design was done by Alba Plaza.
 
-The project team consists of Anders Jacobson, Myriam Mazzoni, Victor Saiz & Johan Thelander. Throughout the period, the team will continue developing the concept of public offices, along with invited guests and interested users. Starting from three main topics – *Work*, *Sustainable development*, and *Political dimensions* – we invite politicians and civil servants, researchers, architects, city planners, artists and representatives of libraries and housing companies, to critically explore the concept's potential and political viability.  
+In the second phase, we opened up the process by hosting a temporary Public Office at the Museum of Architecture for five weeks, and by inviting key stakeholders to dialogue meetings around the idea. For example, we met:
 
-The Public Office, Phase II, is run by Dilettant AB in collaboration with The Swedish Museum of Architecture, the EU project Special Issue and Fabel Kommunikation AB, with financial support from the Culture Programme of the European Union, Kulturbryggan, The Swedish Museum of Architecture and the City of Stockholm.  
+* Karin Bradley, assistant professor at Dep. for Urban & Regional Studies, KTH
+* Charlotta Mellander, professor of economics
+* Faaid Ali-Nuur Ahmed, Förorternas Riksdag (Forix)
+* Madeleine Sjöstedt (fp), mayor of culture and real estate, Stockholm
+* Berit Högberg (s), member of parliament
+* Ann-Margarethe Livh (v), group leader Stockholm
+* Åsa Jernberg (mp), group leader Stockholm
+* Roland Paulsen, PhD of sociology
+* Patrik Liljegren, Stockholm Culture Department
+* Elisabeth Aldstedt & Giovanna Jörgenssen, Stockholms Stadsbibliotek
+* Niklas Svensson, strategist for city development.
 
-The project is part of the EU project [Special Issue](http://specialissue.eu), with partners in France, Serbia, Spain and Turkey. Special Issue focuses on the publication of discursive practices in the arts sector, and is coordinated by Les Laboratoires d'Aubervillier, Paris.  
+236 unique users came to work in the office during these five weeks, and a further 130 people came to learn more about the idea. General office space and concept was met with great curiosity of disparate actors who took an active interest in starting up public office in the future.
+
+Delmoment II was supported by the Culture Programme of the European Union, Kulturbryggan, The Swedish Museum of Architecture and the City of Stockholm, and was a part of the EU project [Special Issue](http://specialissue.eu), with partners in France, Serbia, Spain and Turkey. 
 
 ![samarbete](http://allmannakontoret.se/assets/img/logos.png)
 
