@@ -36,7 +36,7 @@ In the second phase, we opened up the process by hosting a temporary Public Offi
 * Elisabeth Aldstedt & Giovanna Jörgenssen, Stockholms Stadsbibliotek
 * Niklas Svensson, strategist for city development.
 
-236 unique users came to work in the office during these five weeks, and a further 130 people came to learn more about the idea. General office space and concept was met with great curiosity of disparate actors who took an active interest in starting up public office in the future.
+236 unique users came to work in the office during these five weeks, and a further 130 people came to learn more about the idea. The Public Office space and concept was met with great curiosity from disparate actors who took an active interest in starting up Public Offices in the future.
 
 Delmoment II was supported by the Culture Programme of the European Union, Kulturbryggan, The Swedish Museum of Architecture and the City of Stockholm, and was a part of the EU project [Special Issue](http://specialissue.eu), with partners in France, Serbia, Spain and Turkey. 
 
