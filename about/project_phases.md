@@ -28,6 +28,9 @@ More than two hundred people came to use the public office during the five weeks
 
 Delmoment II was supported by the Culture Programme of the European Union, Kulturbryggan, The Swedish Museum of Architecture and the City of Stockholm, and was a part of the EU project [Special Issue](http://specialissue.eu), with partners in France, Serbia, Spain and Turkey. 
 
+Project duration: 1 June 2012 – 28 February 2013
+
+Supported by  
 ![Logos the Culture Programme of the European Union, Kulturbryggan, Offecc AB, The Swedish Museum of Architecture and the City of Stockholm](http://allmannakontoret.se/assets/img/logos.png)
 
 ## Phase III {#phase_iii}
