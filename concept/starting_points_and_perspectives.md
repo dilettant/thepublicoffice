@@ -1,3 +1,10 @@
+---
+layout: global
+title: Starting points and perspectives.md
+ref: starting_points_and_perspectives
+category: concept
+---
+
 The vision of The Public Office is derived from observations and analyses of the contemporary labour market, characterized by increasing flexibility, mobility – and precarity. Starting from the notion of “workplacelessness”, it addresses the role of, and right to, workplace communality and democratic access to work and cooperative knowledge production. Further, the idea is addresses issues of local urban development, where we propose that public meeting places for knowledge sharing through work can play a key role in local development, as well as regarding health and environment. In this section we address and develop these starting points and perspectives. 
 
 ## Changes in the labour market {#changes_in_the_labour_market}
