@@ -61,44 +61,52 @@ It should also be possible for a local government and municipal institutions, su
 
 * basic access and activities shall be free of charge, open to the public and not restricted to certain groups
 
-* the openness of the site is regulated, similar to libraries, through clarifications on respectful conduct, such as prohibition against discrimination, violence, threats, drugs and alcohol
+* the openness of the site is regulated, similar to libraries, through Terms of Use and clarifications on respectful conduct, such as prohibition against discrimination, violence, threats, drugs and alcohol
 
-* activities are to be designed in close dialogue with the local civil society, businesses and cultural life, and the site's users shall be offered opportunities to make proposals for activities and functions
+* activities are to be designed in close dialogue with the local civil society, businesses and cultural life, and the users shall be offered opportunities to make proposals for activities and functions
 
-* the Public Offices shall have staff with the capacity and skills to welcome and assist users, and who are able to evaluate and develop the daily operations and business form
+* the Public Offices shall have staff with the capacities and skills to welcome and assist users, and who are able to evaluate and develop daily operations and organizational matters
 
-* the premises must be suitable for persons with disabilities
+* the premises must be accessible for persons with disabilities
 
 * activities shall be designed according to local needs and opportunities, and engage in context-specific efforts to ensure both general accessibility and exchange, as well as a good working environment
 
-* activities shall at every level, consider aspects of sustainable development and long term use of resources 
+* at every level, activities shall consider aspects of sustainable development and long term use of resources
 
-* a diversity of staff and decision-making bodies should be sought; in terms of sex, gender identity or gender expression, ethnicity, religion or creed, culture, functionality, sexual orientation and age
+* a diversity of staff and decision-making bodies should be sought; in terms of sex, gender identity or gender expression, ethnicity, religion or creed, culture, functionality, sexual orientation and age 
 
 * the Public Offices are to facilitate and help all users to meet, support and allow each other to use the site and its functions.
 
 ## Forms of funding {#forms_of_funding}
 
-How each individual Public Office is financed will likely take different forms, but the idea is based on the existence of a public commitment that enables the operation. In some places it will be possible to produce revenue, set up local partnerships with businesses, etc.. We also see opportunities for housing companies and property owners to gain interest in leasing premises inexpensively or lending them for free for periods of time, while other situations will require a comprehensive public funding support.
-  
-This means that the proposal, to achieve a broad impact, requires a political condition where financial support for The Public Office can be applied for in a similar manner as activity support for cultural businesses. The support structures need – to a greater extent than is currently the case for cultural activities – to guarantee serious long-term planning to secure professional operation.
-  
-Reasonably, the primary financial responsibility should be placed on local/municipal authorities, with support from the state policy level. It is also possible to envisage that the project is initiated from the state level, in the form of a governmental investigation or an official commission of cooperation between relevant authorities and agencies.
+How each individual Public Office is financed will likely take very different forms. We believe it should be possible to run Public Offices in both public, private and cross-sectoral forms of operation and financing.
+
+The Public Offices can be long-term projects, but also temporary locations that activate and stimulate an environment for a shorter period of time. The goal is a wide variety of Public Offices. An important aspect of the term “public” or common, is the ability of local actors and office users to initiate and develop the activities along with specific local conditions.
+
+The idea of a democratically available infrastructure is based in part on the existence of a political public sector commitment that enables precisely an infrastructure on a larger scale, and in locations with varying conditions. In some places it might be possible to finance activities through local partnerships with housing companies and businesses, while other situations will require a comprehensive public funding.
+
+This means that the proposal, in order to achieve a broad impact, requires a political situation where development and operational support for Public Offices can be applied for in a similar manner as activity support for cultural activities, business development, or public procurement. These supports should be characterized by a serious, advanced planning to ensure continuity and professionalism, but also flexibility for initiatives focused on temporary locations.
+
+Further, it is possible to imagine private and civil society actors that open up their facilities to the public as part of their social responsibility (CSR), and as a way to provide a creative workplace. While a political commitment is a cornerstone of the proposal, it is important to emphasize that the concept is a proposal for collaboration between different economies and actors.
 
 ### The issue of competition with existing businesses
 
-The idea of The Public Office has been met with questions regarding competition problems. A criticism sometimes brought forward, is that The Public Office would make it difficult for existing players who lease workspaces on a commercial basis.
-  
-The conclusion of this report, regarding the question of possible distortions of competition, is that all types of public investment affects, facilitates and interacts with different markets. In the end, these are political decisions concerning which infrastructure the community should provide all citizens.
+The idea of The Public Office has sometimes been met with questions regarding competition problems. One criticism brought forward was that The Public Office would make it difficult for existing players who lease workspaces on a commercial basis.
+
+Our conclusion regarding the question of possible distortions of competition, is that all types of public investment affects, facilitates and interacts with different markets. It's difficult or impossible to draw clear lines of how different economic and political initiatives stimulate or limit parts of the economy as a whole.
+
+In the end, these are political decisions concerning which infrastructure the community should provide for all. Some municipalities offer free public transport, most offer free or subsidized culture, and the state supports corporate business and product development. Some municipalities are designing privatization and public procurement of health care in ways that make it impossible for a staff-run cooperative to give a less costly offer than a large corporation. Given this complexity, it would be oversimplified and fallacious to unilaterally claim that public funding of collective services such as Public Offices would be negative from the perspective of fair competition.
+
+In the same way as book sales are in no way negatively affected by the libraries, nor private gyms by public outdoor gyms, we believe that these open spaces will not reduce the need for offices in general. We are confident that the Public Office as an institution above all would have positive economic effects, which, if properly designed, can both stimulate the economy (by reducing transaction costs for labour, small business and social engagement) and contribute to sustainability (by promoting resource sharing and knowledge development). We regard The Public Office as a public good and an investment that both promotes equality and economic sustainability. 
 
 
 ## Form and content of the activities {#form_and_content_of_the_activities}
 
 The aim is that the different Public Offices in total can provide a variety of environments that can attract different user groups, and in this regard it is important to grant the offices a significant degree of freedom to develop specificities.
-  
-The activities should be rooted in local and context-specific needs and opportunities. Some Public Offices may have regularly organized activities, and conduct specific activities based on an analysis of the context, while other offices may invite users to self-organize events such as lectures, reading groups, etc.. In some contexts it may also be advantageous to coexist with, or host, other types of activities run by local players, such as clothing and tool libraries, free stores, networking initiatives and so on.
-  
-The idea of The Public Office is essentially about taking advantage of existing flows and resources; people's movements in a specific area, entrepreneurs and employees working separately in their homes, the voluntary sector and municipal activities. We therefore see an advantage for local development if a substantial share of the Public Office employees and decision-making groups etc., reside in the area. This is to promote stronger local ties as well as to facilitate encounters between different cultural groups in a particular area. 
+
+The activities should be rooted in local and context-specific needs and opportunities. Some Public Offices may have activities organized by the staff or the municipality, and conduct specific activities based on an analysis of the context, while in other offices users may self-organize events such as lectures, reading groups, etc.. In some contexts it may also be advantageous to coexist with, or host, other types of activities run by local players, such as clothing and tool libraries, free stores, networking initiatives and so on.
+
+The idea of The Public Office is essentially about taking advantage of existing flows and resources; people’s movements in a specific area, entrepreneurs and employees working separately in their homes or spending hours commuting, the non-profit sector and municipal activities. We therefore see an advantage for local development if a substantial share of the Public Office employees and decision-making groups etc., reside in the respective area. This is to promote stronger local ties as well as to facilitate encounters between different cultural groups in a particular area.
 
 
 <hr id="footnotes"/>
