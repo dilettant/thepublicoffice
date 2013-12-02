@@ -3,6 +3,7 @@ layout: global
 title: project phases
 ref: project_phases
 category: about
+published: true
 ---
 
 The idea of The Public Office has developed in different forms and articulations since 2006. In 2011, the concept was formulated and launched in the form of a long-term research project.   
@@ -34,8 +35,6 @@ Supported by
 ![Logos the Culture Programme of the European Union, Kulturbryggan, Offecc AB, The Swedish Museum of Architecture and the City of Stockholm](http://allmannakontoret.se/assets/img/logos.png)
 
 ## Phase III {#phase_iii}
-Phase III is currently under development and will result in applicable and evaluable guidelines and terms of use for starting local public offices in different forms, and a plan for collaboration on concrete testing activities in conjunction with the Stockholm City Library.
+Phase III is carried out in cooperation with Stockholm Public Library, within the frames of a new "Learning Center" in the suburb of Hässelby gård. The space, which will open in 2014, will include a library, culture school for youth, unemployment services and civic service. During the project period, we will identify the conditions and opportunities of The Public Office within the Learning Center, as well as make applications for a more long-term financing to realize a try-out period in Hässelby gård.
 
-This phase will primarily be conducted in the form of dialogue meetings, interviews, workshops, lectures (two of which will be public), field trips, literature and text production. The results will be made ​​available in digital and printed form.
-
-The Public Office is an Open Source initiative, which means that one of the goals is that Public Offices should be initiated, jointly owned, operated and modified by local actors on their own initiative. To clarify the conditions under which this can be done, we must, like other Open Source initiative clarify this in a kind of "license", where clear guidelines and terms of use are articulated to provide support, experience and framework for initiators.
+Project duration: 22 November-31 December, 2013
