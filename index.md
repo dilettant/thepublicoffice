@@ -4,12 +4,12 @@ ishome: true
 noMenu: true
 main: true
 title: the public office
-intro: The Public Office is a vision of open and rent-free work and meeting places
+intro: Local meeting places for shared knowledge
 ref: index
 category: index
 pics: [index1.png, index2.png, index3.png]
 ---
 
-The Public Office is a long-term development project that seeks to articulate an idea of open and rent-free work and meeting places, where the public is given the opportunity to engage in work and further education. During several project phases, we explore the concept's possibilities and potential functions in an increasingly mobile labor market, as well as in urban planning and local community development, business development and integration.
+The Public Office is a vision if open and rent-free meeting places where people can engage in self-organized activities, work and education. We are currently collaborating with The Stockholm City Libraries on a plan for starting up a first Public Office in the library in Hässelby gård. 
 
-This site is where we develop and share the research of the concept. Feel free to contact us, and to contribute by sending feedback and comments, reporting bugs, and by spreading the word.
+Sign up for the newsletter if you'd like to stay updated on the progress of the project!
