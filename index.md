@@ -1,15 +1,16 @@
 ---
-layout: global
+layout: coming-soon
 ishome: true
 noMenu: true
 main: true
-title: the public office
-intro: Local meeting places for shared knowledge
+title: The public office
+intro: "Local meeting places for share knowledge"
 ref: index
 category: index
-pics: [index1.png, index2.png, index3.png]
 ---
 
-The Public Office is a vision if open and rent-free meeting places where people can engage in self-organized activities, work and education. We are currently collaborating with The Stockholm City Libraries on a plan for starting up a first Public Office in the library in Hässelby gård. 
+##Local meeting places for share knowledge
 
-Sign up for the newsletter if you'd like to stay updated on the progress of the project!
+During Fall 2015, we are hoping to open a first Public Office in Hässelby gård (Stockholm), together with The Stockholm Public Libraries. Do you want to know more, or engage in the project? Sign up here, and we'll get back to you. 
+
+Read more about [the vision of The Public Office!](http://thepublicoffice.se/home.html)

@@ -1,0 +1,98 @@
+<!doctype html>
+
+<!--[if lt IE 7 ]> <html class="ie ie6 no-js" lang="en"> <![endif]-->
+<!--[if IE 7 ]>    <html class="ie ie7 no-js" lang="en"> <![endif]-->
+<!--[if IE 8 ]>    <html class="ie ie8 no-js" lang="en"> <![endif]-->
+<!--[if IE 9 ]>    <html class="ie ie9 no-js" lang="en"> <![endif]-->
+<!--[if gt IE 9]><!--><html class="no-js" lang="{{site.lang}}"><!--<![endif]-->
+<!-- the "no-js" class is for Modernizr. -->
+<head>
+  <title>{{site.title}}</title>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="title" content="{{site.title}}">
+  <meta name="description" content="{{site.description}}">
+  <meta name="author" content="{{site.author}}">
+  <meta name="Copyright" content="{{site.copyright}}">
+
+  <!-- Dublin Core Metadata : http://dublincore.org/ -->
+  <meta name="DC.title" content="{{site.title}}">
+  <meta name="DC.subject" content="{{site.description}}">
+  <meta name="DC.creator" content="{{site.author}}">
+
+  <link rel="shortcut icon" href="{{site.assetsurl}}/assets/img/favicon.png">
+  <link rel="apple-touch-icon" href="{{site.assetsurl}}/assets/img/touch-icon.png">
+
+  <link rel="stylesheet" href="{{site.assetsurl}}/assets/css/reset.css" />
+  <link href="http://fonts.googleapis.com/css?family=Josefin+Slab:400,700" rel="stylesheet" type="text/css">
+  <link href="http://fonts.googleapis.com/css?family=Lora:700,400italic,700italic" rel="stylesheet" type="text/css">
+  <script src="{{site.assetsurl}}/assets/js/modernizr-1.7.min.js"></script>
+  <link rel="stylesheet" href="{{site.assetsurl}}/assets/css/coming-soon.css" />
+
+</head>
+<body class="{{page.category}}">
+<div class="page">
+  <header class="header" role="banner">
+    <a href="{{site.baseurl}}" class="header__logo"><img alt="{{site.title}}" src="{{site.assetsurl}}/assets/img/logo_en.png" /></a>
+  </header>
+  <div role="main" class="main">
+    {{content}}
+    <section class="newsletter">
+      <form action="//dilettant.us9.list-manage.com/subscribe/post?u=ac24df0b855ca67fff3eba7ac&amp;id=899609f280" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form" novalidate>
+        <h1 class="element-invisible">{{site.newsletter}}</h1>
+        <div class="form__item">
+          <label for="mce-FNAME">First name:</label>
+          <input type="text" value="" name="FNAME" class="form__text" id="mce-FNAME">
+        </div>
+        <div class="form__item">
+          <label for="mce-LNAME">Last name:</label>
+          <input type="text" value="" name="LNAME" class="form__text" id="mce-LNAME">
+        </div>
+        <div class="form__item">
+          <label for="mce-EMAIL">Email:</label>
+          <input type="email" value="" name="EMAIL" class="required form__text" id="mce-EMAIL" required>
+        </div>
+        <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+        <div style="position: absolute; left: -5000px;"><input type="text" name="b_ac24df0b855ca67fff3eba7ac_899609f280" tabindex="-1" value=""></div>
+        <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="form__submit">
+      </form>
+    </section>
+  </div>
+  <footer role="contentinfo" class="footer">
+    <section class="footer__first">
+      <h1><a href="http://dilettant.se">Dilettant</a></h1>
+        {% for f in site.categories.footermain reversed %}
+          {{f.content | markdownify}}
+        {% endfor %}
+      </section>
+      <section class="footer__second">
+        <h1>{{site.support}}</h1>
+        <ul>
+          <li><a class="github" href="{{site.githubrepourl}}">Github</a></li>
+          <li><a class="flattr" href="{{site.flattrurl}}">Flattr</a></li>
+        </ul>
+      </section>
+      <section class="footer__third">
+        <h1>{{site.connect}}</h1>
+        <ul>
+          <li><a class="twitter" href="https://twitter.com/_dilettant">Twitter</a></li>
+          <li><a class="facebook" href="https://www.facebook.com/pages/Dilettant/348667654399">Facebook</a></li>
+        </ul>
+      </section>
+    </footer>
+</div>
+<script src='{{site.assetsurl}}/assets/js/jquery-1.5.1.min.js'></script>
+<script src="{{site.assetsurl}}/assets/js/app.js"></script>
+<!-- Piwik -->
+<script type="text/javascript">
+var pkBaseURL = (("https:" == document.location.protocol) ? "https://hybriskonst.org/piwik/" : "http://hybriskonst.org/piwik/");
+document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script type="text/javascript">
+try {
+var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 1);
+piwikTracker.trackPageView();
+piwikTracker.enableLinkTracking();
+} catch( err ) {}</script>
+<noscript><img src="http://hybriskonst.org/piwik/piwik.php?idsite=1" style="border:0" alt="" /></noscript>
+</body>
+</html>
