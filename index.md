@@ -11,6 +11,6 @@ category: index
 
 ##Local venues for shared knowledge
 
-During Fall 2015, we are hoping to open a first Public Office in Hässelby gård (Stockholm), together with The Stockholm Public Libraries. Do you want to know more, or engage in the project? Sign up here, and we'll get back to you. 
+Hey! We're currently in contact with cultural institutions, property owners, architects, researchers, businesses and politicians about the potential of meeting places based on local participation. So far, no long-term public offices have been established, but if you want to know more, collaborate or get involved in the project – sign up for the newsletter or contact us.
 
 Read more about [the vision of The Public Office!](http://thepublicoffice.se/home.html)
